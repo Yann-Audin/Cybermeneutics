@@ -1,0 +1,13 @@
+---
+title: "Blog"
+listing:
+  contents: posts/*.qmd
+  sort: "date desc" # Sort posts by date, newest first
+  type: default     # Use the default listing layout
+  fields: [title, date, author, categories, description]
+  feed: true        # Enable RSS feed for the blog
+  page-size: 10     # Number of posts per page
+  grid-columns: 1   # Display posts in a single column
+---
+
+This page collects my reflections on various sujects loosely related to my thesis. Comments -- either with [Hypothesis](https://web.hypothes.is/) or by [email](mailto:yann.audin@umontreal.ca) -- are welcome as this blog represents preliminary work rather than anything definitive. 

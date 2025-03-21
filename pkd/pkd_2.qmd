@@ -1,0 +1,43 @@
+---
+title: "Why Philip K. Dick?"
+author: "Yann Audin"
+date: "2025-01-21"
+categories: ["Philip K. Dick Project", "Cybermeneutics"]
+tags: ["Philip K. Dick"]
+format:
+  html:
+    toc: true
+    number-sections: true
+    code-fold: true
+description: "A brief description of the post for SEO and previews."
+draft: true # Set to false when ready to publish
+---
+
+I am attracted by a specific form of literary brokenness. 
+The kind of brokenness that makes me glad that I don't have what it takes to be the tortured artist. 
+Philip K. Dick is one such author who transformed the misery of life into literary truth: he synthetized wisdom about the world and beyond in silly science-fiction books who are only silly because they are classified as science-fiction. 
+But Dick did not write science-fiction, he wrote reports. 
+If he had not been born in the USA and in the 20s, his work would be studied in the same way as Borges or Sartre. 
+But then, if he had not been born in the USA and in the 20s, Philip K. Dick would not be Philip K. Dick. 
+
+Thinking about Dick reminds me of how I think of academia: to give someone the space to think and write makes them a nexus for the societies they inhabit. 
+The pressures of the World Wars and the Cold Wars, of the blooming of psychology, the rediscovery of ancient Christian texts, post-war interests in psychoanalysis and esoterism, California's drug culture, military experiemnts with LSD, the rise of no-fault divorce in the US, the boom of pulp sci-fi, the post-truth mediatic turn, quantum mechanics and cosmology, the space race, first serious talks of artificial intelligence, the Bomb, []... Philip K. Dick captured all of it and more. 
+
+## So, Why Philip K. Dick? 
+
+Part of it is simply that I grew up reading his stories and still do enjoy them, although that is not enought to warrant a research blog.
+Another part of it is my fascination with the literary character that is Philip K. Dick and the improbable life he lead as well as the impact he still has on us to this day. 
+But then again, that does not explain why I should write about him today, because the real reason is deeper and, I am afraid, more sinister. 
+Like Albert Camus, Margaret Atwood, Samuel Beckett, and other literary philosophers, Philip K. Dick doesn't simply write.
+He is not bound by aesthetic or storytelling, is main thesis is not political^[Although it should be remembered that he wrote extensively on the Cold War, the threat nuclear war, authoritarianism, communism, late stage capitalism and fascism.], nor is it aspirational.
+No, Philip K. Dick has a philosophy about the nature of reality that encompasses many of the troubles, both social and political, of our current age.
+
+> So I ask, in my writing, What is real? Because unceasingly we are bombarded with pseudorealities manufactured by very sophisticated people using very sophisticated electronic mechanisms. I do not distrust their motives; I distrust their power. They have a lot of it. And it is an astonishing power: that of creating whole universes, universes of the mind. I ought to know. I do the same thing. (How To Build A Universe That Doesn't Fall Apart Two Days Later, Philip K. Dick 1978)
+
+Moreover, the genre of science-fiction allowed him to adress issues that did not even exist during his time that are not central to our current era. 
+
+The fact that PKD presented his work as a reflexion on the nature of reality and mankind warrants greater academic attention, which this blog will hopefully contribute to^[On that matter, I blame the bias against science-fiction: the *serious* literary scene does not discuss it and reduces it to laser guns and aliens. (Do not take me wrong, I like laser guns and aliens as much as the next 30 years old man who's first memory of going to the cinema is seeing *Star Wars: The Phantom Menace* with their dad.) If I don't think that an apology of science-fiction is necessary, I might put in word my **strong** feelings on the matter in the future.]. 
+But the main and central reason why I personally decided to write about Philip K. Dick is that I was, long ago, infected by his ideas. 
+
+> To fight the Empire is to be infected by its derangement ... Whoever defeats the Empire becomes the Empire; it proliferates like a virus ... thereby it becomes its enemies. (Philip K. Dick, Valis 1981)
+

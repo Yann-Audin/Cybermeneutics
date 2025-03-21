@@ -1,0 +1,25 @@
+---
+title: "Here be Dragons"
+author: "Yann Audin"
+date: "2025-02-10"
+categories: ["Semiotics", "Epistemology"]
+tags: ["Blog"]
+format:
+  html:
+    toc: true
+    number-sections: true
+    code-fold: true
+description: "A brief description of the post for SEO and previews."
+draft: true # Set to false when ready to publish
+---
+
+> Gave a visiting PI a tour of our lab and equipment....later we had some coffee.
+> 
+> During our chat he fondly described his former PhD student in the following way....
+> "Advising him was more like riding on the back of a fire breathing dragon trying to hold on for dear life."
+> 
+> Whoever this PhD student was, he's my new role model. Lets be dragons.
+>     - [Reddit user ori3333](https://www.reddit.com/r/PhD/comments/zb3pqd/here_be_dragons/)
+
+## I am no dragon
+

@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Cybermeneutics"
+  navbar:
+    left:
+      - text: About the Author
+        href: about.qmd
+      #- text: Blog
+      #  href: blog.qmd
+      - text: Philip K. Dick Project
+        href: PKD.qmd
+        
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
