@@ -1,7 +1,7 @@
 ---
 title: "Who is Philip K. Dick?"
 author: "Yann Audin"
-date: "2025-01-21"
+date: "2025-03-21"
 categories: ["Philip K. Dick", "Biography"]
 tags: ["Philip K. Dick"]
 format:
