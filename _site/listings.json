@@ -1,0 +1,13 @@
+[
+  {
+    "listing": "/PKD.html",
+    "items": []
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/post_1.html",
+      "/posts/post_2.html"
+    ]
+  }
+]
