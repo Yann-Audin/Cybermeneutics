@@ -9,7 +9,7 @@ format:
     toc: true
     number-sections: true
     code-fold: true
-description: "A brief description of the post for SEO and previews."
+description: "A biography of Philip K. Dick"
 draft: false # Set to false when ready to publish
 bibliography: references.bib
 link-citations: true
@@ -30,7 +30,7 @@ His time at the University of California was exceptionally short; he did not hav
 He studied philosophy and then theology on his own, and began writing science-fiction full-time in 1951 [@dick_build_1978].
 Although he tried to branch out from science-fiction in the late 50s and early 60s, only one of his non science-fictional works was ever published.
 Dick's body of work is extensive and far reaching: it was republished many times, translated in 25 languages (according to Paul Williams who acted as the executor for his literary estate), and adapted to theatre, television and cinema.
-Despite his literary success, Dick's life was [TODO]. 
+Despite his literary success, Dick lived a difficult life. 
 In an untitled short story sent to a young Daniel Gilbert in September 1978, the main character (named Philip K. Dick^[Dick often stages himself in his novels, either as Philip, Phil and even as Horselover.]) describes himself:
 
 > "I may have been a success as a writer," he continued, "but what does that matter really? Living alone year after year in a rented room, paying off the I.R.S. and my endless child support, waiting vainly for the right girl, the girl who, when she finally showed up, merely laughed at me." Tears filled his eyes. "Being a giant of science fiction is not all that much," he rasped. "It's like Goethe said: the peasant with his hearth and wife and children is happier than the greatest philosopher."
@@ -49,10 +49,7 @@ One such vision led him to convert to Anglicanism in 1964 [@dick_search_1995 ; @
 
 > I looked up in the sky and saw a face[,] a vast visage of perfect evil [...]. It had empty slots for eyes -- it was metal and cruel and, worst of all, it was God. [@dick_minority_2002]
 
-Dick would later explain the vision as the result of an 8-hour writing session that acted as a form of sensory deprivation, but his conversion and his subsequent interest towards theology -- Christian, Gnostic, Jewish, etc. -- marked his writing and the way he experienced the world.
-
-[TODO]
-According to Nancy Hackett, his fourth wife and mother of his second daughter Isa:
+Dick would later explain the vision as the result of an 8-hour writing session that acted as a form of sensory deprivation, but his conversion and his subsequent interest towards theology -- Christian, Gnostic, Jewish, etc. -- marked his writing and the way he experienced the world. Experiences such as this one contributed to his reputation as a drug user, but according to Nancy Hackett, his fourth wife and mother of his second daughter Isa:
 
 > When Philip was married to me, he never wrote except when he needed money. Then he would write a novel in six days by using amphetamines. [@dick_search_1995]
 
@@ -76,7 +73,7 @@ In this world, the "Empire never ended" [@dick_valis_1981] and Philip K. Dick wa
 
 > But the core of the difficult truths that Phil held dear in his last years lay in 2-3-74. No one can pass upon the unanswerable question: Were those events real? Phil himself had no doubt that something had happened, though he always retained as a possibility--as his friend and fellow SF writer K. W. Deter observes-the "minimum hypothesis" that they were self-delusion. [@sutin_divine_2005]
 
-In February and March of that year, Dick continued to experience visions which he attempted to describe, understand and analyse in journals that would, in the end, amount to more than 8000 pages, some manuscript and others typed on his typewriter [@TODO].
+In February and March of that year, Dick continued to experience visions which he attempted to describe, understand and analyse in journals that would, in the end, amount to more than 8000 pages, some manuscript and others typed on his typewriter [@itzkoff_exegesis_2010].
 These visions shaped and informed Dick's writing; his last novels *Radio Free Albemuth*, *VALIS*, *The Divine Invasion* and *The Transmigration of Timothy Archer* all focus on his religious experience and the pink beam of light.
 
 > A beam of pink light blinded him; he felt dreadful pain in his head, and clapped his hands to his eyes. I am blind! he realized. With the pain and the pink light came understanding, an acute knowledge; he knew that Zina was not a human woman, and he knew, further, that the boy Manny was not a human boy. This was not a real world he was in; he understood that because the beam of pink light had told him that. This world was a simulation, and something living and intelligent and sympathetic wanted him to know. [@dick_divine_1981]
@@ -86,8 +83,7 @@ These visions shaped and informed Dick's writing; his last novels *Radio Free Al
 In *VALIS*, the pink beam reveals to the main character -- Horselover Fat, a stand-in for Philip K. Dick himself -- that his son has a dangerous, but easily treatable heart defect.
 The same thing happened to Dick who had his son Christopher tested for a potentially fatal inguinal hernia after one of his visions.
 The results of the tests were positive, and a surgery fixed Christopher's heart [@dick_exegesis_2011 ; @sutin_divine_2005].
-The blurring of reality and fiction, divinity and decay, creation and entropy were central to Dick's life and work: in his Exegesis, he mentions writing "reports" rather than novels.
-[TODO]
+The blurring of reality and fiction, divinity and decay, creation and entropy were central to Dick's life and work: in his Exegesis and in discussions, he mentions writing "reports" rather than novels [@carrere_alive_2004].
 Paul Williams, Dick's literary executor and the editor for *The Dark-Haired Girl*, warns readers:
 
 > This is a tale told by an unreliable narrator, who recognizes his own unreliability and yet at the same time believes everything he says. If you in turn allow yourself to believe uncritically everything he says, you are a damn fool. Watch out. Especially if you think you are not a damn fool, watch out.  [@dick_dark_1988]
