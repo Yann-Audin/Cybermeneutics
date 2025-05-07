@@ -1,7 +1,7 @@
 ---
 title: "Who is Philip K. Dick?"
 author: "Yann Audin"
-date: "2025-03-21"
+date: "2025-05-03"
 categories: ["Philip K. Dick", "Biography"]
 tags: ["Philip K. Dick"]
 format:
@@ -18,7 +18,7 @@ link-citations: true
 ## Philip K. Dick: born halfway in the grave
 
 Philip Kindred Dick and Jane Charlotte Dick were born prematurely in December of 1928 in Chicago.
-The twins spent their first weeks of life malnourished; Jane died in January of 1929 and on her grave were carved both her name and that of her brother [@carrere_vivant_1993]. 
+The twins spent their first weeks of life malnourished; Jane died in January of 1929 and on her grave were carved both her name and that of her brother [@carrere_vivant_1993].
 Philip K. Dick began his life with a tombstone to his name and haunted by the ghost of his twin sister.
 
 > I am damned always to be separated from her and with her, in an oscillation. [@dick_exegesis_2011]
@@ -30,7 +30,7 @@ His time at the University of California was exceptionally short; he did not hav
 He studied philosophy and then theology on his own, and began writing science-fiction full-time in 1951 [@dick_build_1978].
 Although he tried to branch out from science-fiction in the late 50s and early 60s, only one of his non science-fictional works was ever published.
 Dick's body of work is extensive and far reaching: it was republished many times, translated in 25 languages (according to Paul Williams who acted as the executor for his literary estate), and adapted to theatre, television and cinema.
-Despite his literary success, Dick lived a difficult life. 
+Despite his literary success, Dick lived a difficult life.
 In an untitled short story sent to a young Daniel Gilbert in September 1978, the main character (named Philip K. Dick^[Dick often stages himself in his novels, either as Philip, Phil and even as Horselover.]) describes himself:
 
 > "I may have been a success as a writer," he continued, "but what does that matter really? Living alone year after year in a rented room, paying off the I.R.S. and my endless child support, waiting vainly for the right girl, the girl who, when she finally showed up, merely laughed at me." Tears filled his eyes. "Being a giant of science fiction is not all that much," he rasped. "It's like Goethe said: the peasant with his hearth and wife and children is happier than the greatest philosopher."
@@ -39,7 +39,7 @@ In an untitled short story sent to a young Daniel Gilbert in September 1978, the
 
 Drugs and abuse were a major theme in Philip K. Dick's life and *oeuvre*, his novel *A Scanner Darkly* is at least partially autobiographical and features drug houses, psychotic episodes and withdrawal [@dick_search_1995].
 To sustain himself and his families (Dick was married five times -- May to November of 1948, 1950 to 1959, 1959 to 1965, 1966 to 1972, and 1973 to 1977 -- and had three children), Dick used and abused drugs, mainly amphetamines, cannabis and antidepressants to alternatively bolster his writing and calm his anxiety [@sutin_divine_2005].
-California in the 60s and 70s had a prominent drug culture which let Dick experiment with different substances. 
+California in the 60s and 70s had a prominent drug culture which let Dick experiment with different substances.
 According to his third wife, Anne R. Dick:
 
 > Ray Nelson brought some [LSD] for Phil to take. The two of them sat together in Phil's house for eight hours while Phil had a terrible hallucination, sweating, feeling completely alone, reexperiencing a spear thrust through his body, and speaking Latin, as he re-lived a life as a Roman gladiator. [@dick_search_1995]
@@ -66,12 +66,12 @@ Dick's relation to drugs changed after this event and he engaged in outreach wit
 Dick's most important drug fueled vision would come to him in February of 1974 [@dick_exegesis_2011], after four years of writer's block [@butler_philip_2000].
 He was then married to Leslie Busby, a young woman who also acted as his secretary and went by the name of Tessa, with whom Dick had a son, Christopher.
 Dick and Tessa had, according to multiple accounts, a fusional relationship, although they were fighting on multiple trivial issues such as cleaning and cooking^[In a long and incredibly funny letter to his then wife, Dick writes: "Well, here I am in sunny Cleveland, having won first prize in the Fullerton Stink Bug look-alike contest (first prize, which I won, is a week in Cleveland; second prize is two weeks in Cleveland).... [...] YOU HAVE WOUNDED MY HEART BY YOUR CRUELTY AND INDIFFERENCE AND YOUR HAUGHTY MANNER, FOR INSTANCE YOUR READING ALL DAY AND NOT DOING THE DISHES. More about this later." [@dick_search_1995]] [@dick_search_1995 ; @sutin_divine_2005].
-In February of 1974, while recovering from an impacted wisdom tooth extraction, and still under the influence of sodium pentothal, Philip K. Dick received a delivery from a woman wearing a gold pendant wint an ichthus, an early Christian symbol.
-The sight of light reflecting of the ichthus triggered something in him: he experienced a pink beam of light transmitting information directly into his brain [@dick_exegesis_2011].
+In February of 1974, while recovering from an impacted wisdom tooth extraction, and still under the influence of sodium pentothal, Philip K. Dick received a delivery from a woman wearing a gold pendant with an ichthus, an early Christian symbol.
+The sight of light reflecting off the ichthus triggered something in him: he experienced a pink beam of light transmitting information directly into his brain [@dick_exegesis_2011].
 The experience overwhelmed Dick who found himself superposed between his own reality and the absolute conviction that the whole universe was stuck in 50 AC.
 In this world, the "Empire never ended" [@dick_valis_1981] and Philip K. Dick was, in reality, Thomas, an early Christian persecuted by Rome.
 
-> But the core of the difficult truths that Phil held dear in his last years lay in 2-3-74. No one can pass upon the unanswerable question: Were those events real? Phil himself had no doubt that something had happened, though he always retained as a possibility--as his friend and fellow SF writer K. W. Deter observes-the "minimum hypothesis" that they were self-delusion. [@sutin_divine_2005]
+> But the core of the difficult truths that Phil held dear in his last years lay in 2-3-74. No one can pass upon the unanswerable question: Were those events real? Phil himself had no doubt that something had happened, though he always retained as a possibility--as his friend and fellow SF writer K. W. Deter observes--the "minimum hypothesis" that they were self-delusion. [@sutin_divine_2005]
 
 In February and March of that year, Dick continued to experience visions which he attempted to describe, understand and analyse in journals that would, in the end, amount to more than 8000 pages, some manuscript and others typed on his typewriter [@itzkoff_exegesis_2010].
 These visions shaped and informed Dick's writing; his last novels *Radio Free Albemuth*, *VALIS*, *The Divine Invasion* and *The Transmigration of Timothy Archer* all focus on his religious experience and the pink beam of light.
@@ -90,9 +90,9 @@ Paul Williams, Dick's literary executor and the editor for *The Dark-Haired Girl
 
 ## I am alive and you are dead
 
-Emmanuel Carrère's biography of Philip K. Dick, *Je suis vivant et vous êtes mort*, refers to *Ubik* in which Glen Runciter leads a team of "inertials" -- people with the ability to negate psychic powers -- to secure a Moon base from telepaths. 
-After an explosion that claims the life of Runciter, Joe Chip, the mission technician, takes command of the team to rush their boss back on Earth to allow him to exist in artificial half-life. 
-Joe and the other inertials are surprised to see signs of an entity trying to help them by any mean necessary as time and space begins to crumble around them. 
+Emmanuel Carrère's biography of Philip K. Dick, *Je suis vivant et vous êtes mort*, refers to *Ubik* in which Glen Runciter leads a team of "inertials" -- people with the ability to negate psychic powers -- to secure a Moon base from telepaths.
+After an explosion that claims the life of Runciter, Joe Chip, the mission technician, takes command of the team to rush their boss back on Earth to allow him to exist in artificial half-life.
+Joe and the other inertials are surprised to see signs of an entity trying to help them by any mean necessary as time and space begins to crumble around them.
 From his half-life pod, Runciter is silent, but still, it seems that he tries to using other means such as a message on the walls of the men's bathroom:
 
 > "Jump in the urinal and stand on your head\
@@ -101,15 +101,16 @@ From his half-life pod, Runciter is silent, but still, it seems that he tries to
 > Lean over the bowl and then take a dive\
 > All of you are dead. I am alive." [@dick_ubik_1969]
 
-In the real world, Runciter is desesperatly trying to save his team and make them understand that they are, in fact, the ones who died on the Moon and are now suspended in half-life. 
+In the real world, Runciter is desperately trying to save his team and make them understand that they are, in fact, the ones who died on the Moon and are now suspended in half-life.
 As more and more of Joe Chip's team succumb to the time anomalies, it becomes very difficult to ignore the hints that the world he inhabits is not real.
-On one hand, signs of Runciter's interventions are everywhere, and on the other, Jory another half-lifer with the power to comsumme consciousness to sustain himself tries to kill Joe. 
-Joe is saved by a collective of half-lifers, who developped a way to repel Jory, and Runciter mourns the loss of his team. 
+On one hand, signs of Runciter's interventions are everywhere, and on the other, Jory, another half-lifer with the power to consume consciousness to sustain himself tries to kill Joe.
+Joe is saved by a collective of half-lifers, who developed a way to repel Jory, and Runciter mourns the loss of his team.
 But the novel ends with Glen Runciter, alive and inhabiting the real world, finding the face of Joe Chip on the coins in his pocket, as if Joe was trying to communicate with him: as if Runciter was himself in a half-life fictitious world.
 
-On February and March of 1982, a series of strokes left Philip K. Dick brain dead at the age of 53. 
+In February and March of 1982, a series of strokes left Philip K. Dick brain dead at the age of 53.
 He was disconnected from life support on March 2nd, eight years and ten days after the events of 2-3-74.
 
 In this reality, we are alive and he is dead.
 
 ## Bibliography {.unnumbered}
+
