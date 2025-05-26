@@ -4,7 +4,7 @@
     "href": "PKD.html",
     "title": "A Philip K. Dick Cybermeneutics Project",
     "section": "",
-    "text": "The Philip K. Dick Cybermeneutics Project is a case study for my thesis. It is an attempt at computer-assisted hermeneutics in which I combine close reading and distant reading methods to analyse Philip K. Dick’s novels and short stories with classical and algorithmic techniques.\n\n\n\n\n\n\n\n\n\nWho is Philip K. Dick?\n\n\n\n\n\n\nPhilip K. Dick\n\n\nBiography\n\n\n\nA biography of Philip K. Dick\n\n\n\n\n\nMar 21, 2025\n\n\nYann Audin\n\n\n\n\n\n\nNo matching items"
+    "text": "The Philip K. Dick Cybermeneutics Project is a case study for my thesis. It is an attempt at computer-assisted hermeneutics in which I combine close reading and distant reading methods to analyse Philip K. Dick’s novels and short stories with classical and algorithmic techniques.\n\n\n\n\n\n\n\n\n\nWho is Philip K. Dick?\n\n\n\n\n\n\nPhilip K. Dick\n\n\nBiography\n\n\n\nA biography of Philip K. Dick\n\n\n\n\n\nMay 3, 2025\n\n\nYann Audin\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "pkd/pkd_01.html",
@@ -65,8 +65,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "A Digital Épistémè",
+    "title": "Cybermeneutics",
     "section": "",
-    "text": "Welcome to Yann Audin’s research blog!"
+    "text": "Welcome to Yann Audin’s research blog!\nAccess to the Cybermeneutics tools can be found on its own dedicated github: https://github.com/Yann-Audin/CybermeneuticsTools1."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Cybermeneutics",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThe main branch of this repository leads to the latest version.↩︎"
   }
 ]
