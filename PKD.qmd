@@ -10,4 +10,4 @@ listing:
   grid-columns: 1   # Display posts in a single column
 ---
 
-The *Philip K. Dick Cybermeneutics Project* is a case study for my thesis. It is an attempt at computer-assisted hermeneutics in which I combine close reading and distant reading methods to analyse Philip K. Dick's novels and short stories with classical and algorithmic techniques.
+The *Philip K. Dick Cybermeneutics Project* is a case study for my thesis. It is an attempt at computer-assisted hermeneutics in which I combine close reading and distant reading methods to analyse Philip K. Dick's novels and short stories with classical and algorithmic techniques. 

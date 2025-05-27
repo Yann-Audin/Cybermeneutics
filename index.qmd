@@ -1,5 +1,8 @@
 ---
-title: "A Digital *Épistémè*"
+title: "Cybermeneutics"
 ---
 
 Welcome to [Yann Audin](about.qmd)'s research blog! 
+
+Access to the Cybermeneutics tools can be found on its own dedicated github: [https://github.com/Yann-Audin/CybermeneuticsTools](https://github.com/Yann-Audin/CybermeneuticsTools)^[The main branch of this repository leads to the latest version.].
+
