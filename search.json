@@ -1,10 +1,192 @@
 [
   {
-    "objectID": "PKD.html",
-    "href": "PKD.html",
-    "title": "A Philip K. Dick Cybermeneutics Project",
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#the-exegesis-of-philip-k.-dick",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#the-exegesis-of-philip-k.-dick",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "The Exegesis of Philip K. Dick",
+    "text": "The Exegesis of Philip K. Dick\n\nSeveral times I’ve had the uncanny experience of meeting people who resemble persons, characters, I’d previously made up for my novels. In Flow My Tears there’s a 19 year old girl named Kathy, as you recall, whom Jason meets; she is a girl of the gutter, so to speak, living a quasi-illegal existence. The next year, 1971, I in fact did meet a girl, the same age, living a life so similar to that of the girl in the novel as to frighten me—frighten me that if she reads the book ever she may sue. Her name—Kathy. (dick_exegesis?)"
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#dark-haired-girls",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#dark-haired-girls",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "Dark Haired Girl(s)",
+    "text": "Dark Haired Girl(s)\n\n\nA bit of traditional humanistic research lead me to the archetype of the young woman with dark or black hair;\n\nThe figure appears in many of PKD’s novels and short stories;\nIn his life, PKD fell in love at first sight with many young women with dark or black hair."
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#dark-haired-girls-1",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#dark-haired-girls-1",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "Dark Haired Girl(s)",
+    "text": "Dark Haired Girl(s)\n\n\nA bit of traditional humanistic research lead me to the archetype of the young woman with dark or black hair;\n\nThe figure appears in many of PKD’s novels and short stories;\nIn his life, PKD fell in love at first sight with many young women with dark or black hair."
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#prior-knowledge",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#prior-knowledge",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "Prior knowledge",
+    "text": "Prior knowledge\nWhat I knew about Philip K. Dick’s life:\n\nPKD was married multiple time and his life was segmented in well defined chapters;\nHe became an episcopalian through his friendship with the controversial bishop James Pike and had a strong interest for Gnosticism;\nTowards the end of his life, PKD had a transformative religious experience with visions of early Christians;\n…"
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#prior-knowledge-1",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#prior-knowledge-1",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "Prior knowledge",
+    "text": "Prior knowledge\nWhat I knew about Philip K. Dick’s work:\n\nCharacters named Kathy were common in PKD’s work before he met her;\nPKD had used his own name for characters;\nPKD had used the name of his son and his dead twin sister in his work;\nOther re-occurring names included Rachel/Rachael, Patricia/Pat and Bill."
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#a-tool-for-literary-history",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#a-tool-for-literary-history",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "A tool for literary history",
+    "text": "A tool for literary history\nThe Hunt for other Kathys is of little literary interest, but the use of names of people an author already knew is of interest in literary history.\nBut to do so, I didn’t need more time to research, I needed a tool."
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#augmented-reading",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#augmented-reading",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "Augmented reading",
+    "text": "Augmented reading\nIn the spectrum that spans from close reading to distant reading, this specific project calls for augmented reading.\nI wanted to create a tool that would conserve the humanistic inquiry and the serendipity at the core of literary studies."
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#objective",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#objective",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "Objective",
+    "text": "Objective\nThe goal of the project is to create a software that transform a corpus into a personal literary database.\nIn practice, the script takes raw texts with metadata, and returns a wiki-like structure of hypertexts, with index cards for each named characters, locations and organisations (as well as the elements in a list of words)."
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#philip-k.-dick",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#philip-k.-dick",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "Philip K. Dick",
+    "text": "Philip K. Dick\nIn the case of my corpus, I wanted a tool that would find the names, that were present in both categories:\n\nWork by PKD (short stories and novels);\nHistorical context around PKD (biographies, journals and letters."
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#file-and-folder-structure",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#file-and-folder-structure",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "File and folder structure",
+    "text": "File and folder structure"
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#backend",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#backend",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "Backend",
+    "text": "Backend\nThe software takes the form of a python script that calls a library named SpaCy, which uses a small language model to tag the tokens in a text.\nThe SpaCy model en_core_web_trf has a precision of \\(0.90\\) for named entity recognition, and the lighter model en_core_web_sm has a precision of \\(0.84\\)."
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#backend-1",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#backend-1",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "Backend",
+    "text": "Backend\nCybermeneutics.py creates a dictionary of each named entity in any set of text files, and then replicates the given files and folders structure with added hyperlinks going from the named entities in the texts to automatically generated index cards with links to the texts where the named entities appear.\nIn short, it transforms a corpus into a wiki-like network of hypertexts."
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#frontend",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#frontend",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "Frontend",
+    "text": "Frontend"
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#frontend-in-an-environment",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#frontend-in-an-environment",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "Frontend (in an environment)",
+    "text": "Frontend (in an environment)"
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#characteristics",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#characteristics",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "Characteristics",
+    "text": "Characteristics\n\nOpen-source (or at least free);\nSimple syntax (Markdown if possible);\nLocal files and folders;\nFast and lightweight;\nCross-platform;\nReadable and modular."
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#obsidian-and-zettlr",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#obsidian-and-zettlr",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "Obsidian and Zettlr",
+    "text": "Obsidian and Zettlr\nZettlr and Obsidian are extremely similar in terms of functionality, and are interoperable within the needs and limits of the project.\nZettlr is a good open source option, while Obsidian is better at handling a large number of files."
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#the-result-attempted-15",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#the-result-attempted-15",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "The result (attempted # 15)",
+    "text": "The result (attempted # 15)\nVideo"
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#challenges-solved-so-far",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#challenges-solved-so-far",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "Challenges solved so far",
+    "text": "Challenges solved so far\n\nRegulate the characters:\n\n\nApostrophes;\n\n\nDashes;\n\n\nQuotation marks…\n\n\nHandle many words entities;\nCustomize minimum counts/sources for inclusion;\nAdded an .obsidian/graph.json file ;\n…and countless more!"
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#we-are-launching-version-1.0-today",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#we-are-launching-version-1.0-today",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "We are launching version 1.0 today!!!",
+    "text": "We are launching version 1.0 today!!!"
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#philip-k.-dicks-corpus",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#philip-k.-dicks-corpus",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "Philip K. Dick’s Corpus",
+    "text": "Philip K. Dick’s Corpus\nGathered and cleaned:\n\n44 novels;\n114 short stories.\n\nGathered, but not cleaned yet:\n\nCollected letters (6 volumes);\nBiographies and interviews;\nNon-fiction books and transcripts."
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#todo",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#todo",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "TODO",
+    "text": "TODO\nVideo"
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#current-challenge",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#current-challenge",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "Current challenge",
+    "text": "Current challenge\nBetter handling of metadata:\n\nCurrently, the yaml is treated like the rest of the text, but it should be excluded from the process;\nThe heading of the files is not automatically generated in the current version."
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#future-work",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#future-work",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "Future work",
+    "text": "Future work\n\nDistinction between work by the author and work on the author;\nOptions for multiple authors and lists;\nMaps (with connection to the Wikidata API);\nOption for concordance tables;\nAutomatic timelines for index cards and corpora."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cybermeneutics",
     "section": "",
-    "text": "The Philip K. Dick Cybermeneutics Project is a case study for my thesis. It is an attempt at computer-assisted hermeneutics in which I combine close reading and distant reading methods to analyse Philip K. Dick’s novels and short stories with classical and algorithmic techniques.\n\n\n\n\n\n\n\n\n\nWho is Philip K. Dick?\n\n\n\n\n\n\nPhilip K. Dick\n\n\nBiography\n\n\n\nA biography of Philip K. Dick\n\n\n\n\n\nMay 3, 2025\n\n\nYann Audin\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to Yann Audin’s research blog!\nAccess to the Cybermeneutics tools can be found on its own dedicated github: https://github.com/Yann-Audin/CybermeneuticsTools1."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Cybermeneutics",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThe main branch of this repository leads to the latest version.↩︎"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About The Author",
+    "section": "",
+    "text": "I am a PhD candidate at the University of Montreal and my research interests are Digital Humanities, Literature and Epistemology. I am affiliated, through my supervisors Marcello Vitali-Rosati and Dominic Forest, to the Centre de recherche interuniversitaire sur les humanités numériques, and to the Canadian Society for Digital Humanities as a graduate representative."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "This page collects my reflections on various sujects loosely related to my thesis. Comments – either with Hypothesis or by email – are welcome as this blog represents preliminary work rather than anything definitive.\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "pkd/pkd_01.html",
@@ -49,31 +231,10 @@
     "text": "Footnotes\n\n\nDick often stages himself in his novels, either as Philip, Phil and even as Horselover.↩︎\nIn an interview he gave to Charles Platt, Philip K. Dick admitted to using acid one other time, but the dose was too weak to affect him more than hash.↩︎\nIn a long and incredibly funny letter to his then wife, Dick writes: “Well, here I am in sunny Cleveland, having won first prize in the Fullerton Stink Bug look-alike contest (first prize, which I won, is a week in Cleveland; second prize is two weeks in Cleveland)…. […] YOU HAVE WOUNDED MY HEART BY YOUR CRUELTY AND INDIFFERENCE AND YOUR HAUGHTY MANNER, FOR INSTANCE YOUR READING ALL DAY AND NOT DOING THE DISHES. More about this later.” (A. R. Dick 1995)↩︎"
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
+    "objectID": "PKD.html",
+    "href": "PKD.html",
+    "title": "A Philip K. Dick Cybermeneutics Project",
     "section": "",
-    "text": "This page collects my reflections on various sujects loosely related to my thesis. Comments – either with Hypothesis or by email – are welcome as this blog represents preliminary work rather than anything definitive.\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About The Author",
-    "section": "",
-    "text": "I am a PhD candidate at the University of Montreal and my research interests are Digital Humanities, Literature and Epistemology. I am affiliated, through my supervisors Marcello Vitali-Rosati and Dominic Forest, to the Centre de recherche interuniversitaire sur les humanités numériques, and to the Canadian Society for Digital Humanities as a graduate representative."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Cybermeneutics",
-    "section": "",
-    "text": "Welcome to Yann Audin’s research blog!\nAccess to the Cybermeneutics tools can be found on its own dedicated github: https://github.com/Yann-Audin/CybermeneuticsTools1."
-  },
-  {
-    "objectID": "index.html#footnotes",
-    "href": "index.html#footnotes",
-    "title": "Cybermeneutics",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThe main branch of this repository leads to the latest version.↩︎"
+    "text": "The Philip K. Dick Cybermeneutics Project is a case study for my thesis. It is an attempt at computer-assisted hermeneutics in which I combine close reading and distant reading methods to analyse Philip K. Dick’s novels and short stories with classical and algorithmic techniques.\n\n\n\n\n\n\n\n\n\nWho is Philip K. Dick?\n\n\n\n\n\n\nPhilip K. Dick\n\n\nBiography\n\n\n\nA biography of Philip K. Dick\n\n\n\n\n\nMay 3, 2025\n\n\nYann Audin\n\n\n\n\n\n\nNo matching items"
   }
 ]
