@@ -1,0 +1,241 @@
+---
+title: "Cybermeneutics - Anthology of a Tool"
+author:
+    - name: Yann Audin
+      orcid: 0000-0003-3456-9767
+      email: yann.audin@umontreal.ca
+      affiliation: Université de Montréal
+toc: false
+number-sections: true
+format:
+    revealjs:
+        incremental: false
+        css: clean_2025YA.scss
+        scrollable: true
+        menu: true
+        preview-links: auto
+        navigation-mode: vertical
+        slide-number: false
+        footer: CSDH/SCHN 2025 - Toronto
+        number-depth: 0
+bibliography: bibliographie.bib
+---
+
+# It begins with a question{.blue-slide}
+
+## *The Exegesis of Philip K. Dick*
+
+> Several times I've had the uncanny experience of meeting people who resemble persons, characters, I'd previously made up for my novels. In Flow My Tears there's a 19 year old girl named Kathy, as you recall, whom Jason meets; she is a girl of the gutter, so to speak, living a quasi-illegal existence. The next year, 1971, I in fact did meet a girl, the same age, living a life so similar to that of the girl in the novel as to frighten me—frighten me that if she reads the book ever she may sue. Her name—Kathy. [@dick_exegesis]
+
+## Dark Haired Girl(s)
+
+::::{.columns}
+:::{.column width="60%"}
+A bit of traditional humanistic research lead me to the archetype of the young woman with dark or black hair; 
+
+- The figure appears in many of PKD's novels and short stories;
+- In his life, PKD fell in love at first sight with many young women with dark or black hair.
+:::
+:::{.column width="40%"}
+
+:::
+::::
+
+## Dark Haired Girl(s)
+
+::::{.columns}
+:::{.column width="60%"}
+A bit of traditional humanistic research lead me to the archetype of the young woman with dark or black hair; 
+
+- The figure appears in many of PKD's novels and short stories;
+- In his life, PKD fell in love at first sight with many young women with dark or black hair.
+:::
+:::{.column width="40%"}
+![](media/dark_haired_girl-1.png)
+:::
+::::
+
+## Prior knowledge
+
+What I knew about Philip K. Dick's life:
+
+- PKD was married multiple time and his life was segmented in well defined chapters;
+- He became an episcopalian through his friendship with the controversial bishop James Pike and had a strong interest for Gnosticism;
+- Towards the end of his life, PKD had a transformative religious experience with visions of early Christians;
+- ...
+
+## Prior knowledge
+
+What I knew about Philip K. Dick's work:
+
+- Characters named Kathy were common in PKD's work before he met her;
+- PKD had used his own name for characters;
+- PKD had used the name of his son and his dead twin sister in his work;
+- Other re-occurring names included Rachel/Rachael, Patricia/Pat and Bill.
+
+## A tool for literary history
+
+The Hunt for other Kathys is of little literary interest, but the use of names of people an author already knew is of interest in literary history. 
+
+But to do so, I didn't need more time to research, I needed a **tool**. 
+
+# The Story of a tool{.blue-slide}
+
+## Augmented reading
+
+In the spectrum that spans from close reading to distant reading, this specific project calls for augmented reading. 
+
+I wanted to create a tool that would conserve the humanistic inquiry and the serendipity at the core of literary studies. 
+
+## Objective
+
+The goal of the project is to create a software that transform a corpus into a personal literary database. 
+
+In practice, the script takes raw texts with metadata, and returns a wiki-like structure of hypertexts, with index cards for each named characters, locations and organisations (as well as the elements in a list of words). 
+
+## Philip K. Dick
+
+In the case of my corpus, I wanted a tool that would find the names, that were present in both categories:
+
+1. Work by PKD (short stories and novels);
+2. Historical context around PKD (biographies, journals and letters.
+
+# Literary Database{.blue-slide}
+
+## File and folder structure
+
+![](media/FileStructurePKD.png)
+
+## Backend
+
+The software takes the form of a python script that calls a library named SpaCy, which uses a small language model to tag the tokens in a text. 
+
+The SpaCy model ```en_core_web_trf``` has a precision of $0.90$ for named entity recognition, and the lighter model ```en_core_web_sm``` has a precision of $0.84$. 
+
+## Backend
+
+```Cybermeneutics.py``` creates a dictionary of each named entity in any set of text files, and then replicates the given files and folders structure with added hyperlinks going from the named entities in the texts to automatically generated index cards with links to the texts where the named entities appear.
+
+In short, it transforms a corpus into a wiki-like network of hypertexts. 
+
+## Frontend
+
+![](media/conversion1.png)
+
+## Frontend (in an environment)
+
+![](media/conversion2.png)
+
+# Finding the right environment{.blue-slide}
+
+## Characteristics
+
+- Open-source (or at least free);
+- Simple syntax (Markdown if possible);
+- Local files and folders;
+- Fast and lightweight;
+- Cross-platform;
+- Readable and modular.
+
+## Obsidian and Zettlr
+
+Zettlr and Obsidian are extremely similar in terms of functionality, and are interoperable within the needs and limits of the project. 
+
+Zettlr is a good open source option, while Obsidian is better at handling a large number of files. 
+
+## The result (attempted # 15)
+
+![](media/Cybermeneutics_current_state.mp4)
+
+# Developping a tool{.blue-slide}
+
+## Challenges solved so far
+
+- Regulate the characters: 
+    * - Apostrophes; 
+    * - Dashes; 
+    * - Quotation marks...
+- Handle many words entities;
+- Customize minimum counts/sources for inclusion;
+- Added an ```.obsidian/graph.json``` file ;
+- ...and countless more!
+
+# Current state of the project{.blue-slide}
+
+(Also known as attempt # 17.)
+
+## We are launching version 1.0 today!!!
+
+::::{.columns}
+:::{.column width="50%"}
+![](media/giphy.gif)
+:::
+:::{.column width="50%"}
+![](media/QR.png)
+:::
+::::
+
+## Philip K. Dick's Corpus
+
+**Gathered and cleaned:**
+
+- 44 novels;
+- 114 short stories.
+
+**Gathered, but not cleaned yet:**
+
+- Collected letters (6 volumes);
+- Biographies and interviews;
+- Non-fiction books and transcripts.
+
+## TODO
+
+![](TODO.mp4)
+
+# What now?{.blue-slide}
+
+## Current challenge
+
+**Better handling of metadata:**
+
+- Currently, the yaml is treated like the rest of the text, but it should be excluded from the process;
+- The heading of the files is not automatically generated in the current version.
+
+## Future work
+
+- Distinction between work by the author and work on the author;
+- Options for multiple authors and lists;
+- Maps (with connection to the Wikidata API);
+- Option for concordance tables;
+- Automatic timelines for index cards and corpora. 
+
+# Thank you!
+
+::::{.columns}
+:::{.column width="30%"}
+:::
+:::{.column width="60%"}
+![](media/QR.png)
+:::
+:::{.column width="10%"}
+:::
+::::
+
+:::{.notes}
+:::
+
+
+<!--
+I would like for this talk to be a story of results, but rather, it will be the story of how a question became a tool. Results will come, but they are not here because I spent all of this time creating a tool instead of analysing the end product of that tool. And so, I cannot tell you if this tool -- the one I spent the last few months creating -- is useful, or even if it will lead me to an answer: remember, this is not the story of a tool, but the story of a question and a tool. Hopefully, it will all make sense in the next few minutes.
+
+Let's establish the scene: I had been working on machine reading for just long enough to write a Master thesis on the subject, and had thought and read about computer-assisted hermeneutics and computational literary studies for about one year prior to the call to action. For wider context, I was a washed up physicist who had jumped ship to literature, hoping for a greater chance to understand the most important question of all: what is reality? This question is not THE question I referenced earlier, but it is important: the issue with reality that physicists fully miss is its tendency to break down.
+
+Philip K. Dick captured this tendency.
+
+The call to action of this story is a line from Philip K. Dick *Exegesis*, a fragment of which was published in [TODO: DATE]. Dick *Exegesis* is 8000 words of improbable writing following Dick's encounter with God, or at least with VALIS, an anagram for *Vast Active Living Intelligence System* which took the form of a pink beam of light, transmitting information and images directly to his brain for months. Dick was quite conscious that he could not simply believe in the hallucinations: he maintain for most of his life the "minimal hypothesis" that he might simply be mad. 
+
+The line from the *Exegesis* remembered me of an important aspect of Dick's fiction: he had used is own name in many novels and short stories, as well as the names and titles of people close to him. I went down that path as a humanist would, I followed the trail of Kathy and others in Dick's work and biographies, and found out quite a few figures that would pop in and out of Dick's life and fiction. Some seemed coincidental, and many names were simply quite common or associated to celebrities Dick writes about in his journals, but doesn't know personally. But I started to make sense of an archetype that kept reappearing in Dick's life, that of the Dark Haired Girl. Dick would fall in love quickly, usually with younger women with dark hair. I knew I was onto something, and so I extended my research to Dick's non-fiction and...
+
+
+
+-->
