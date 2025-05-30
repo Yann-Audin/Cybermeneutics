@@ -155,7 +155,31 @@ Zettlr is a good open source option, while Obsidian is better at handling a larg
 
 ## The result (attempted # 15)
 
-![](media/Cybermeneutics_current_state.mp4)
+![](media/v15_Cybermeneutics_1.png)
+
+## The result (attempted # 15)
+
+![](media/v15_Cybermeneutics_2.png)
+
+## The result (attempted # 15)
+
+![](media/v15_Cybermeneutics_3.png)
+
+## The result (attempted # 15)
+
+![](media/v15_Cybermeneutics_4.png)
+
+## The result (attempted # 15)
+
+![](media/v15_Cybermeneutics_5.png)
+
+## The result (attempted # 15)
+
+![](media/v15_Cybermeneutics_6.png)
+
+## The result (attempted # 15)
+
+![](media/v15_Cybermeneutics_7.png)
 
 # Current state of the project{.blue-slide}
 
