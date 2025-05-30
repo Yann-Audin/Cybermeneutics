@@ -25,7 +25,7 @@ bibliography: bibliographie.bib
 
 ## *The Exegesis of Philip K. Dick*
 
-> Several times I've had the uncanny experience of meeting people who resemble persons, characters, I'd previously made up for my novels. In Flow My Tears there's a 19 year old girl named Kathy, as you recall, whom Jason meets; she is a girl of the gutter, so to speak, living a quasi-illegal existence. The next year, 1971, I in fact did meet a girl, the same age, living a life so similar to that of the girl in the novel as to frighten me—frighten me that if she reads the book ever she may sue. Her name—Kathy. [@dick_exegesis]
+> Several times I've had the uncanny experience of meeting people who resemble persons, characters, I'd previously made up for my novels. In Flow My Tears there's a 19 year old girl named Kathy, as you recall, whom Jason meets; she is a girl of the gutter, so to speak, living a quasi-illegal existence. The next year, 1971, I in fact did meet a girl, the same age, living a life so similar to that of the girl in the novel as to frighten me—frighten me that if she reads the book ever she may sue. Her name—Kathy. [@dick_exegesis_2011]
 
 ## Dark Haired Girl(s)
 
@@ -69,15 +69,15 @@ What I knew about Philip K. Dick's life:
 What I knew about Philip K. Dick's work:
 
 - Characters named Kathy were common in PKD's work before he met her;
+- Other re-occurring names included Rachel/Rachael, Patricia/Pat and Bill;
 - PKD had used his own name for characters;
-- PKD had used the name of his son and his dead twin sister in his work;
-- Other re-occurring names included Rachel/Rachael, Patricia/Pat and Bill.
+- PKD had used the name of his son and his dead twin sister in his work.
 
 ## A tool for literary history
 
 The Hunt for other Kathys is of little literary interest, but the use of names of people an author already knew is of interest in literary history. 
 
-But to do so, I didn't need more time to research, I needed a **tool**. 
+But to find them, I didn't need more time to research, I needed a **tool**. 
 
 # The Story of a tool{.blue-slide}
 
@@ -98,7 +98,7 @@ In practice, the script takes raw texts with metadata, and returns a wiki-like s
 In the case of my corpus, I wanted a tool that would find the names, that were present in both categories:
 
 1. Work by PKD (short stories and novels);
-2. Historical context around PKD (biographies, journals and letters.
+2. Historical context around PKD (biographies, journals and letters).
 
 # Literary Database{.blue-slide}
 
@@ -117,6 +117,16 @@ The SpaCy model ```en_core_web_trf``` has a precision of $0.90$ for named entity
 ```Cybermeneutics.py``` creates a dictionary of each named entity in any set of text files, and then replicates the given files and folders structure with added hyperlinks going from the named entities in the texts to automatically generated index cards with links to the texts where the named entities appear.
 
 In short, it transforms a corpus into a wiki-like network of hypertexts. 
+
+## Challenges solved so far
+
+- Regulate the characters: 
+    * - Apostrophes; 
+    * - Dashes; 
+    * - Quotation marks...
+- Handle many words entities;
+- Customize minimum counts/sources for inclusion;
+- ...and countless more!
 
 ## Frontend
 
@@ -146,19 +156,6 @@ Zettlr is a good open source option, while Obsidian is better at handling a larg
 ## The result (attempted # 15)
 
 ![](media/Cybermeneutics_current_state.mp4)
-
-# Developping a tool{.blue-slide}
-
-## Challenges solved so far
-
-- Regulate the characters: 
-    * - Apostrophes; 
-    * - Dashes; 
-    * - Quotation marks...
-- Handle many words entities;
-- Customize minimum counts/sources for inclusion;
-- Added an ```.obsidian/graph.json``` file ;
-- ...and countless more!
 
 # Current state of the project{.blue-slide}
 
@@ -224,6 +221,7 @@ Zettlr is a good open source option, while Obsidian is better at handling a larg
 :::{.notes}
 :::
 
+## References
 
 <!--
 I would like for this talk to be a story of results, but rather, it will be the story of how a question became a tool. Results will come, but they are not here because I spent all of this time creating a tool instead of analysing the end product of that tool. And so, I cannot tell you if this tool -- the one I spent the last few months creating -- is useful, or even if it will lead me to an answer: remember, this is not the story of a tool, but the story of a question and a tool. Hopefully, it will all make sense in the next few minutes.

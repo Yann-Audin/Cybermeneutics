@@ -28,7 +28,27 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
   <link rel="stylesheet" href="../../../site_libs/revealjs/dist/theme/quarto-bbe7401fe57d4b791b917637bb662036.css">
   <link rel="stylesheet" href="clean_2025YA.scss">
   <link href="../../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
@@ -154,7 +174,7 @@ Yann Audin <a href="https://orcid.org/0000-0003-3456-9767" class="quarto-title-a
 <section id="the-exegesis-of-philip-k.-dick" class="slide level2">
 <h2><em>The Exegesis of Philip K. Dick</em></h2>
 <blockquote>
-<p>Several times I’ve had the uncanny experience of meeting people who resemble persons, characters, I’d previously made up for my novels. In Flow My Tears there’s a 19 year old girl named Kathy, as you recall, whom Jason meets; she is a girl of the gutter, so to speak, living a quasi-illegal existence. The next year, 1971, I in fact did meet a girl, the same age, living a life so similar to that of the girl in the novel as to frighten me—frighten me that if she reads the book ever she may sue. Her name—Kathy. <span class="citation" data-cites="dick_exegesis">(<a href="" role="doc-biblioref" onclick="return false;"><strong>dick_exegesis?</strong></a>)</span></p>
+<p>Several times I’ve had the uncanny experience of meeting people who resemble persons, characters, I’d previously made up for my novels. In Flow My Tears there’s a 19 year old girl named Kathy, as you recall, whom Jason meets; she is a girl of the gutter, so to speak, living a quasi-illegal existence. The next year, 1971, I in fact did meet a girl, the same age, living a life so similar to that of the girl in the novel as to frighten me—frighten me that if she reads the book ever she may sue. Her name—Kathy. <span class="citation" data-cites="dick_exegesis_2011">(<a href="#/references" role="doc-biblioref" onclick="">Dick 2011</a>)</span></p>
 </blockquote>
 </section>
 <section id="dark-haired-girls" class="slide level2">
@@ -198,15 +218,15 @@ Yann Audin <a href="https://orcid.org/0000-0003-3456-9767" class="quarto-title-a
 <p>What I knew about Philip K. Dick’s work:</p>
 <ul>
 <li>Characters named Kathy were common in PKD’s work before he met her;</li>
+<li>Other re-occurring names included Rachel/Rachael, Patricia/Pat and Bill;</li>
 <li>PKD had used his own name for characters;</li>
-<li>PKD had used the name of his son and his dead twin sister in his work;</li>
-<li>Other re-occurring names included Rachel/Rachael, Patricia/Pat and Bill.</li>
+<li>PKD had used the name of his son and his dead twin sister in his work.</li>
 </ul>
 </section>
 <section id="a-tool-for-literary-history" class="slide level2">
 <h2>A tool for literary history</h2>
 <p>The Hunt for other Kathys is of little literary interest, but the use of names of people an author already knew is of interest in literary history.</p>
-<p>But to do so, I didn’t need more time to research, I needed a <strong>tool</strong>.</p>
+<p>But to find them, I didn’t need more time to research, I needed a <strong>tool</strong>.</p>
 </section></section>
 <section>
 <section id="the-story-of-a-tool" class="title-slide slide level1 blue-slide center">
@@ -228,7 +248,7 @@ Yann Audin <a href="https://orcid.org/0000-0003-3456-9767" class="quarto-title-a
 <p>In the case of my corpus, I wanted a tool that would find the names, that were present in both categories:</p>
 <ol type="1">
 <li>Work by PKD (short stories and novels);</li>
-<li>Historical context around PKD (biographies, journals and letters.</li>
+<li>Historical context around PKD (biographies, journals and letters).</li>
 </ol>
 </section></section>
 <section>
@@ -249,6 +269,26 @@ Yann Audin <a href="https://orcid.org/0000-0003-3456-9767" class="quarto-title-a
 <h2>Backend</h2>
 <p><code>Cybermeneutics.py</code> creates a dictionary of each named entity in any set of text files, and then replicates the given files and folders structure with added hyperlinks going from the named entities in the texts to automatically generated index cards with links to the texts where the named entities appear.</p>
 <p>In short, it transforms a corpus into a wiki-like network of hypertexts.</p>
+</section>
+<section id="challenges-solved-so-far" class="slide level2">
+<h2>Challenges solved so far</h2>
+<ul>
+<li>Regulate the characters:
+<ul>
+<li><ul>
+<li>Apostrophes;</li>
+</ul></li>
+<li><ul>
+<li>Dashes;</li>
+</ul></li>
+<li><ul>
+<li>Quotation marks…</li>
+</ul></li>
+</ul></li>
+<li>Handle many words entities;</li>
+<li>Customize minimum counts/sources for inclusion;</li>
+<li>…and countless more!</li>
+</ul>
 </section>
 <section id="frontend" class="slide level2">
 <h2>Frontend</h2>
@@ -282,32 +322,6 @@ Yann Audin <a href="https://orcid.org/0000-0003-3456-9767" class="quarto-title-a
 <section id="the-result-attempted-15" class="slide level2">
 <h2>The result (attempted # 15)</h2>
 <p><video data-src="media/Cybermeneutics_current_state.mp4" controls=""><a href="media/Cybermeneutics_current_state.mp4">Video</a></video></p>
-</section></section>
-<section>
-<section id="developping-a-tool" class="title-slide slide level1 blue-slide center">
-<h1>Developping a tool</h1>
-
-</section>
-<section id="challenges-solved-so-far" class="slide level2">
-<h2>Challenges solved so far</h2>
-<ul>
-<li>Regulate the characters:
-<ul>
-<li><ul>
-<li>Apostrophes;</li>
-</ul></li>
-<li><ul>
-<li>Dashes;</li>
-</ul></li>
-<li><ul>
-<li>Quotation marks…</li>
-</ul></li>
-</ul></li>
-<li>Handle many words entities;</li>
-<li>Customize minimum counts/sources for inclusion;</li>
-<li>Added an <code>.obsidian/graph.json</code> file ;</li>
-<li>…and countless more!</li>
-</ul>
 </section></section>
 <section>
 <section id="current-state-of-the-project" class="title-slide slide level1 blue-slide center">
@@ -364,6 +378,7 @@ Yann Audin <a href="https://orcid.org/0000-0003-3456-9767" class="quarto-title-a
 <li>Automatic timelines for index cards and corpora.</li>
 </ul>
 </section></section>
+<section>
 <section id="thank-you" class="title-slide slide level1 center">
 <h1>Thank you!</h1>
 <div class="columns">
@@ -387,6 +402,9 @@ Yann Audin <a href="https://orcid.org/0000-0003-3456-9767" class="quarto-title-a
           overflow: hidden!important;
           display:block!important;
       }</style></aside>
+</section>
+<section id="references" class="slide level2 smaller scrollable">
+<h2>References</h2>
 <!--
 I would like for this talk to be a story of results, but rather, it will be the story of how a question became a tool. Results will come, but they are not here because I spent all of this time creating a tool instead of analysing the end product of that tool. And so, I cannot tell you if this tool -- the one I spent the last few months creating -- is useful, or even if it will lead me to an answer: remember, this is not the story of a tool, but the story of a question and a tool. Hopefully, it will all make sense in the next few minutes.
 
@@ -403,7 +421,12 @@ The line from the *Exegesis* remembered me of an important aspect of Dick's fict
 -->
 
 
-</section>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-dick_exegesis_2011" class="csl-entry" role="listitem">
+Dick, Philip K. 2011. <em>The Exegesis of Philip k. Dick</em>. Edited by Pamela Jackson and Jonathan Lethem. Houghton Mifflin Harcourt.
+</div>
+</div>
+</section></section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
 <div class="footer footer-default">
@@ -706,7 +729,7 @@ The line from the *Exegesis* remembered me of an important aspect of Dick's fict
       }
         var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
         var mailtoRegex = new RegExp(/^mailto:/);
-          var filterRegex = new RegExp("https:\/\/Yann-Audin\.github\.io\/Cybermeneutics\/");
+          var filterRegex = new RegExp('/' + window.location.host + '/');
         var isInternal = (href) => {
             return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
         }

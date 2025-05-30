@@ -4,7 +4,7 @@
     "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#the-exegesis-of-philip-k.-dick",
     "title": "Cybermeneutics - Anthology of a Tool",
     "section": "The Exegesis of Philip K. Dick",
-    "text": "The Exegesis of Philip K. Dick\n\nSeveral times I’ve had the uncanny experience of meeting people who resemble persons, characters, I’d previously made up for my novels. In Flow My Tears there’s a 19 year old girl named Kathy, as you recall, whom Jason meets; she is a girl of the gutter, so to speak, living a quasi-illegal existence. The next year, 1971, I in fact did meet a girl, the same age, living a life so similar to that of the girl in the novel as to frighten me—frighten me that if she reads the book ever she may sue. Her name—Kathy. (dick_exegesis?)"
+    "text": "The Exegesis of Philip K. Dick\n\nSeveral times I’ve had the uncanny experience of meeting people who resemble persons, characters, I’d previously made up for my novels. In Flow My Tears there’s a 19 year old girl named Kathy, as you recall, whom Jason meets; she is a girl of the gutter, so to speak, living a quasi-illegal existence. The next year, 1971, I in fact did meet a girl, the same age, living a life so similar to that of the girl in the novel as to frighten me—frighten me that if she reads the book ever she may sue. Her name—Kathy. (Dick 2011)"
   },
   {
     "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#dark-haired-girls",
@@ -32,14 +32,14 @@
     "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#prior-knowledge-1",
     "title": "Cybermeneutics - Anthology of a Tool",
     "section": "Prior knowledge",
-    "text": "Prior knowledge\nWhat I knew about Philip K. Dick’s work:\n\nCharacters named Kathy were common in PKD’s work before he met her;\nPKD had used his own name for characters;\nPKD had used the name of his son and his dead twin sister in his work;\nOther re-occurring names included Rachel/Rachael, Patricia/Pat and Bill."
+    "text": "Prior knowledge\nWhat I knew about Philip K. Dick’s work:\n\nCharacters named Kathy were common in PKD’s work before he met her;\nOther re-occurring names included Rachel/Rachael, Patricia/Pat and Bill;\nPKD had used his own name for characters;\nPKD had used the name of his son and his dead twin sister in his work."
   },
   {
     "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#a-tool-for-literary-history",
     "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#a-tool-for-literary-history",
     "title": "Cybermeneutics - Anthology of a Tool",
     "section": "A tool for literary history",
-    "text": "A tool for literary history\nThe Hunt for other Kathys is of little literary interest, but the use of names of people an author already knew is of interest in literary history.\nBut to do so, I didn’t need more time to research, I needed a tool."
+    "text": "A tool for literary history\nThe Hunt for other Kathys is of little literary interest, but the use of names of people an author already knew is of interest in literary history.\nBut to find them, I didn’t need more time to research, I needed a tool."
   },
   {
     "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#augmented-reading",
@@ -60,7 +60,7 @@
     "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#philip-k.-dick",
     "title": "Cybermeneutics - Anthology of a Tool",
     "section": "Philip K. Dick",
-    "text": "Philip K. Dick\nIn the case of my corpus, I wanted a tool that would find the names, that were present in both categories:\n\nWork by PKD (short stories and novels);\nHistorical context around PKD (biographies, journals and letters."
+    "text": "Philip K. Dick\nIn the case of my corpus, I wanted a tool that would find the names, that were present in both categories:\n\nWork by PKD (short stories and novels);\nHistorical context around PKD (biographies, journals and letters)."
   },
   {
     "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#file-and-folder-structure",
@@ -82,6 +82,13 @@
     "title": "Cybermeneutics - Anthology of a Tool",
     "section": "Backend",
     "text": "Backend\nCybermeneutics.py creates a dictionary of each named entity in any set of text files, and then replicates the given files and folders structure with added hyperlinks going from the named entities in the texts to automatically generated index cards with links to the texts where the named entities appear.\nIn short, it transforms a corpus into a wiki-like network of hypertexts."
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#challenges-solved-so-far",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#challenges-solved-so-far",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "Challenges solved so far",
+    "text": "Challenges solved so far\n\nRegulate the characters:\n\n\nApostrophes;\n\n\nDashes;\n\n\nQuotation marks…\n\n\nHandle many words entities;\nCustomize minimum counts/sources for inclusion;\n…and countless more!"
   },
   {
     "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#frontend",
@@ -119,13 +126,6 @@
     "text": "The result (attempted # 15)\nVideo"
   },
   {
-    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#challenges-solved-so-far",
-    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#challenges-solved-so-far",
-    "title": "Cybermeneutics - Anthology of a Tool",
-    "section": "Challenges solved so far",
-    "text": "Challenges solved so far\n\nRegulate the characters:\n\n\nApostrophes;\n\n\nDashes;\n\n\nQuotation marks…\n\n\nHandle many words entities;\nCustomize minimum counts/sources for inclusion;\nAdded an .obsidian/graph.json file ;\n…and countless more!"
-  },
-  {
     "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#we-are-launching-version-1.0-today",
     "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#we-are-launching-version-1.0-today",
     "title": "Cybermeneutics - Anthology of a Tool",
@@ -159,6 +159,13 @@
     "title": "Cybermeneutics - Anthology of a Tool",
     "section": "Future work",
     "text": "Future work\n\nDistinction between work by the author and work on the author;\nOptions for multiple authors and lists;\nMaps (with connection to the Wikidata API);\nOption for concordance tables;\nAutomatic timelines for index cards and corpora."
+  },
+  {
+    "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#references",
+    "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#references",
+    "title": "Cybermeneutics - Anthology of a Tool",
+    "section": "References",
+    "text": "References\n\n\n\n\n\nDick, Philip K. 2011. The Exegesis of Philip k. Dick. Edited by Pamela Jackson and Jonathan Lethem. Houghton Mifflin Harcourt."
   },
   {
     "objectID": "index.html",
@@ -235,6 +242,6 @@
     "href": "PKD.html",
     "title": "A Philip K. Dick Cybermeneutics Project",
     "section": "",
-    "text": "The Philip K. Dick Cybermeneutics Project is a case study for my thesis. It is an attempt at computer-assisted hermeneutics in which I combine close reading and distant reading methods to analyse Philip K. Dick’s novels and short stories with classical and algorithmic techniques.\n\n\n\n\n\n\n\n\n\nWho is Philip K. Dick?\n\n\n\n\n\n\nPhilip K. Dick\n\n\nBiography\n\n\n\nA biography of Philip K. Dick\n\n\n\n\n\nMay 3, 2025\n\n\nYann Audin\n\n\n\n\n\n\nNo matching items"
+    "text": "The Philip K. Dick Cybermeneutics Project is a case study for my thesis. It is an attempt at computer-assisted hermeneutics in which I combine close reading and distant reading methods to analyse Philip K. Dick’s novels and short stories with classical and algorithmic techniques.\nThe project was presented during the 2025 CSDH Conference.\n\n\n\n\n\n\n\n\n\nWho is Philip K. Dick?\n\n\n\n\n\n\nPhilip K. Dick\n\n\nBiography\n\n\n\nA biography of Philip K. Dick\n\n\n\n\n\nMay 3, 2025\n\n\nYann Audin\n\n\n\n\n\n\nNo matching items"
   }
 ]
