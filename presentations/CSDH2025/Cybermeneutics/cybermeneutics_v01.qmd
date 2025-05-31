@@ -140,6 +140,8 @@ In short, it transforms a corpus into a wiki-like network of hypertexts.
 
 ## Characteristics
 
+The environment/platform should be:
+
 - Open-source (or at least free);
 - Simple syntax (Markdown if possible);
 - Local files and folders;
@@ -230,15 +232,21 @@ Zettlr is a good open source option, while Obsidian is better at handling a larg
 - Option for concordance tables;
 - Automatic timelines for index cards and corpora. 
 
-# Thank you!
+# Cybermeneutics
 
 ::::{.columns}
-:::{.column width="30%"}
-:::
-:::{.column width="60%"}
+:::{.column width="50%"}
 ![](media/QR.png)
 :::
-:::{.column width="10%"}
+:::{.column width="5%"}
+:::
+:::{.column width="45%"}
+Acknowledgement:
+
+- SSHRC - CRSH;
+- Fond de recherche du Québec (FRQ);
+- CRIHN;
+- CRCEN.
 :::
 ::::
 

@@ -109,7 +109,7 @@
     "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#characteristics",
     "title": "Cybermeneutics - Anthology of a Tool",
     "section": "Characteristics",
-    "text": "Characteristics\n\nOpen-source (or at least free);\nSimple syntax (Markdown if possible);\nLocal files and folders;\nFast and lightweight;\nCross-platform;\nReadable and modular."
+    "text": "Characteristics\nThe environment/platform should be:\n\nOpen-source (or at least free);\nSimple syntax (Markdown if possible);\nLocal files and folders;\nFast and lightweight;\nCross-platform;\nReadable and modular."
   },
   {
     "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#obsidian-and-zettlr",
