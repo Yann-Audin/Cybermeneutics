@@ -211,10 +211,6 @@ Zettlr is a good open source option, while Obsidian is better at handling a larg
 - Biographies and interviews;
 - Non-fiction books and transcripts.
 
-## TODO
-
-![](TODO.mp4)
-
 # What now?{.blue-slide}
 
 ## Current challenge
