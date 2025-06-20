@@ -109,8 +109,15 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul class="collapse">
+  <li><a href="#recent-publications" id="toc-recent-publications" class="nav-link active" data-scroll-target="#recent-publications">Recent publications</a></li>
+  <li><a href="#proceedings" id="toc-proceedings" class="nav-link" data-scroll-target="#proceedings">Proceedings</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -147,8 +154,24 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>I am a PhD candidate at the University of Montreal and my research interests are Digital Humanities, Literature and Epistemology. I am affiliated, through my supervisors Marcello Vitali-Rosati and Dominic Forest, to the <a href="crihn.org">Centre de recherche interuniversitaire sur les humanités numériques</a>, and to the <a href="https://csdh-schn.org/">Canadian Society for Digital Humanities</a> as a graduate representative.</p>
+<section id="recent-publications" class="level2">
+<h2 class="anchored" data-anchor-id="recent-publications">Recent publications</h2>
+<ul>
+<li><a href="https://www.digitalstudies.org/article/id/11058/">For a General Theory of Scholars–Digital Tools Interactions</a></li>
+<li><a href="https://hal.science/hal-04227199/document">Notes sur le projet « Digital Leigh Hunt »</a></li>
+</ul>
+</section>
+<section id="proceedings" class="level2">
+<h2 class="anchored" data-anchor-id="proceedings">Proceedings</h2>
+<ul>
+<li><a href="https://hal.science/hal-04563545/document">Des algorithmes pour définir des concepts littéraires?</a></li>
+<li><a href="https://umontreal.scholaris.ca/server/api/core/bitstreams/e6488a67-2524-4b17-93e0-97a45c56f746/content">Le projet Intelligence artificielle littéraire (IAL): définir formellement le concept de variation au sein de l’Anthologie grecque?</a></li>
+<li><a href="https://hal.science/hal-04131573v1/file/Humanistica_2023_audin.pdf">Intelligence Artificielle Littéraire</a></li>
+<li><a href="https://hal.science/hal-04333303/document">The Importance of Single Source Publishing in Scientific Publishing</a></li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -241,7 +264,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/Yann-Audin\.github\.io\/Cybermeneutics\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

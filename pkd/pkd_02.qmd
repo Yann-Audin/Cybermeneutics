@@ -15,22 +15,33 @@ draft: true # Set to false when ready to publish
 
 ## Why you should read Philip K. Dick
 
+The work of Philip K. Dick has a special place in the history of literature : his work is still being adapted to television and cinema (sometimes directly, often indirectly), and he has had a lasting impact on science-fiction and speculative fiction. To know his work is to recognize Dickianism everywhere, from *The Matrix* to *Donnie Darko*, and from *The Truman Show* to *Westworld*: when the nature of reality is contested, one can usually draw a line to Dick. This is not to say that Philip K. Dick changed much of the culture around him. In many ways, he was more a slave to the pressure of his time than many other authors who set themselves outside of the world as an observer, and he did not become a literary recluse: Dick was first and foremost an American white man who grew up and lived in an era of extraordinary and frightening technological and cultural transformations, and who became the nexus for the overwhelming forces of his time. 
 
+The pressures of the World Wars and the Cold Wars, the blooming of psychology, the rediscovery of ancient Christian texts, post-war interests in psychoanalysis and esoterism, California's drug culture, military experiemnts with LSD, the rise of no-fault divorce in the US, the boom of pulp sci-fi, the post-truth mediatic turn, quantum mechanics and cosmology, the space race, the first serious talks of artificial intelligence and androids, the Bomb and its aftermath... Philip K. Dick captured all of it and more. He transformed the falseness and the brokeness of a life that is both extremely specific -- being an American in the 50s, 60s and 70s -- and completely generalisable -- living through overwhelming doubt and change -- into literary truth, published in the silliest of genre: science-fiction. But in his journals, Dick mentions writing reports rather than books [@TODO]. 
 
+## The Dickian question
+
+> Reality is that which, when you stop believing in it, doesn't go away.
+> -- Philip K. Dick, I Hope I Shall Arrive Soon 
+
+The Dickian question is very close to the question that lead me to study physics at the graduate level, the same question I try to answer as a literary scholar: What is the nature of reality?
+
+This question is not one that can be confronted directly, after all, to fight the empire is to be infected by it [@TODO]. In these terms, studying reality can be done in two ways: through method (or violence) and through aesthetics.
+
+> 
+
+There is an obligatory epistemic violence in method
 
 
 I am attracted by a specific form of literary brokenness. 
 The kind of brokenness that makes me glad that I don't have what it takes to be the tortured artist. 
 They are men and women, although historically, societal pressures were so different between the genders that some forms of brokeness are more likely in men than women and vice-versa. 
 
-Philip K. Dick is one such author who transformed the misery of life into literary truth: he synthetized mad and maddening wisdoms about reality and published it in silly science-fiction books tjat are only silly because they are classified as science-fiction, and he wrote science-fiction because published only wanted him to write science-fiction.
-But Dick did not write science-fiction, he wrote reports. 
 If he had not been born in the USA and in the 20s, his work would be studied in the same way as Borges or Sartre. 
 But then, if he had not been born in the USA and in the 20s, Philip K. Dick would not be Philip K. Dick. 
 
 Thinking about Dick reminds me of how I think of academia: to give someone the space to think and write makes them a nexus for the societies they inhabit. 
 Dick did not have the space to think and write, but took it nonetheless and became such a nexus for his era. 
-The pressures of the World Wars and the Cold Wars, of the blooming of psychology, the rediscovery of ancient Christian texts, post-war interests in psychoanalysis and esoterism, California's drug culture, military experiemnts with LSD, the rise of no-fault divorce in the US, the boom of pulp sci-fi, the post-truth mediatic turn, quantum mechanics and cosmology, the space race, the first serious talks of artificial intelligence and androids, the Bomb... Philip K. Dick captured all of it and more. 
 
 ## So, Why Philip K. Dick? 
 

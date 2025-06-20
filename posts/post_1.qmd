@@ -13,6 +13,10 @@ description: "A brief description of the post for SEO and previews."
 draft: true # Set to false when ready to publish
 ---
 
+## Let's be dragons
+
+Sometimes, when I need direction, I remember this story from r/PHD:
+
 > Gave a visiting PI a tour of our lab and equipment....later we had some coffee.
 > 
 > During our chat he fondly described his former PhD student in the following way....
@@ -21,5 +25,18 @@ draft: true # Set to false when ready to publish
 > Whoever this PhD student was, he's my new role model. Lets be dragons.
 >     - [Reddit user ori3333](https://www.reddit.com/r/PhD/comments/zb3pqd/here_be_dragons/)
 
-## I am no dragon
+The dragon metaphor is one I have trouble getting behind: dragons hoard treasure, they burn down towns and, once they are done, they sleep on their ill-gotten gold^[The nerds out there, me included, would point out the difference between chromatic dragons and metallic dragons in Dungeons and Dragons (red dragons, for instance, are evil, while gold dragons are noble), but let's base ourselves on Tolkien on this one.]. One hundred years ago, dragons extracted natural resources and their workers time, today many extract value directly at its source: money is being literally mined by crypto-bros and middle-men have taken control of the apps, which in turn have taken control of our time and brains. 
+
+These are dragons worth fighting rather than joining, but is not the only type of fire-breathing beast that concern me. 
+
+## The edge of the map
+
+In Patrick Rothfuss' *The Wise Man's Fear*, Kwothe points to a forested area on the map
+
+> Marten turned to lead us away from the An’s blade. “This is an old, old piece of forest. You don’t see the blade anywhere near where folk have settled. We’re off the edge of the map here.”
+> “We’re hardly on the edge of the map,” I said. “We know exactly where we are.”
+> Marten snorted. “Maps don’t just have outside edges. They have inside edges. Holes. Folk like to pretend they know everything about the world. Rich folk especially. Maps are great for that. On this side of the line is Baron Taxtwice’s field, on that side is Count Uptemuny’s land.”
+> Marten spat. “You can’t have blanks on your maps, so the folks who draw them shade in a piece and write, ‘The Eld.’ ” He shook his head. “You might as well burn a hole right through the map for what good that does. This forest is big as Vintas. Nobody owns it. You head off in the wrong direction in here, you’ll walk a hundred miles and never see a road, let alone a house or plowed field. There are places around here that have never felt the press of a man’s foot or heard the sound of his voice.”
+
+I am no dragon, but maybe I can be an adventurer and push back the limits of the map. 
 
