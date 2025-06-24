@@ -1,0 +1,42 @@
+---
+title: "Why Philip K. Dick?"
+author: "Yann Audin"
+date: "2025-01-21"
+categories: ["Philip K. Dick Project", "Literature"]
+tags: ["Philip K. Dick"]
+format:
+  html:
+    toc: true
+    number-sections: true
+    code-fold: true
+description: "A brief description of the post for SEO and previews."
+draft: true # Set to false when ready to publish
+---
+
+> Is there anyone there
+> Who understands me?
+> Anyone at all?
+> [...]
+> I have to know what is real
+> And what is illusion
+> Oh, how does it feel
+> Beyond this confusion?
+> 
+> -- "Monkeyland", The Chameleons UK (1983)
+
+## The Dickian question
+
+The question at the core of [Philip K. Dick](pkd_01.qmd)'s project is the same one that lead me to study physics at the graduate level, and the same one that still animates me in my literary studies
+
+> Reality is that which, when you stop believing in it, doesn't go away.
+> -- Philip K. Dick, *I Hope I Shall Arrive Soon* [-@dick_hope_TODO]
+
+Reality is not something that's easy to understand; it seems that any approach to try to grasp at it is a form of violence towards the universe. 
+
+> She said the mystery of life isn’t a problem to solve, but a reality to experience. So I quoted the First Law of Mentat at her: "A process cannot be understood by stopping it. Understanding must move with the flow of the process, must join it and flow with it."
+> -- Frank Herbert, *Dune* [-@herbert_dune_1965]
+
+Dick has its own answer in Valis:
+
+> To fight the Empire is to be infected by its derangement ... Whoever defeats the Empire becomes the Empire; it proliferates like a virus ... thereby it becomes its enemies. 
+> -- Philip K. Dick, *Valis* [-@dick_valis_TODO]

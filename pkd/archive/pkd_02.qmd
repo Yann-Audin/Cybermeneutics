@@ -13,22 +13,27 @@ description: "A brief description of the post for SEO and previews."
 draft: true # Set to false when ready to publish
 ---
 
+
+
+
 ## Why you should read Philip K. Dick
 
-The work of Philip K. Dick has a special place in the history of literature : his work is still being adapted to television and cinema (sometimes directly, often indirectly), and he has had a lasting impact on science-fiction and speculative fiction. To know his work is to recognize Dickianism everywhere, from *The Matrix* to *Donnie Darko*, and from *The Truman Show* to *Westworld*: when the nature of reality is contested, one can usually draw a line to Dick. This is not to say that Philip K. Dick changed much of the culture around him. In many ways, he was more a slave to the pressure of his time than many other authors who set themselves outside of the world as an observer, and he did not become a literary recluse: Dick was first and foremost an American white man who grew up and lived in an era of extraordinary and frightening technological and cultural transformations, and who became the nexus for the overwhelming forces of his time. 
+The novels and short stories of Philip K. Dick have a special place in the history of literature : his work is still being adapted to television and cinema (sometimes directly, often indirectly), and he has had a lasting impact on science-fiction and speculative fiction. To know his work is to recognize Dickianism everywhere, from *The Matrix* to *Donnie Darko*, and from *The Truman Show* to *Westworld*: when the nature of reality is contested, one can usually draw a line to Dick. This is not to say that Philip K. Dick changed much of the culture around him. In many ways, he was more a slave to the pressure of his time than many other authors who set themselves outside of the world as an observer, and he did not become a literary recluse: Dick was first and foremost an American white man who grew up and lived in an era of extraordinary and frightening technological and cultural transformations, and who became the nexus for the overwhelming forces of his time. 
 
-The pressures of the World Wars and the Cold Wars, the blooming of psychology, the rediscovery of ancient Christian texts, post-war interests in psychoanalysis and esoterism, California's drug culture, military experiemnts with LSD, the rise of no-fault divorce in the US, the boom of pulp sci-fi, the post-truth mediatic turn, quantum mechanics and cosmology, the space race, the first serious talks of artificial intelligence and androids, the Bomb and its aftermath... Philip K. Dick captured all of it and more. He transformed the falseness and the brokeness of a life that is both extremely specific -- being an American in the 50s, 60s and 70s -- and completely generalisable -- living through overwhelming doubt and change -- into literary truth, published in the silliest of genre: science-fiction. But in his journals, Dick mentions writing reports rather than books [@TODO]. 
+> But the state of things is so dreary here in the U.S.— they say the elderly and poor are eating canned dogfood, now, to stay alive, and the McDonald hamburg­ers are made from cows’ eyes. The radio also says that today when Charles Colson, the President’s former counsel, went into jail he still wore his Richard M. Nixon tieclasp. “California dreaming is becoming a reality,” is a line from a Mamas & The Papas song of a few years ago, but what a dreadful surreal reality it is: foglike and dangerous, with the subtle and terrible manifestations of evil rising up like rocks in the gloom. I wish I was somewhere else. Disneyland, maybe. The last sane place here? Forever to take Mr. Toad’s Wild Ride and never get off? [@dick_letters3_1974]
+
+The pressures of the World Wars and the Cold Wars, the blooming of psychology, the rediscovery of ancient Christian texts, post-war interests in psychoanalysis and esoterism, California's drug culture, military experiemnts with LSD, the rise of no-fault divorce in the US, the boom of pulp sci-fi, the post-truth mediatic turn, quantum mechanics and cosmology, the space race, the first serious talks of artificial intelligence and androids, the Bomb and its aftermath... Philip K. Dick lived and captured all of it and more. He transformed the falseness and the brokeness of a life that is both extremely specific -- being an American in the 50s, 60s and 70s -- and completely generalisable -- living through overwhelming doubt and change -- into literary truth, published in the silliest of genre: science-fiction. But in his journals, Dick mentions writing reports rather than books [@TODO]. 
 
 ## The Dickian question
 
 > Reality is that which, when you stop believing in it, doesn't go away.
-> -- Philip K. Dick, I Hope I Shall Arrive Soon 
+> -- Philip K. Dick, I Hope I Shall Arrive Soon [-@dick_TODO]
 
 The Dickian question is very close to the question that lead me to study physics at the graduate level, the same question I try to answer as a literary scholar: What is the nature of reality?
 
-This question is not one that can be confronted directly, after all, to fight the empire is to be infected by it [@TODO]. In these terms, studying reality can be done in two ways: through method (or violence) and through aesthetics.
+This question is not one that can be confronted directly, after all, to fight the empire is to be infected by it [@TODO]. In these terms, studying reality can be done in two ways: through method (and violence) or through aesthetics.
 
-> 
+> To fight the Empire is to be infected by its derangement ... Whoever defeats the Empire becomes the Empire; it proliferates like a virus ... thereby it becomes its enemies. - Philip K. Dick, Valis [-@dick_TODO]
 
 There is an obligatory epistemic violence in method
 
@@ -52,12 +57,14 @@ Like Albert Camus, Margaret Atwood, Samuel Beckett, and other literary philosoph
 He is not bound by aesthetic or storytelling, is main thesis is not political^[Although it should be remembered that he wrote extensively on the Cold War, the threat nuclear war, authoritarianism, communism, late stage capitalism and fascism.], nor is it aspirational.
 No, Philip K. Dick has a philosophy about the nature of reality that encompasses many of the troubles, both social and political, of our current age.
 
-> So I ask, in my writing, What is real? Because unceasingly we are bombarded with pseudorealities manufactured by very sophisticated people using very sophisticated electronic mechanisms. I do not distrust their motives; I distrust their power. They have a lot of it. And it is an astonishing power: that of creating whole universes, universes of the mind. I ought to know. I do the same thing. (How To Build A Universe That Doesn't Fall Apart Two Days Later, Philip K. Dick 1978)
+> So I ask, in my writing, What is real? Because unceasingly we are bombarded with pseudorealities manufactured by very sophisticated people using very sophisticated electronic mechanisms. I do not distrust their motives; I distrust their power. They have a lot of it. And it is an astonishing power: that of creating whole universes, universes of the mind. I ought to know. I do the same thing. 
+> 
+> Philip K. Dick, How To Build A Universe That Doesn't Fall Apart Two Days Later (1978)
 
 Moreover, the genre of science-fiction allowed him to adress issues that did not even exist during his time that are not central to our current era. 
 
 The fact that PKD presented his work as a reflexion on the nature of reality and mankind warrants greater academic attention, which this blog will hopefully contribute to^[On that matter, I blame the bias against science-fiction: the *serious* literary scene does not discuss it and reduces it to laser guns and aliens. (Do not take me wrong, I like laser guns and aliens as much as the next 30 years old man who's first memory of going to the cinema is seeing *Star Wars: The Phantom Menace* with their dad.) If I don't think that an apology of science-fiction is necessary, I might put in word my **strong** feelings on the matter in the future.]. 
 But the main and central reason why I personally decided to write about Philip K. Dick is that I was, long ago, infected by his ideas. 
 
-> To fight the Empire is to be infected by its derangement ... Whoever defeats the Empire becomes the Empire; it proliferates like a virus ... thereby it becomes its enemies. (Philip K. Dick, Valis 1981)
+
 
