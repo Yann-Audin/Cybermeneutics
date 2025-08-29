@@ -1,7 +1,7 @@
 ---
 title: "Why Philip K. Dick?"
 author: "Yann Audin"
-date: "2025-01-21"
+date: "2025-06-24"
 categories: ["Philip K. Dick Project", "Literature"]
 tags: ["Philip K. Dick"]
 format:
@@ -9,7 +9,7 @@ format:
     toc: true
     number-sections: true
     code-fold: true
-description: "A brief description of the post for SEO and previews."
+description: "Why does Philip K. Dick matter? TODO"
 draft: true # Set to false when ready to publish
 ---
 
@@ -31,7 +31,13 @@ The question at the core of [Philip K. Dick](pkd_01)'s project is the same one t
 > Reality is that which, when you stop believing in it, doesn't go away.
 > -- Philip K. Dick, *I Hope I Shall Arrive Soon* [-@dick_hope_TODO]
 
-Reality isn't something that is easy to understand; it seems that any approach to try to grasp at it is a form of violence towards the universe. How does one take hold of the system of which they are a part of? This reformulation of the question can be applied to mathematics and language, which brings us to a problem: these systems are not complete, they do not hold to scrutiny like we hope something like the universe would. What if the universe is, like language and mathematics, a system created by the network of affordances and perceptual horizons humans inherited from the laws of physics, language and culture? Studying the universe might lead to the same dead ends described by Gödel in his Incompleteness theorems; maybe the only solutions are infinite regression (nihilism), cyclical explanations (absurdism) or axiomatism (faith). Frank Herbert also touches on the Dickian question, although he comes at it from a spiritual (and less neurotic) avenue:
+Reality isn't something that is easy to understand; it seems that any one approach to try to grasp at it is a form of epistemic violence towards the universe itself, and a combination of approach inevariably leads to the need for incompatible points of view to exist simultaneously. Paul Valéry wrote "Nous ne raisonnons que par modèles" ["We only think through models", my translation], but systems are never complete, they do not hold to scrutiny like we hope something like a universe should/would. What if the (human) universe is, like language and mathematics, a system created by the network of affordances and perceptual horizons humans inherited from the laws of physics, language and culture? Studying the universe might lead to the same dead ends described by Gödel in his Incompleteness theorems: mathematical systems cannot justify themselves. On one hand, there is 
+
+Munchausen's trilemna
+
+Anyway, how does one take hold of the system of which they are a part of? This reformulation of the question can be applied to mathematics, physics and language alike: the pretension of objectivity fails systematically, is the unobserved universe worth creating?
+
+Frank Herbert also touches on the Dickian question, although he comes at it from a spiritual (and less neurotic) avenue:
 
 > She said the mystery of life isn’t a problem to solve, but a reality to experience. So I quoted the First Law of Mentat at her: "A process cannot be understood by stopping it. Understanding must move with the flow of the process, must join it and flow with it."
 > -- Frank Herbert, *Dune* [-@herbert_dune_1965]
@@ -46,7 +52,9 @@ Dick does not see the mystery of life as a flow in which one can let themselves 
 My views on Philip K. Dick are tainted by regret: on one hand, if he had been born at any other time or place, he might have been taken seriously; he might have been the philosopher his time as well as our time needed. On the other hand, if he had been born at any other time or place, he wouldn't be Philip K. Dick. His work was confined to science-fiction by material and cultural forces beyond his control -- he only manage to have one of his non-scifi novel published -- keeping his idea in stasis, away from serious criticism. 
 
 > The fact that what Dick is entertaining us about is reality and madness,time and death, sin and salvation -- this has escaped most readers and critics. Nobody notices; nobody notices that we have our own homegrown Borges, and have had him for 30 years
-> -- Ursula K. Leguin, "Science Fiction as Prophesy" [-@leguin_science_1976]^[The original article fro *The New Repulbic* vol. 175 is not readily available online, so this quote was retrieved from "Edmundo Paz Soldán and his Precursors: Borges, Dick, and the SF Canon" [@soldan_edmundo_2007]. ]
+> -- Ursula K. Leguin, "Science Fiction as Prophesy" [-@leguin_science_1976]^[The original article from *The New Repulbic* vol. 175 is not readily available online, so this quote was retrieved from "Edmundo Paz Soldán and his Precursors: Borges, Dick, and the SF Canon" [@soldan_edmundo_2007]. ]
+
+As for any other speculative fiction writer, some of Philip K. Dick's prediction came to pass, others are well on their way, and others are still the subject of more science-fiction than actual science. His insight on communication technologies and the consequences of handing so much information and power to a small number of telecommunication corporations [@dick_TODO] seems evident to the modern audience. In *Do Androids Dream of Electric Sheep*, his description of *Buster Friendly and his Friendly Friends* -- a 24/7 news and variety show starring a never aging, never tiring cast that is later revealed to be fully automated -- warns us of parasocial relationships, infinite scrolling, deepfakes and AI generated content. 
 
 
 

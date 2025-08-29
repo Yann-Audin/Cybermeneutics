@@ -1,7 +1,7 @@
 ---
 title: "Why Philip K. Dick?"
 author: "Yann Audin"
-date: "2025-01-21"
+date: "2025-06-24"
 categories: ["Philip K. Dick Project", "Cybermeneutics"]
 tags: ["Philip K. Dick"]
 format:
@@ -15,9 +15,11 @@ draft: true # Set to false when ready to publish
 
 ## Why you should read Philip K. Dick
 
-The novels and short stories of Philip K. Dick have a special place in the history of literature : his work is still being adapted to television and cinema (sometimes directly, often indirectly), and he has had a lasting impact on science-fiction and speculative fiction. To know his work is to recognize Dickianism everywhere, from *The Matrix* to *Donnie Darko*, and from *The Truman Show* to *Westworld*: when the nature of reality is contested, one can usually draw a line to Dick. This is not to say that Philip K. Dick changed much of the culture around him. In many ways, he was more a slave to the pressure of his time than many other authors who set themselves outside of the world as an observer, and he did not become a literary recluse: Dick was first and foremost an American white man who grew up and lived in an era of extraordinary and frightening technological and cultural transformations, and who became the nexus for the overwhelming forces of his time. 
+If you think science-fiction is a weird genre with little literary value, I don't think that you would be convinced to read Philip K. Dick if I were to sell it to you as "science-fiction, but even weirder". Maybe an appeal to canonicity and cultural importance would sway this hypothetical, anti-science-fiction reader, so let us say that Dick's work has a special place in history : it is still being adapted to television and cinema (sometimes directly, often indirectly), and he has had a lasting impact on multiple genre beyond science-fiction and speculative fiction. To know his work is to recognize Dickianism everywhere, from *The Matrix* to *Donnie Darko*, and from *The Truman Show* to *Westworld*: when the nature of reality is contested, one can usually draw a line to Dick. This is not to say that Philip K. Dick changed much of the culture around him. In many ways, he was more wrapped by and subjucated to the pressures of his time than many other authors who set themselves outside of society as observers, and he did not become a literary recluse, opting for a socially active and engaged life. Dick was first and foremost an American white man who grew up and lived in an era of extraordinary and frightening technological and cultural transformations, and who became a creative nexus for the overwhelming forces of his time. 
 
 > But the state of things is so dreary here in the U.S.— they say the elderly and poor are eating canned dogfood, now, to stay alive, and the McDonald hamburg­ers are made from cows’ eyes. The radio also says that today when Charles Colson, the President’s former counsel, went into jail he still wore his Richard M. Nixon tieclasp. “California dreaming is becoming a reality,” is a line from a Mamas & The Papas song of a few years ago, but what a dreadful surreal reality it is: foglike and dangerous, with the subtle and terrible manifestations of evil rising up like rocks in the gloom. I wish I was somewhere else. Disneyland, maybe. The last sane place here? Forever to take Mr. Toad’s Wild Ride and never get off? [@dick_letters3_1974]
+
+Dick does not simply embody the 
 
 The pressures of the World Wars and the Cold Wars, the blooming of psychology, the rediscovery of ancient Christian texts, post-war interests in psychoanalysis and esoterism, California's drug culture, military experiemnts with LSD, the rise of no-fault divorce in the US, the boom of pulp sci-fi, the post-truth mediatic turn, quantum mechanics and cosmology, the space race, the first serious talks of artificial intelligence and androids, the Bomb and its aftermath... Philip K. Dick lived and captured all of it and more. He transformed the falseness and the brokeness of a life that is both extremely specific -- being an American in the 50s, 60s and 70s -- and completely generalisable -- living through overwhelming doubt and change -- into literary truth, published in the silliest of genre: science-fiction. But in his journals, Dick mentions writing reports rather than books [@TODO]. 
 
