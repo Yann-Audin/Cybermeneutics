@@ -1,65 +1,66 @@
 ---
 title: "Why Philip K. Dick?"
 author: "Yann Audin"
-date: "2025-06-24"
+date: "2025-10-12"
 categories: ["Philip K. Dick Project", "Literature"]
 tags: ["Philip K. Dick"]
+bibliography: references.bib
 format:
   html:
     toc: true
     number-sections: true
     code-fold: true
-description: "Why does Philip K. Dick matter? TODO"
+description: "On my own connection to Philip K. Dick and why he matters."
 draft: true # Set to false when ready to publish
 ---
 
-> Is there anyone there
-> Who understands me?
-> Anyone at all?
-> [...]
-> I have to know what is real
-> And what is illusion
-> Oh, how does it feel
-> Beyond this confusion?
+## Why we should read Philip K. Dick's fiction
+
+To know Philip K. Dick's work is to recognize him everywhere. When the nature of reality is contested in contemporary media, one can usually draw a line to Dick, either directly -- *Bladerunner*, *The Adjustment Bureau*, *Total Recall*, *Philip K. Dick's Electric Dreams*, *Minority Report*, ... -- or indirectly -- *The Matrix*, *Donnie Darko*, *Eternal Sunshine of the Spotless Mind*, *The Truman Show*, *Westworld*, ... It is easy to trace many ideas in today's *zeitgeist* to his work, despite the narrowness of science-fiction readership. As an author, Dick didn't set himself or his writing apart from the world: he wasn't a literary recluse, didn't prop himself as an observer of society, didn't attempt to create a universal work of art, and the boundary between his personal life, his activism and his art was flimsy at best. Rather, he acted as a canary in a coal mine: Dick was first and foremost an American white man who grew up and lived in an era of extraordinary and frightening technological and cultural transformations, and who became a creative nexus for the formidable and overwhelming forces of his time. 
+
+The pressures of the World Wars and the Cold Wars, the blooming of psychology, the rediscovery of ancient Christian texts, post-war interests in psychoanalysis and esoterism, California's drug culture, military experiemnts with LSD, the rise of no-fault divorce in the US, the boom of pulp sci-fi, the blind enthousiasm of futurism, the post-truth mediatic turn, quantum mechanics and cosmology, the space race, the first serious talks of artificial intelligence and androids, the Bomb and its aftermath... Philip K. Dick lived and captured all of it and more. He transformed the falseness and the brokeness of a life that is both extremely specific---being an American in the 50s, 60s and 70s---and completely generalisable---living with crushing doubt and through sweeping changes---into literary truth.
+
+::: {.callout-important icon="false"}
+
+## **If nothing I say could convince you to read science-fiction:**
+
+I am well aware that if you think that S-F cannot hold literary value, it's unlikely that I could convince you to read Philip K. Dick if I were to describe it as "science-fiction, but even weirder". Instead, here is my half-baked appeal to canonicity on why you might want to try to read some S-F and Dick's work:
+
+- In most "best books of all time" lists, science-fiction tends to take 4--5% of the spots[^lists] despite being a relatively young and marginal genre;
+- Philip K. Dick was the first science-fiction author to be included in The Library of America series;
+- More than 26 000 scholarly articles mention him, and his work inspired Jean Baudrillard's very canonical *Simulacres et simulation*[^baudrillard];
+- Dick's extensive body of work is still being adapted to television and cinema (sometimes directly, often indirectly), and he has had a lasting impact on multiple genre beyond science-fiction and speculative fiction.
+
+However if the tropes of science-fiction are enough to make you put down a book, I don't actually believe that you actually *should* read Philip K. Dick's novels and short stories. That being said...
+
+:::
+
+## Why we should also read Philip K. Dick's non-fiction
+
+Philip K. Dick's non-fiction is a strange land few seem willing to explore, and with good reasons. On one hand, it is extremely varied and on the other it is extremely voluminous: between the essays, speeches, letters, notes, journal entries and poems he either published or kept in his files, there are more than ten thousand pages. His *Exegesis*, a living document he started in 1974 and never finished, is estimated at more than two millions words [@dick_letters1974]---of which only a fraction were published---, and the *selected* letters, released to the public after his death, fill six volumes[^PKD_letters]. These texts reveal the complexity of a broken, yet 
+
+In "Dark Haired Girls"---a collation of letters, notes on dreams and non-fiction that he unsuccessfully tried to publish in 1972, 1974 and 1977, but was published posthumously by his in 1988---Paul Williams, the executor to his literary estate, writes in the introduction:
+
+[^PKD_letters]:Dick started to produce carbon copies of his letters starting as early as 1964, although many were lost to an alleged burglary in 1971, and then when he left Marin County in early 1972 [@dick_letters1974]. It is more precise to say that: it is more precise to say that most of his correspondance post 1972 still exists in the numerous boxes of documents he left behind. 
+
+> I wish I could trust you, friend, but in the face of Phil's persuasiveness, I am not sure I can, so instead I'm going to tell you flat out:
+>
+> This is a tale told by an unreliable narrator, who recognizes his own unreliability and yet at the same time believes everything he says. If you in turn allow yourself to believe uncritically everything he says, you are a damn fool. Watch out. Especially if you think you are not a damn fool, watch out. [@dick_dark_TODO]
+
+
+
+
+
+> I got a letter from a fellow science fiction writer who had reviewed VALIS, favorably... he mentioned that he had himself done a novel based on Gnosticism, and I wrote him raising several issues basic to Gnosticism, whereupon he wrote back to say that he considered such matters essentially "futile game," and, what was more, dangerous to play around with. "I have a family to support," he wrote. "I don't dare think about such things" (I'm paraphrasing, but that is the gist of it). What a dreadful thing: that someone would consider ideas too dangerous to think about, [he] even went so far to suggest that it was very possible that you could become crazy due to wondering about fundamental epistemological, philosophical questions. Good lord; have we come to that?
 > 
-> -- "Monkeyland", The Chameleons UK (1983)
+>  An intellectual dark age seems to be settling over the United States. People are literally frightened by new ideas. [...] I suppose there is a risk. There has *always* been a risk. But is not this risk a grand risk, the sign of a noble heart? The intellectual pioneers of our species ventured forth in the contemplation and analysis of "dangerous" ideasl; this is how we have come to acquire a vast heritage of knowledge and wisdom. And yet---people are afraid. The question I put to this writer is, "Does the universe in fact exist, or are we compelled by some mysterious agency to take it ineluctably for real? That is, we are compelled against our choice---even our knowledge---to take it to be real." [@dick_selected1981-1982]
 
-## The Dickian question
 
-The question at the core of [Philip K. Dick](pkd_01)'s project is the same one that lead me to study physics at the graduate level, and the same one that still animates me in my literary studies to this day: "What is reality?"
-
-> Reality is that which, when you stop believing in it, doesn't go away.
-> -- Philip K. Dick, *I Hope I Shall Arrive Soon* [-@dick_hope_TODO]
-
-Reality isn't something that is easy to understand; it seems that any one approach to try to grasp at it is a form of epistemic violence towards the universe itself, and a combination of approach inevariably leads to the need for incompatible points of view to exist simultaneously. Paul Valéry wrote "Nous ne raisonnons que par modèles" ["We only think through models", my translation], but systems are never complete, they do not hold to scrutiny like we hope something like a universe should/would. What if the (human) universe is, like language and mathematics, a system created by the network of affordances and perceptual horizons humans inherited from the laws of physics, language and culture? Studying the universe might lead to the same dead ends described by Gödel in his Incompleteness theorems: mathematical systems cannot justify themselves. On one hand, there is 
-
-Munchausen's trilemna
-
-Anyway, how does one take hold of the system of which they are a part of? This reformulation of the question can be applied to mathematics, physics and language alike: the pretension of objectivity fails systematically, is the unobserved universe worth creating?
-
-Frank Herbert also touches on the Dickian question, although he comes at it from a spiritual (and less neurotic) avenue:
-
-> She said the mystery of life isn’t a problem to solve, but a reality to experience. So I quoted the First Law of Mentat at her: "A process cannot be understood by stopping it. Understanding must move with the flow of the process, must join it and flow with it."
-> -- Frank Herbert, *Dune* [-@herbert_dune_1965]
-
-Dick does not see the mystery of life as a flow in which one can let themselves go, he knows enough to know the shape of the prison, and presents his view of breaking out in *Valis*:
-
-> To fight the Empire is to be infected by its derangement ... Whoever defeats the Empire becomes the Empire; it proliferates like a virus ... thereby it becomes its enemies. 
-> -- Philip K. Dick, *Valis* [-@dick_valis_TODO]
-
-### No one is prophet in their own (time or) country
-
-My views on Philip K. Dick are tainted by regret: on one hand, if he had been born at any other time or place, he might have been taken seriously; he might have been the philosopher his time as well as our time needed. On the other hand, if he had been born at any other time or place, he wouldn't be Philip K. Dick. His work was confined to science-fiction by material and cultural forces beyond his control -- he only manage to have one of his non-scifi novel published -- keeping his idea in stasis, away from serious criticism. 
-
-> The fact that what Dick is entertaining us about is reality and madness,time and death, sin and salvation -- this has escaped most readers and critics. Nobody notices; nobody notices that we have our own homegrown Borges, and have had him for 30 years
-> -- Ursula K. Leguin, "Science Fiction as Prophesy" [-@leguin_science_1976]^[The original article from *The New Repulbic* vol. 175 is not readily available online, so this quote was retrieved from "Edmundo Paz Soldán and his Precursors: Borges, Dick, and the SF Canon" [@soldan_edmundo_2007]. ]
-
-As for any other speculative fiction writer, some of Philip K. Dick's prediction came to pass, others are well on their way, and others are still the subject of more science-fiction than actual science. His insight on communication technologies and the consequences of handing so much information and power to a small number of telecommunication corporations [@dick_TODO] seems evident to the modern audience. In *Do Androids Dream of Electric Sheep*, his description of *Buster Friendly and his Friendly Friends* -- a 24/7 news and variety show starring a never aging, never tiring cast that is later revealed to be fully automated -- warns us of parasocial relationships, infinite scrolling, deepfakes and AI generated content. 
+> But the state of things is so dreary here in the U.S.— they say the elderly and poor are eating canned dogfood, now, to stay alive, and the McDonald hamburg­ers are made from cows’ eyes. The radio also says that today when Charles Colson, the President’s former counsel, went into jail he still wore his Richard M. Nixon tieclasp. “California dreaming is becoming a reality,” is a line from a Mamas & The Papas song of a few years ago, but what a dreadful surreal reality it is: foglike and dangerous, with the subtle and terrible manifestations of evil rising up like rocks in the gloom. I wish I was somewhere else. Disneyland, maybe. The last sane place here? Forever to take Mr. Toad’s Wild Ride and never get off? [@dick_letters3_1974]
 
 
 
-## Why you should read Philip K. Dick
 
-To know Philip K. Dick's work is to recognize Dickianism everywhere. When the nature of reality is contested in contemporary media, one can usually draw a line to Dick, either directly -- *Bladerunner*, *The Adjustment Bureau*, *Total Recall*, *Philip K. Dick's Electric Dreams*, *Minority Report*, ... -- or indirectly -- *The Matrix*, *Donnie Darko*, *The Truman Show*, *Westworld*, ...
-
-This is not to say that Philip K. Dick changed much of the culture around him. In many ways, he was more a slave to the pressure of his time than many other authors who set themselves outside of the world as an observer, and he did not become a literary recluse. Dick was first and foremost an American white man who grew up and lived in an era of extraordinary and frightening technological and cultural transformations, and who became the nexus for the overwhelming forces of his time. 
+> So I ask, in my writing, What is real? Because unceasingly we are bombarded with pseudorealities manufactured by very sophisticated people using very sophisticated electronic mechanisms. I do not distrust their motives; I distrust their power. They have a lot of it. And it is an astonishing power: that of creating whole universes, universes of the mind. I ought to know. I do the same thing. 
+> 
+> Philip K. Dick, How To Build A Universe That Doesn't Fall Apart Two Days Later (1978)

@@ -2,7 +2,7 @@
 title: "A Philip K. Dick Cybermeneutics Project"
 listing:
   contents: pkd/*.qmd
-  sort: "date desc" # Sort posts by date, newest first
+  sort: "date asc" # Sort posts by date, newest first
   type: default     # Use the default listing layout
   fields: [title, date, author, categories, description]
   feed: true        # Enable RSS feed for the blog
