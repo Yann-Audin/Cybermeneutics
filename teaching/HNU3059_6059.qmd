@@ -1,0 +1,209 @@
+---
+title : "HNU3059/6059"
+subtitle : "Humanités numériques --- Langages de programmation"
+lang: fr
+date: 2025-09-30
+author : 
+  - name : "Chargé de cours : Yann Audin"
+    email : "yann.audin@umontreal.ca"
+    degrees :
+      - M.Sc.
+      - M.A.
+    roles : "Chargé de cours"
+    affiliation :
+      - name : "Université de Montréal"
+        url : "https://www.umontreal.ca/"
+license : MIT
+format: 
+  html : 
+    number-sections: true
+    number-depth: 1
+  pdf : 
+    number-sections: true
+    number-depth: 1
+bibliography: bibtex.bib
+notice: |
+  @darnit_exact_2017
+  @downey2012think
+  @bennett2015introduction
+---
+
+# Humanités numériques - Langages de programmation
+
+Atelier sur les concepts fondamentaux d’un langage de programmation en explorant son application aux sciences humaines.
+
+Cet atelier d'un crédit se déroulera les vendredis de 9h30 à 15h30, du 21 novembre au 5 décembre 2025, et introduit les étudiant·es à la programmation, et plus spécifiquement au langage de programmation Python. 
+
+## Information générale
+
+| L'atelier | L'enseignant |
+|:--|:--|
+|||
+|**Horaire des cours\ :** Vendredi, 9h30--15h30 du 21 novembre au 5 décembre 2025.|**Mes disponibilités\ :** Sur demande, mais je serai à mon laboratoire les mardis et mercredis.|
+|||
+|**Local d'enseignement\ :** A-332 Pavillon Marie-Victorin|**Mon laboratoire\ :** C-8041 et C-8039|
+|||
+|**Site web du cours\ :** [yann-audin.github.io/Cybermeneutics/](https://yann-audin.github.io/Cybermeneutics/)|**Mon courriel\ :** [yann.audin@umontreal.ca](mailto:yann.audin@umontreal.ca) | 
+
+## Philosophie d'enseignement
+
+La participation active en classe est nécessaire à la réussite et est notée. Puisque le matériel préparatoire est nécessaire à la bonne participation en classe, il est assumé que les étudiant·es prendront le temps de lire et visionner en amont les éléments ici présentés. Cela étant dit, l'apprentissage de l'informatique passe par le jeu autant que par l'effort\ : le matériel obligatoire et les évaluations reflètent cette vision. 
+
+## En guise d'inspiration
+
+> With respect to such general issues as meaning and style, the computer plays two roles. On the one hand, it is the idiot who can count and sort large amounts of material very fast. On the other, by its very existence, it forces the humanist to state his general principles in definite, operational terms that even an idiot can understand. 
+> 
+> \phantom{1pt} \hspace{40pt} --- Norman N. Holland [-@holland_futures_1967] \hfill
+
+# Plans de sessions
+
+L'atelier est divisé en six sessions d'une demi-journée chacune. La première session de chaque journée décrit les lectures et visionnements obligatoires, ainsi que les remises s'il y a lieu. 
+
+## Partie I -- Pseudocode
+
+**Vendredi (2025-11-21) de 9h30 à 11h30.**
+
+::: {.callout-note icon=false}
+
+### Matériel supplémentaire obligatoire
+
+- [ ] Visionnement de ["Exact Instructions Challenge PB&J" par Josh Darnit](https://www.youtube.com/watch?v=FN2RM-CHkuI)\ ;
+- [ ] Lecture des pages 3 à 7 (inclusivement) de l'article de Nocholas Bennett, ["Introduction to Algorithms and Pseudocode"](https://www.researchgate.net/profile/Nicholas-Bennett-6/publication/309410533_Introduction_to_Algorithms_and_Pseudocode/links/67983af196e7fb48b9a410aa/Introduction-to-Algorithms-and-Pseudocode.pdf)\ ;
+- [ ] ["An Informal Introduction to Python"](https://docs.python.org/3/tutorial/introduction.html) sur le site officiel de la [documentation Python 3](https://docs.python.org/3/). 
+
+:::
+
+### Objectifs
+
+- Exprimer une tâche sous la forme de pseudocode\ ;
+- Explorer les difficultés liées à la précision nécessaire à la programmation\ ;
+- Comprendre les limites de l'ordinateur, mais aussi son attrait en sciences sociales et humaines.
+
+## Partie II -- Traduire un objet en langage computationnel
+
+**Vendredi (2025-11-21) de 12h30 à 15h30.**
+
+### Objectifs
+
+- Comprendre les notions d'objet et de fonction\ ;
+- Décrire formellement des objets et fonctions en pseudocode\ ;
+- Explorer les affordances de la computation. 
+
+## Partie III -- Les bases d'un langage de programmation
+
+**Vendredi (2025-11-28) de 9h30 à 11h30.**
+
+::: {.callout-note icon=false}
+
+### Matériel supplémentaire obligatoire
+
+- [ ] [ThinkPython](https://allendowney.github.io/ThinkPython/), chapitres 2, 3 et 5.
+    - ThinkPython est une excellente ressource et nous l'utiliserons comme référence principale pour le reste de l'atelier. 
+
+:::
+
+::: {.callout-note icon=false}
+
+### Remises
+
+- [ ] Première remise (15 \%)\ :
+    - Exercice de pseudocode. 
+- [ ] Installation de Jupyter Notebook (5 \%).
+
+:::
+
+### Objectifs
+
+- Apprendre les structures normales de la programmation (variables, listes, dictionnaires, boucles, instructions conditionnelles)\ ;
+- S'outiller à lire la documentation d'un langage de programmation.
+
+## Partie IV -- Fonctions et objets
+
+**Vendredi (2025-11-28) de 12h30 à 15h30.**
+
+### Objectifs
+
+- Comprendre les notions d'objet et de fonction ;
+- Traduire un pseudocode en script Python\ ;
+- Manipuler des objets et appeler leurs fonctions.
+
+## Partie V -- Python et le langage naturel
+
+**Vendredi (2025-12-05) de 9h30 à 11h30.**
+
+:::{.callout-note icon="false"}
+
+### Remises
+
+- [ ] Seconde remise (20 \%)\ : 
+    - Projet de formalisation d'un concept en sciences humaines et sociales, remise sous la forme d'un Jupyter Notebook commenté et annoté. 
+
+:::
+
+:::{.callout-note icon="false"}
+
+### Matériel supplémentaire obligatoire
+
+- [ ] [ThinkPython](https://allendowney.github.io/ThinkPython/), chapitres 8 et 12\ ;
+- [ ] Code d'Eliza et explication par Daniel Connelly de Georgia Tech sur le site web [https://dhconnelly.com/paip-python/](paip-python)\ :
+    - [Code d'Eliza](https://dhconnelly.com/paip-python/docs/paip/eliza.html)\ ;
+    - [Patterns d'Eliza](https://dhconnelly.com/paip-python/docs/paip/examples/eliza/eliza.html).
+
+
+:::
+
+### Objectifs
+
+- Importer, manipuler et transformer les données textuelles dans Python ;
+- Développer des compétences avec [SpaCy](https://spacy.io/)\ : une bibliothèque Python spécialisée en traitement automatique du langage.
+
+## Partie VI -- Python pour les sciences humaines
+
+**Vendredi (2025-12-05) de 12h30 à 15h30.**
+
+### Objectifs
+
+- Développer une ébauche de projet en sciences humaines et sociales qui servira de base au projet final.
+
+## Partie VII -- Projet final
+
+**Lundi (2025-12-15) à 23h59.**
+
+:::{.callout-note icon="false"}
+
+## Remises
+
+- [ ] La remise finale se fera par courriel au plus tard le 15 septembre 2025 à 23h59 et compte pour 50 \% de la note finale. 
+
+:::
+
+# Évaluations
+
+## Évaluations communes aux étudiant·es des deux cours
+
+1. Présence et participation active **(10 \%)**\ :
+    - La présence aux trois journées, la participation aux discussions en classe et les lectures obligatoires sont nécessaires à une bonne réussite de l'atelier. 
+2. Première remise **(15 \%)**\ : 
+    - Exercice de pseudo-code\ : Définition formelle d'une fonction et d'un objet des sciences humaines en pseudocode.
+3. Démontrer un accès à un Jupyter Notebook **(5 \%)**\ :
+    - Le 28 novembre au matin\ : avoir un Jupyter Notebook qui tourne **en local** sur sa machine. Cet exercice est d'**importance capitale** pour les deux derniers jours de l'atelier. 
+4. Deuxième remise **(20 \%)**\ : 
+    - Projet de formalisation d'un concept en sciences humaines et sociales\ : Remise sous la forme d'un Jupyter Notebook commenté et annoté dans lequel un ou plusieurs objets et fonctions sont définis et utilisés de manière à exemplifier et démontrer leur fonctionnement. <!--Formalisation d'un concept pertinent dans le contexte des humanités numériques sous la forme d'un objet et de ses fonctions. Cette remise doit prendre la forme d'un Jupyter Notebook. -->
+5. Projet final **(50 \%)**\ :
+    - Les paramètres exacts du projet final seront déterminés en fonction des intérêts et des connaissances préalables de chacun·e. Dans tous les cas, l'objectif de la dernière remise est la planification et l'exécution d'un projet à petite échelle en humanités numériques. 
+
+::: {.callout-important}
+
+## Politique pour les retards
+
+- L'évaluation intitulée "démontrer un accès à un Jupyter Notebook" sera notée en classe, le matin du 28 novembre 2025 avec une note de 5/5 si la capacité est démontrée, et de 0/5 autrement. 
+- La première et la seconde remise sont nécessaires pour participer activement aux deuxième et troisième journée de l'atelier, il est fortement recommandé de ne pas accuser de retard pour ces remises. 
+- En cas de retard pour la première ou seconde remise, ou encore pour le projet final, une pénalité de 5 \% par jour (incluant les jours fériés et les jours de fin de semaine) sera imposée. Aucun délai de grâce ne saurait être accordé dans les trois jours menant à la remise sauf en cas de circonstances exceptionnelles. 
+
+:::
+
+## Références {-}
+
+:::{#refs}
+
+:::

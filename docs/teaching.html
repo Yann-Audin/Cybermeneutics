@@ -6,11 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Yann Audin">
-<meta name="dcterms.date" content="2025-06-24">
-<meta name="description" content="A brief description of the post for SEO and previews.">
 
-<title>Why Philip K. Dick? – Cybermeneutics</title>
+<title>Teaching – Cybermeneutics</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -26,22 +23,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-bf19b75f51ea680c8de03e84aa65eabd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-bf19b75f51ea680c8de03e84aa65eabd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,20 +68,77 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<meta name="quarto:status" content="draft">
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="../styles.css">
+    const options = {
+      valueNames: ['listing-title','listing-date','listing-author','listing-categories','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top"><div id="quarto-draft-alert" class="alert alert-warning"><i class="bi bi-pencil-square"></i>Draft</div>
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Cybermeneutics</span>
     </a>
   </div>
@@ -93,12 +149,16 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../about.html"> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About the Author</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../PKD.html"> 
+    <a class="nav-link" href="./PKD.html"> 
 <span class="menu-text">Philip K. Dick Project</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./teaching.html" aria-current="page"> 
+<span class="menu-text">Teaching</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -111,53 +171,22 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#the-dickian-question" id="toc-the-dickian-question" class="nav-link active" data-scroll-target="#the-dickian-question"><span class="header-section-number">1</span> The Dickian question</a>
-  <ul class="collapse">
-  <li><a href="#no-one-is-prophet-in-their-own-time-or-country" id="toc-no-one-is-prophet-in-their-own-time-or-country" class="nav-link" data-scroll-target="#no-one-is-prophet-in-their-own-time-or-country"><span class="header-section-number">1.1</span> No one is prophet in their own (time or) country</a></li>
-  </ul></li>
-  <li><a href="#why-you-should-read-philip-k.-dick" id="toc-why-you-should-read-philip-k.-dick" class="nav-link" data-scroll-target="#why-you-should-read-philip-k.-dick"><span class="header-section-number">2</span> Why you should read Philip K. Dick</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Why Philip K. Dick?</h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">Philip K. Dick Project</div>
-    <div class="quarto-category">Literature</div>
-  </div>
-  </div>
-
-<div>
-  <div class="description">
-    A brief description of the post for SEO and previews.
-  </div>
+<h1 class="title">Teaching</h1>
 </div>
+
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Yann Audin </p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">June 24, 2025</p>
-    </div>
-  </div>
   
     
   </div>
@@ -167,49 +196,40 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>em—dash–test.</p>
-<blockquote class="blockquote">
-<p>Is there anyone there Who understands me? Anyone at all? […] I have to know what is real And what is illusion Oh, how does it feel Beyond this confusion?</p>
-<p>– “Monkeyland”, The Chameleons UK (1983)</p>
-</blockquote>
-<section id="the-dickian-question" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="the-dickian-question"><span class="header-section-number">1</span> The Dickian question</h2>
-<p>The question at the core of <a href="pkd_01">Philip K. Dick</a>’s project is the same one that lead me to study physics at the graduate level, and the same one that still animates me in my literary studies to this day: “What is reality?”</p>
-<blockquote class="blockquote">
-<p>Reality is that which, when you stop believing in it, doesn’t go away. – Philip K. Dick, <em>I Hope I Shall Arrive Soon</em> <span class="citation" data-cites="dick_hope_TODO">[-@dick_hope_TODO]</span></p>
-</blockquote>
-<p>Reality isn’t something that is easy to understand; it seems that any approach to try to grasp at it is a form of violence towards the universe. How does one take hold of the system of which they are a part of? This reformulation of the question can be applied to mathematics and language, which brings us to a problem: these systems are not complete, they do not hold to scrutiny like we hope something like the universe would. What if the universe is, like language and mathematics, a system created by the network of affordances and perceptual horizons humans inherited from the laws of physics, language and culture? Studying the universe might lead to the same dead ends described by Gödel in his Incompleteness theorems; maybe the only solutions are infinite regression (nihilism), cyclical explanations (absurdism) or axiomatism (faith). Frank Herbert also touches on the Dickian question, although he comes at it from a spiritual (and less neurotic) avenue:</p>
-<blockquote class="blockquote">
-<p>She said the mystery of life isn’t a problem to solve, but a reality to experience. So I quoted the First Law of Mentat at her: “A process cannot be understood by stopping it. Understanding must move with the flow of the process, must join it and flow with it.” – Frank Herbert, <em>Dune</em> <span class="citation" data-cites="herbert_dune_1965">[-@herbert_dune_1965]</span></p>
-</blockquote>
-<p>Dick does not see the mystery of life as a flow in which one can let themselves go, he knows enough to know the shape of the prison, and presents his view of breaking out in <em>Valis</em>:</p>
-<blockquote class="blockquote">
-<p>To fight the Empire is to be infected by its derangement … Whoever defeats the Empire becomes the Empire; it proliferates like a virus … thereby it becomes its enemies. – Philip K. Dick, <em>Valis</em> <span class="citation" data-cites="dick_valis_TODO">[-@dick_valis_TODO]</span></p>
-</blockquote>
-<section id="no-one-is-prophet-in-their-own-time-or-country" class="level3" data-number="1.1">
-<h3 data-number="1.1" class="anchored" data-anchor-id="no-one-is-prophet-in-their-own-time-or-country"><span class="header-section-number">1.1</span> No one is prophet in their own (time or) country</h3>
-<p>My views on Philip K. Dick are tainted by regret: on one hand, if he had been born at any other time or place, he might have been taken seriously; he might have been the philosopher his time as well as our time needed. On the other hand, if he had been born at any other time or place, he wouldn’t be Philip K. Dick. His work was confined to science-fiction by material and cultural forces beyond his control – he only manage to have one of his non-scifi novel published – keeping his idea in stasis, away from serious criticism.</p>
-<blockquote class="blockquote">
-<p>The fact that what Dick is entertaining us about is reality and madness,time and death, sin and salvation – this has escaped most readers and critics. Nobody notices; nobody notices that we have our own homegrown Borges, and have had him for 30 years – Ursula K. Leguin, “Science Fiction as Prophesy” <span class="citation" data-cites="leguin_science_1976">[-@leguin_science_1976]</span><a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
-</blockquote>
-<p>As for any other speculative fiction writer, some of Philip K. Dick’s prediction came to pass, others are well on their way, and others are still the subject of more science-fiction than actual science. His insight on communication technologies and the consequences of handing so much information and power to a small number of telecommunication corporations <span class="citation" data-cites="dick_TODO">[@dick_TODO]</span> seems evident to the modern audience. In <em>Do Androids Dream of Electric Sheep</em>, his description of <em>Buster Friendly and his Friendly Friends</em> – a 24/7 news and variety show starring a never aging, never tiring cast that is later revealed to be fully automated – warns us of parasocial relationships, infinite scrolling, deepfakes and AI generated content.</p>
-</section>
-</section>
-<section id="why-you-should-read-philip-k.-dick" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="why-you-should-read-philip-k.-dick"><span class="header-section-number">2</span> Why you should read Philip K. Dick</h2>
-<p>To know Philip K. Dick’s work is to recognize Dickianism everywhere. When the nature of reality is contested in contemporary media, one can usually draw a line to Dick, either directly – <em>Bladerunner</em>, <em>The Adjustment Bureau</em>, <em>Total Recall</em>, <em>Philip K. Dick’s Electric Dreams</em>, <em>Minority Report</em>, … – or indirectly – <em>The Matrix</em>, <em>Donnie Darko</em>, <em>The Truman Show</em>, <em>Westworld</em>, …</p>
-<p>This is not to say that Philip K. Dick changed much of the culture around him. In many ways, he was more a slave to the pressure of his time than many other authors who set themselves outside of the world as an observer, and he did not become a literary recluse. Dick was first and foremost an American white man who grew up and lived in an era of extraordinary and frightening technological and cultural transformations, and who became the nexus for the overwhelming forces of his time.</p>
 
 
-</section>
 
 
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>The original article from <em>The New Repulbic</em> vol.&nbsp;175 is not readily available online, so this quote was retrieved from “Edmundo Paz Soldán and his Precursors: Borges, Dick, and the SF Canon” <span class="citation" data-cites="soldan_edmundo_2007">[@soldan_edmundo_2007]</span>. <a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section></div></main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1759204800000" data-listing-file-modified-sort="1763405650964" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1108">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./teaching/HNU3059_6059.html" class="no-external">HNU3059/6059</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./teaching/HNU3059_6059.html" class="no-external">Humanités numériques — Langages de programmation</a>
+</div>
+<div class="listing-description">
+<a href="./teaching/HNU3059_6059.html" class="no-external">Atelier sur les concepts fondamentaux d’un langage de programmation en explorant son application aux sciences humaines.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./teaching/HNU3059_6059.html" class="no-external">
+<div class="listing-date">
+Sep 30, 2025
+</div>
+<div class="listing-author">
+Chargé de cours : Yann Audin
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

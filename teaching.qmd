@@ -1,0 +1,12 @@
+---
+title: "Teaching"
+listing:
+  contents: teaching/*.qmd
+  sort: "date asc" # Sort posts by date, newest first
+  type: default     # Use the default listing layout
+  fields: [title, date, author, categories, description]
+  feed: true        # Enable RSS feed for the blog
+  page-size: 10000     # Number of posts per page
+  grid-columns: 1   # Display posts in a single column
+---
+

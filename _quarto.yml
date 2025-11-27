@@ -12,6 +12,8 @@ website:
       #  href: blog.qmd
       - text: Philip K. Dick Project
         href: PKD.qmd
+      - text: Teaching
+        href: teaching.qmd
         
 format:
   html:

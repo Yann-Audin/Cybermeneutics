@@ -6,10 +6,13 @@ listing:
   type: default     # Use the default listing layout
   fields: [title, date, author, categories, description]
   feed: true        # Enable RSS feed for the blog
-  page-size: 10     # Number of posts per page
+  page-size: 10000     # Number of posts per page
   grid-columns: 1   # Display posts in a single column
 ---
 
 The *Philip K. Dick Cybermeneutics Project* is a case study for my thesis. It is an attempt at computer-assisted hermeneutics in which I combine close reading and distant reading methods to analyse Philip K. Dick's novels and short stories with classical and algorithmic techniques. 
 
 The project was presented during the [2025 CSDH Conference](presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.qmd).
+
+## Blog entries
+

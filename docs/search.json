@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "HNU3059/6059\n\n\nHumanités numériques — Langages de programmation\n\n\n\n\n\n\n\n\nSep 30, 2025\n\n\nChargé de cours : Yann Audin\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#the-exegesis-of-philip-k.-dick",
     "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#the-exegesis-of-philip-k.-dick",
     "title": "Cybermeneutics - Anthology of a Tool",
@@ -203,11 +210,18 @@
     "text": "References\n\n\n\n\n\nDick, Philip K. 2011. The Exegesis of Philip k. Dick. Edited by Pamela Jackson and Jonathan Lethem. Houghton Mifflin Harcourt."
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cybermeneutics",
     "section": "",
-    "text": "This page collects my reflections on various sujects loosely related to my thesis. Comments – either with Hypothesis or by email – are welcome as this blog represents preliminary work rather than anything definitive.\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to Yann Audin’s research blog!\nAccess to the Cybermeneutics tools can be found on its own dedicated github: https://github.com/Yann-Audin/CybermeneuticsTools1."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Cybermeneutics",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThe main branch of this repository leads to the latest version.↩︎"
   },
   {
     "objectID": "about.html",
@@ -231,18 +245,11 @@
     "text": "Proceedings\n\nDes algorithmes pour définir des concepts littéraires?\nLe projet Intelligence artificielle littéraire (IAL): définir formellement le concept de variation au sein de l’Anthologie grecque?\nIntelligence Artificielle Littéraire\nThe Importance of Single Source Publishing in Scientific Publishing"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Cybermeneutics",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "Welcome to Yann Audin’s research blog!\nAccess to the Cybermeneutics tools can be found on its own dedicated github: https://github.com/Yann-Audin/CybermeneuticsTools1."
-  },
-  {
-    "objectID": "index.html#footnotes",
-    "href": "index.html#footnotes",
-    "title": "Cybermeneutics",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThe main branch of this repository leads to the latest version.↩︎"
+    "text": "This page collects my reflections on various sujects loosely related to my thesis. Comments – either with Hypothesis or by email – are welcome as this blog represents preliminary work rather than anything definitive.\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "pkd/pkd_01.html",
@@ -291,76 +298,104 @@
     "href": "PKD.html",
     "title": "A Philip K. Dick Cybermeneutics Project",
     "section": "",
-    "text": "The Philip K. Dick Cybermeneutics Project is a case study for my thesis. It is an attempt at computer-assisted hermeneutics in which I combine close reading and distant reading methods to analyse Philip K. Dick’s novels and short stories with classical and algorithmic techniques.\nThe project was presented during the 2025 CSDH Conference.\n\n\n\n\n\n\n\n\n\nWho is Philip K. Dick?\n\n\n\n\n\n\nPhilip K. Dick\n\n\nBiography\n\n\n\nA biography of Philip K. Dick\n\n\n\n\n\nMay 3, 2025\n\n\nYann Audin\n\n\n\n\n\n\nNo matching items"
+    "text": "The Philip K. Dick Cybermeneutics Project is a case study for my thesis. It is an attempt at computer-assisted hermeneutics in which I combine close reading and distant reading methods to analyse Philip K. Dick’s novels and short stories with classical and algorithmic techniques.\nThe project was presented during the 2025 CSDH Conference."
   },
   {
-    "objectID": "pkd/pkd_02_v2.html",
-    "href": "pkd/pkd_02_v2.html",
-    "title": "Why Philip K. Dick?",
+    "objectID": "PKD.html#blog-entries",
+    "href": "PKD.html#blog-entries",
+    "title": "A Philip K. Dick Cybermeneutics Project",
+    "section": "Blog entries",
+    "text": "Blog entries"
+  },
+  {
+    "objectID": "teaching/HNU3059_6059.html",
+    "href": "teaching/HNU3059_6059.html",
+    "title": "HNU3059/6059",
     "section": "",
-    "text": "em—dash–test."
+    "text": "Atelier sur les concepts fondamentaux d’un langage de programmation en explorant son application aux sciences humaines.\nCet atelier d’un crédit se déroulera les vendredis de 9h30 à 15h30, du 21 novembre au 5 décembre 2025, et introduit les étudiant·es à la programmation, et plus spécifiquement au langage de programmation Python.\n\n\n\n\n\nL’atelier\nL’enseignant\n\n\n\n\n\n\n\n\nHoraire des cours : Vendredi, 9h30–15h30 du 21 novembre au 5 décembre 2025.\nMes disponibilités : Sur demande, mais je serai à mon laboratoire les mardis et mercredis.\n\n\n\n\n\n\nLocal d’enseignement : A-332 Pavillon Marie-Victorin\nMon laboratoire : C-8041 et C-8039\n\n\n\n\n\n\nSite web du cours : yann-audin.github.io/Cybermeneutics/\nMon courriel : yann.audin@umontreal.ca\n\n\n\n\n\n\nLa participation active en classe est nécessaire à la réussite et est notée. Puisque le matériel préparatoire est nécessaire à la bonne participation en classe, il est assumé que les étudiant·es prendront le temps de lire et visionner en amont les éléments ici présentés. Cela étant dit, l’apprentissage de l’informatique passe par le jeu autant que par l’effort : le matériel obligatoire et les évaluations reflètent cette vision.\n\n\n\n\nWith respect to such general issues as meaning and style, the computer plays two roles. On the one hand, it is the idiot who can count and sort large amounts of material very fast. On the other, by its very existence, it forces the humanist to state his general principles in definite, operational terms that even an idiot can understand.\n — Norman N. Holland (1967)"
   },
   {
-    "objectID": "pkd/pkd_02_v2.html#the-dickian-question",
-    "href": "pkd/pkd_02_v2.html#the-dickian-question",
-    "title": "Why Philip K. Dick?",
-    "section": "1 The Dickian question",
-    "text": "1 The Dickian question\nThe question at the core of Philip K. Dick’s project is the same one that lead me to study physics at the graduate level, and the same one that still animates me in my literary studies to this day: “What is reality?”\n\nReality is that which, when you stop believing in it, doesn’t go away. – Philip K. Dick, I Hope I Shall Arrive Soon [-@dick_hope_TODO]\n\nReality isn’t something that is easy to understand; it seems that any approach to try to grasp at it is a form of violence towards the universe. How does one take hold of the system of which they are a part of? This reformulation of the question can be applied to mathematics and language, which brings us to a problem: these systems are not complete, they do not hold to scrutiny like we hope something like the universe would. What if the universe is, like language and mathematics, a system created by the network of affordances and perceptual horizons humans inherited from the laws of physics, language and culture? Studying the universe might lead to the same dead ends described by Gödel in his Incompleteness theorems; maybe the only solutions are infinite regression (nihilism), cyclical explanations (absurdism) or axiomatism (faith). Frank Herbert also touches on the Dickian question, although he comes at it from a spiritual (and less neurotic) avenue:\n\nShe said the mystery of life isn’t a problem to solve, but a reality to experience. So I quoted the First Law of Mentat at her: “A process cannot be understood by stopping it. Understanding must move with the flow of the process, must join it and flow with it.” – Frank Herbert, Dune [-@herbert_dune_1965]\n\nDick does not see the mystery of life as a flow in which one can let themselves go, he knows enough to know the shape of the prison, and presents his view of breaking out in Valis:\n\nTo fight the Empire is to be infected by its derangement … Whoever defeats the Empire becomes the Empire; it proliferates like a virus … thereby it becomes its enemies. – Philip K. Dick, Valis [-@dick_valis_TODO]\n\n\n1.1 No one is prophet in their own (time or) country\nMy views on Philip K. Dick are tainted by regret: on one hand, if he had been born at any other time or place, he might have been taken seriously; he might have been the philosopher his time as well as our time needed. On the other hand, if he had been born at any other time or place, he wouldn’t be Philip K. Dick. His work was confined to science-fiction by material and cultural forces beyond his control – he only manage to have one of his non-scifi novel published – keeping his idea in stasis, away from serious criticism.\n\nThe fact that what Dick is entertaining us about is reality and madness,time and death, sin and salvation – this has escaped most readers and critics. Nobody notices; nobody notices that we have our own homegrown Borges, and have had him for 30 years – Ursula K. Leguin, “Science Fiction as Prophesy” [-@leguin_science_1976]1\n\nAs for any other speculative fiction writer, some of Philip K. Dick’s prediction came to pass, others are well on their way, and others are still the subject of more science-fiction than actual science. His insight on communication technologies and the consequences of handing so much information and power to a small number of telecommunication corporations [@dick_TODO] seems evident to the modern audience. In Do Androids Dream of Electric Sheep, his description of Buster Friendly and his Friendly Friends – a 24/7 news and variety show starring a never aging, never tiring cast that is later revealed to be fully automated – warns us of parasocial relationships, infinite scrolling, deepfakes and AI generated content."
-  },
-  {
-    "objectID": "pkd/pkd_02_v2.html#why-you-should-read-philip-k.-dick",
-    "href": "pkd/pkd_02_v2.html#why-you-should-read-philip-k.-dick",
-    "title": "Why Philip K. Dick?",
-    "section": "2 Why you should read Philip K. Dick",
-    "text": "2 Why you should read Philip K. Dick\nTo know Philip K. Dick’s work is to recognize Dickianism everywhere. When the nature of reality is contested in contemporary media, one can usually draw a line to Dick, either directly – Bladerunner, The Adjustment Bureau, Total Recall, Philip K. Dick’s Electric Dreams, Minority Report, … – or indirectly – The Matrix, Donnie Darko, The Truman Show, Westworld, …\nThis is not to say that Philip K. Dick changed much of the culture around him. In many ways, he was more a slave to the pressure of his time than many other authors who set themselves outside of the world as an observer, and he did not become a literary recluse. Dick was first and foremost an American white man who grew up and lived in an era of extraordinary and frightening technological and cultural transformations, and who became the nexus for the overwhelming forces of his time."
-  },
-  {
-    "objectID": "pkd/pkd_02_v2.html#footnotes",
-    "href": "pkd/pkd_02_v2.html#footnotes",
-    "title": "Why Philip K. Dick?",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThe original article from The New Repulbic vol. 175 is not readily available online, so this quote was retrieved from “Edmundo Paz Soldán and his Precursors: Borges, Dick, and the SF Canon” [@soldan_edmundo_2007]. ↩︎"
-  },
-  {
-    "objectID": "pkd/pkd_02.html",
-    "href": "pkd/pkd_02.html",
-    "title": "Why Philip K. Dick?",
+    "objectID": "teaching/HNU3059_6059.html#information-générale",
+    "href": "teaching/HNU3059_6059.html#information-générale",
+    "title": "HNU3059/6059",
     "section": "",
-    "text": "If nothing I say could convince you to read science-fiction:\n\n\n\nI am well aware that if you think that S-F cannot hold literary value, it’s unlikely that I could convince you to read Philip K. Dick if I were to describe it as “science-fiction, but even weirder”. Instead, here is my half-baked appeal to canonicity on why you might want to try to read some S-F and Dick’s work:\n\nIn most “best books of all time” lists, science-fiction tends to take 4–5% of the spots1 despite being a relatively young and marginal genre;\nPhilip K. Dick was the first science-fiction author to be included in The Library of America series;\nMore than 26 000 scholarly articles mention him and his work inspired Jean Baudrillard’s Simulacres et simulation2;\nDick’s extensive body of work is still being adapted to television and cinema (sometimes directly, often indirectly), and he has had a lasting impact on multiple genre beyond science-fiction and speculative fiction.\n\nHowever if the tropes of science-fiction are enough to make you put down a book, I don’t actually believe that you actually should read Philip K. Dick. That being said…"
+    "text": "L’atelier\nL’enseignant\n\n\n\n\n\n\n\n\nHoraire des cours : Vendredi, 9h30–15h30 du 21 novembre au 5 décembre 2025.\nMes disponibilités : Sur demande, mais je serai à mon laboratoire les mardis et mercredis.\n\n\n\n\n\n\nLocal d’enseignement : A-332 Pavillon Marie-Victorin\nMon laboratoire : C-8041 et C-8039\n\n\n\n\n\n\nSite web du cours : yann-audin.github.io/Cybermeneutics/\nMon courriel : yann.audin@umontreal.ca"
   },
   {
-    "objectID": "pkd/pkd_02.html#why-i-think-you-should-read-some-philip-k.-dick",
-    "href": "pkd/pkd_02.html#why-i-think-you-should-read-some-philip-k.-dick",
-    "title": "Why Philip K. Dick?",
-    "section": "1 Why I think you should read some Philip K. Dick",
-    "text": "1 Why I think you should read some Philip K. Dick\nTo know Philip K. Dick’s work is to recognize him everywhere. When the nature of reality is contested in contemporary media, one can usually draw a line to Dick, either directly – Bladerunner, The Adjustment Bureau, Total Recall, Philip K. Dick’s Electric Dreams, Minority Report, … – or indirectly – The Matrix, Donnie Darko, Eternal Sunshine of the Spotless Mind, The Truman Show, Westworld, …\nDick was wrapped into the culture of his time: he did not set himself apart from society as an observer, nor was he a literary recluse, opting for a social and socially engaged life.\nThis is not to say that Philip K. Dick changed much of the culture around him. In many ways, he was more wrapped by and subjucated to the pressures of his time than many other authors who set themselves outside of society as observers, and he did not become a literary recluse, opting for a socially active and engaged life. Dick was first and foremost an American white man who grew up and lived in an era of extraordinary and frightening technological and cultural transformations, and who became a creative nexus for the formidable and overwhelming forces of his time.\nThe pressures of the World Wars and the Cold Wars, the blooming of psychology, the rediscovery of ancient Christian texts, post-war interests in psychoanalysis and esoterism, California’s drug culture, military experiemnts with LSD, the rise of no-fault divorce in the US, the boom of pulp sci-fi, the blind enthousiasm of futurism, the post-truth mediatic turn, quantum mechanics and cosmology, the space race, the first serious talks of artificial intelligence and androids, the Bomb and its aftermath… Philip K. Dick lived and captured all of it and more. He transformed the falseness and the brokeness of a life that is both extremely specific – being an American in the 50s, 60s and 70s – and completely generalisable – living with crushing doubt and through sweeping changes – into literary truth, published in the silliest of genre: science-fiction.\nThat being said, one must also make a case to study Philip K. Dick’s letters and non-fiction :\n\nBut the state of things is so dreary here in the U.S.— they say the elderly and poor are eating canned dogfood, now, to stay alive, and the McDonald hamburg­ers are made from cows’ eyes. The radio also says that today when Charles Colson, the President’s former counsel, went into jail he still wore his Richard M. Nixon tieclasp. “California dreaming is becoming a reality,” is a line from a Mamas & The Papas song of a few years ago, but what a dreadful surreal reality it is: foglike and dangerous, with the subtle and terrible manifestations of evil rising up like rocks in the gloom. I wish I was somewhere else. Disneyland, maybe. The last sane place here? Forever to take Mr. Toad’s Wild Ride and never get off? (dick_letters3_1974?)"
+    "objectID": "teaching/HNU3059_6059.html#philosophie-denseignement",
+    "href": "teaching/HNU3059_6059.html#philosophie-denseignement",
+    "title": "HNU3059/6059",
+    "section": "",
+    "text": "La participation active en classe est nécessaire à la réussite et est notée. Puisque le matériel préparatoire est nécessaire à la bonne participation en classe, il est assumé que les étudiant·es prendront le temps de lire et visionner en amont les éléments ici présentés. Cela étant dit, l’apprentissage de l’informatique passe par le jeu autant que par l’effort : le matériel obligatoire et les évaluations reflètent cette vision."
   },
   {
-    "objectID": "pkd/pkd_02.html#the-dickian-question",
-    "href": "pkd/pkd_02.html#the-dickian-question",
-    "title": "Why Philip K. Dick?",
-    "section": "2 The Dickian question",
-    "text": "2 The Dickian question\nThe question at the core of Philip K. Dick’s project is the same one that lead me to study physics at the graduate level, and the same one that still animates me in my literary studies to this day: “What is reality?”\n\nReality is that which, when you stop believing in it, doesn’t go away. – Philip K. Dick, I Hope I Shall Arrive Soon (dick_hope_TODO?)\n\nReality isn’t something that is easy to understand; it seems that any one approach to try to grasp at it is a form of epistemic violence towards the universe itself, and a combination of approach inevariably leads to the need for incompatible points of view to exist simultaneously. Paul Valéry wrote “Nous ne raisonnons que par modèles” [“We only think through models”, my translation], but systems are never complete, they do not hold to scrutiny like we hope something like a universe should/would. What if the (human) universe is, like language and mathematics, a system created by the network of affordances and perceptual horizons humans inherited from the laws of physics, language and culture?\nHow does one take hold of the system of which they are a part of? This reformulation of the question can be applied to mathematics, physics and language alike: the pretension of objectivity fails systematically, is the unobserved universe worth creating?\nStudying the universe might lead to the same dead ends described by Gödel in his Incompleteness theorems: mathematical systems cannot justify themselves. According to the first incompletness theorem, there is no consistent set of axioms for mathematics that allows one to prove all truths about arithmetics. Even worse, the second incompletness theorem proves that no system can prove its own self-consistency. Beyond formal systems, Münchhausen’s trilemna make a similar case for knowledge\nFries’ Trilemna tries to address this limit by reframing the problem: things can be known dogmatically, through infinite regresses, or by basing oneself on perceptual experience. This answer seems to point to empiricism as a simple solution to the problem of epistemology, but perceptual experience is not something you can systematically trust, and for someone like Philip K. Dick who lived between multiple realities, perception can’t be the answer: if most people cannot see the cage in which they stand, and the few that know t\nFrank Herbert also touches on the Dickian question, although he comes at it from a spiritual (and less neurotic) avenue:\n\nShe said the mystery of life isn’t a problem to solve, but a reality to experience. So I quoted the First Law of Mentat at her: “A process cannot be understood by stopping it. Understanding must move with the flow of the process, must join it and flow with it.” – Frank Herbert, Dune (herbert_dune_1965?)\n\nDick does not see the mystery of life as a flow in which one can let themselves go, he knows enough to know the shape of the prison, and presents his view of breaking out in Valis:\n\nTo fight the Empire is to be infected by its derangement … Whoever defeats the Empire becomes the Empire; it proliferates like a virus … thereby it becomes its enemies. – Philip K. Dick, Valis (dick_valis_TODO?)\n\n\n2.1 No one is prophet in their own (time or) country\nMy views on Philip K. Dick are tainted by regret: on one hand, if he had been born at any other time or place, he might have been taken seriously; he might have been the philosopher his time as well as our time needed. On the other hand, if he had been born at any other time or place, he wouldn’t be Philip K. Dick. His work was confined to science-fiction by material and cultural forces beyond his control – he only manage to have one of his non-scifi novel published – keeping his idea in stasis, away from serious criticism.\n\nThe fact that what Dick is entertaining us about is reality and madness,time and death, sin and salvation – this has escaped most readers and critics. Nobody notices; nobody notices that we have our own homegrown Borges, and have had him for 30 years – Ursula K. Leguin, “Science Fiction as Prophesy” (1976)3\n\nAs for any other speculative fiction writer, some of Philip K. Dick’s prediction came to pass, others are well on their way, and others are still the subject of more science-fiction than actual science. His insight on communication technologies and the consequences of handing so much information and power to a small number of telecommunication corporations (dick_TODO?) seems evident to the modern audience. In Do Androids Dream of Electric Sheep, his description of Buster Friendly and his Friendly Friends – a 24/7 news and variety show starring a never aging, never tiring cast that is later revealed to be fully automated – warns us of parasocial relationships, infinite scrolling, deepfakes and AI generated content."
+    "objectID": "teaching/HNU3059_6059.html#en-guise-dinspiration",
+    "href": "teaching/HNU3059_6059.html#en-guise-dinspiration",
+    "title": "HNU3059/6059",
+    "section": "",
+    "text": "With respect to such general issues as meaning and style, the computer plays two roles. On the one hand, it is the idiot who can count and sort large amounts of material very fast. On the other, by its very existence, it forces the humanist to state his general principles in definite, operational terms that even an idiot can understand.\n — Norman N. Holland (1967)"
   },
   {
-    "objectID": "pkd/pkd_02.html#why-do-i-study-philip-k.-dick",
-    "href": "pkd/pkd_02.html#why-do-i-study-philip-k.-dick",
-    "title": "Why Philip K. Dick?",
-    "section": "3 Why do I study Philip K. Dick",
-    "text": "3 Why do I study Philip K. Dick\nPart of it is simply that I grew up reading his stories and still do enjoy them, although that is not enought to warrant a research blog4. Another part of it is my fascination with the literary character that is Philip K. Dick and the improbable life he lead as well as the impact he still has on us to this day. But then again, that does not explain why I should write about him today, because the real reason is deeper and, I am afraid, more sinister. Like Albert Camus, Margaret Atwood, Samuel Beckett, and other literary philosophers, Philip K. Dick doesn’t simply write. He is not bound by aesthetic or storytelling, is main thesis is not political5, nor is it aspirational. No, Philip K. Dick has a philosophy about the nature of reality that encompasses many of the troubles, both social and political, of our current age.\n\nSo I ask, in my writing, What is real? Because unceasingly we are bombarded with pseudorealities manufactured by very sophisticated people using very sophisticated electronic mechanisms. I do not distrust their motives; I distrust their power. They have a lot of it. And it is an astonishing power: that of creating whole universes, universes of the mind. I ought to know. I do the same thing.\nPhilip K. Dick, How To Build A Universe That Doesn’t Fall Apart Two Days Later (1978)\n\nMoreover, the genre of science-fiction allowed him to adress issues that did not even exist during his time that are not central to our current era.\nThe fact that PKD presented his work as a reflexion on the nature of reality and mankind warrants greater academic attention, which this blog will hopefully contribute to6. But the main and central reason why I personally decided to write about Philip K. Dick is that I was, long ago, infected by his ideas.\n\nIs there anyone there\nWho understands me?\nAnyone at all?\n[…]\nI have to know what is real\nAnd what is illusion\nOh, how does it feel\nBeyond this confusion?\n\n– “Monkeyland”, The Chameleons UK (1983)"
+    "objectID": "teaching/HNU3059_6059.html#partie-i-pseudocode",
+    "href": "teaching/HNU3059_6059.html#partie-i-pseudocode",
+    "title": "HNU3059/6059",
+    "section": "Partie I – Pseudocode",
+    "text": "Partie I – Pseudocode\nVendredi (2025-11-21) de 9h30 à 11h30.\n\n\n\n\n\n\nMatériel supplémentaire obligatoire\n\n\n\n\nVisionnement de “Exact Instructions Challenge PB&J” par Josh Darnit ;\nLecture des pages 3 à 7 (inclusivement) de l’article de Nocholas Bennett, “Introduction to Algorithms and Pseudocode” ;\n“An Informal Introduction to Python” sur le site officiel de la documentation Python 3.\n\n\n\n\nObjectifs\n\nExprimer une tâche sous la forme de pseudocode ;\nExplorer les difficultés liées à la précision nécessaire à la programmation ;\nComprendre les limites de l’ordinateur, mais aussi son attrait en sciences sociales et humaines."
   },
   {
-    "objectID": "pkd/pkd_02.html#bibliography",
-    "href": "pkd/pkd_02.html#bibliography",
-    "title": "Why Philip K. Dick?",
-    "section": "4 Bibliography",
-    "text": "4 Bibliography"
+    "objectID": "teaching/HNU3059_6059.html#partie-ii-traduire-un-objet-en-langage-computationnel",
+    "href": "teaching/HNU3059_6059.html#partie-ii-traduire-un-objet-en-langage-computationnel",
+    "title": "HNU3059/6059",
+    "section": "Partie II – Traduire un objet en langage computationnel",
+    "text": "Partie II – Traduire un objet en langage computationnel\nVendredi (2025-11-21) de 12h30 à 15h30.\n\nObjectifs\n\nComprendre les notions d’objet et de fonction ;\nDécrire formellement des objets et fonctions en pseudocode ;\nExplorer les affordances de la computation."
   },
   {
-    "objectID": "pkd/pkd_02.html#footnotes",
-    "href": "pkd/pkd_02.html#footnotes",
-    "title": "Why Philip K. Dick?",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nEstimate based on a quick, informal research, please do not cite this number. I consulted the Time Magazine, Le Monde’s 100 Books of the Century, The Greatest Books’ Global Literary Canon, the Modern Library’s 100 Best Novels, PBS’s The Great American Read, Pinguin and Random House’s 100 must-read classics, and The Guardian’s “The best novels written in English. Dystopias dominate these lists with Orwell’s 1984, Burgess’ A Clockwork Orange and Huxley’s Brave New World. Philip K. Dick’s Ubik makes a few appearances.↩︎\nAlthough the strength of this connection is challenged by Jorge Martins Rosa in his 2008 articles “A Misreading Gone Too Far? Baudrillard Meets Philip K. Dick”: it seems like Baudrillard made a series of mistake in his reading of Dick’s novels, confusing and conflating plots, ignoring fundamental aspects of Dick’s word—such as the phantom twin, see “Who is Philip K. Dick?”, and even mispelling Dick’s name multiple times (Rosa 2008).↩︎\nThe original article from The New Repulbic vol. 175 is not readily available online, so this quote was retrieved from “Edmundo Paz Soldán and his Precursors: Borges, Dick, and the SF Canon” (Soldán 2007). ↩︎\nThat being said, research subjects are often the result of personal feelings in literature: we do not spend hundreds of hours working on a subject that we don’t like just for the sake of “producing” articles and books, or at least I hope not.↩︎\nAlthough it should be remembered that he wrote extensively on the Cold War, the threat nuclear war, authoritarianism, communism, late stage capitalism and fascism.↩︎\nOn that matter, I blame the bias against science-fiction: the serious literary scene does not discuss it and reduces it to laser guns and aliens. (Do not take me wrong, I like laser guns and aliens as much as the next 30 years old man who’s first memory of going to the cinema is seeing Star Wars: The Phantom Menace with their dad.) If I don’t think that an apology of science-fiction is necessary, I might put in word my strong feelings on the matter in the future.↩︎"
+    "objectID": "teaching/HNU3059_6059.html#partie-iii-les-bases-dun-langage-de-programmation",
+    "href": "teaching/HNU3059_6059.html#partie-iii-les-bases-dun-langage-de-programmation",
+    "title": "HNU3059/6059",
+    "section": "Partie III – Les bases d’un langage de programmation",
+    "text": "Partie III – Les bases d’un langage de programmation\nVendredi (2025-11-28) de 9h30 à 11h30.\n\n\n\n\n\n\nMatériel supplémentaire obligatoire\n\n\n\n\nThinkPython, chapitres 2, 3 et 5.\n\nThinkPython est une excellente ressource et nous l’utiliserons comme référence principale pour le reste de l’atelier.\n\n\n\n\n\n\n\n\n\n\nRemises\n\n\n\n\nPremière remise (15 %) :\n\nExercice de pseudocode.\n\nInstallation de Jupyter Notebook (5 %).\n\n\n\n\nObjectifs\n\nApprendre les structures normales de la programmation (variables, listes, dictionnaires, boucles, instructions conditionnelles) ;\nS’outiller à lire la documentation d’un langage de programmation."
+  },
+  {
+    "objectID": "teaching/HNU3059_6059.html#partie-iv-fonctions-et-objets",
+    "href": "teaching/HNU3059_6059.html#partie-iv-fonctions-et-objets",
+    "title": "HNU3059/6059",
+    "section": "Partie IV – Fonctions et objets",
+    "text": "Partie IV – Fonctions et objets\nVendredi (2025-11-28) de 12h30 à 15h30.\n\nObjectifs\n\nComprendre les notions d’objet et de fonction ;\nTraduire un pseudocode en script Python ;\nManipuler des objets et appeler leurs fonctions."
+  },
+  {
+    "objectID": "teaching/HNU3059_6059.html#partie-v-python-et-le-langage-naturel",
+    "href": "teaching/HNU3059_6059.html#partie-v-python-et-le-langage-naturel",
+    "title": "HNU3059/6059",
+    "section": "Partie V – Python et le langage naturel",
+    "text": "Partie V – Python et le langage naturel\nVendredi (2025-12-05) de 9h30 à 11h30.\n\n\n\n\n\n\nRemises\n\n\n\n\nSeconde remise (20 %) :\n\nProjet de formalisation d’un concept en sciences humaines et sociales, remise sous la forme d’un Jupyter Notebook commenté et annoté.\n\n\n\n\n\n\n\n\n\n\nMatériel supplémentaire obligatoire\n\n\n\n\nThinkPython, chapitres 8 et 12 ;\nCode d’Eliza et explication par Daniel Connelly de Georgia Tech sur le site web https://dhconnelly.com/paip-python/ :\n\nCode d’Eliza ;\nPatterns d’Eliza.\n\n\n\n\n\nObjectifs\n\nImporter, manipuler et transformer les données textuelles dans Python ;\nDévelopper des compétences avec SpaCy : une bibliothèque Python spécialisée en traitement automatique du langage."
+  },
+  {
+    "objectID": "teaching/HNU3059_6059.html#partie-vi-python-pour-les-sciences-humaines",
+    "href": "teaching/HNU3059_6059.html#partie-vi-python-pour-les-sciences-humaines",
+    "title": "HNU3059/6059",
+    "section": "Partie VI – Python pour les sciences humaines",
+    "text": "Partie VI – Python pour les sciences humaines\nVendredi (2025-12-05) de 12h30 à 15h30.\n\nObjectifs\n\nDévelopper une ébauche de projet en sciences humaines et sociales qui servira de base au projet final."
+  },
+  {
+    "objectID": "teaching/HNU3059_6059.html#partie-vii-projet-final",
+    "href": "teaching/HNU3059_6059.html#partie-vii-projet-final",
+    "title": "HNU3059/6059",
+    "section": "Partie VII – Projet final",
+    "text": "Partie VII – Projet final\nLundi (2025-12-15) à 23h59.\n\n\n\n\n\n\nRemises\n\n\n\n\nLa remise finale se fera par courriel au plus tard le 15 septembre 2025 à 23h59 et compte pour 50 % de la note finale."
+  },
+  {
+    "objectID": "teaching/HNU3059_6059.html#évaluations-communes-aux-étudiantes-des-deux-cours",
+    "href": "teaching/HNU3059_6059.html#évaluations-communes-aux-étudiantes-des-deux-cours",
+    "title": "HNU3059/6059",
+    "section": "Évaluations communes aux étudiant·es des deux cours",
+    "text": "Évaluations communes aux étudiant·es des deux cours\n\nPrésence et participation active (10 %) :\n\nLa présence aux trois journées, la participation aux discussions en classe et les lectures obligatoires sont nécessaires à une bonne réussite de l’atelier.\n\nPremière remise (15 %) :\n\nExercice de pseudo-code : Définition formelle d’une fonction et d’un objet des sciences humaines en pseudocode.\n\nDémontrer un accès à un Jupyter Notebook (5 %) :\n\nLe 28 novembre au matin : avoir un Jupyter Notebook qui tourne en local sur sa machine. Cet exercice est d’importance capitale pour les deux derniers jours de l’atelier.\n\nDeuxième remise (20 %) :\n\nProjet de formalisation d’un concept en sciences humaines et sociales : Remise sous la forme d’un Jupyter Notebook commenté et annoté dans lequel un ou plusieurs objets et fonctions sont définis et utilisés de manière à exemplifier et démontrer leur fonctionnement. \n\nProjet final (50 %) :\n\nLes paramètres exacts du projet final seront déterminés en fonction des intérêts et des connaissances préalables de chacun·e. Dans tous les cas, l’objectif de la dernière remise est la planification et l’exécution d’un projet à petite échelle en humanités numériques.\n\n\n\n\n\n\n\n\nPolitique pour les retards\n\n\n\n\nL’évaluation intitulée “démontrer un accès à un Jupyter Notebook” sera notée en classe, le matin du 28 novembre 2025 avec une note de 5/5 si la capacité est démontrée, et de 0/5 autrement.\nLa première et la seconde remise sont nécessaires pour participer activement aux deuxième et troisième journée de l’atelier, il est fortement recommandé de ne pas accuser de retard pour ces remises.\nEn cas de retard pour la première ou seconde remise, ou encore pour le projet final, une pénalité de 5 % par jour (incluant les jours fériés et les jours de fin de semaine) sera imposée. Aucun délai de grâce ne saurait être accordé dans les trois jours menant à la remise sauf en cas de circonstances exceptionnelles."
+  },
+  {
+    "objectID": "teaching/HNU3059_6059.html#références",
+    "href": "teaching/HNU3059_6059.html#références",
+    "title": "HNU3059/6059",
+    "section": "Références",
+    "text": "Références\n\n\nBennett, Nicholas. 2015. « Introduction to Algorithms and Pseudocode ». Working paper in Project “Exploring Modelling; Computation.\n\n\nDarnit, Josh. 2017. « Exact Instructions Challenge PB&J Classroom Friendly ». YouTube. https://www.youtube.com/watch?v=XXXXXX.\n\n\nDowney, Allen. 2012. Think python. \" O’Reilly Media, Inc.\".\n\n\nHolland, Norman N. 1967. « Futures: A non-summary of the EDUCOM Symposium on the computer and humanistic studies, 8, 9, 10 June 1967 ». Computers and the Humanities, 57‑64."
   }
 ]

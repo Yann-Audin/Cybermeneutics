@@ -1,0 +1,950 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.39">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Chargé de cours : Yann Audin">
+
+<title>HNU3059/6059 – Cybermeneutics</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-bf19b75f51ea680c8de03e84aa65eabd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "Pas de résultats",
+    "search-matching-documents-text": "documents trouvés",
+    "search-copy-link-title": "Copier le lien vers la recherche",
+    "search-hide-matches-text": "Cacher les correspondances additionnelles",
+    "search-more-match-text": "correspondance de plus dans ce document",
+    "search-more-matches-text": "correspondances de plus dans ce document",
+    "search-clear-button-title": "Effacer",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Annuler",
+    "search-submit-button-title": "Envoyer",
+    "search-label": "Recherche"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Cybermeneutics</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Recherche"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Basculer la navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../about.html"> 
+<span class="menu-text">About the Author</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../PKD.html"> 
+<span class="menu-text">Philip K. Dick Project</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../teaching.html"> 
+<span class="menu-text">Teaching</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Sur cette page</h2>
+   
+  <ul>
+  <li><a href="#humanités-numériques---langages-de-programmation" id="toc-humanités-numériques---langages-de-programmation" class="nav-link active" data-scroll-target="#humanités-numériques---langages-de-programmation"><span class="header-section-number">1</span> Humanités numériques - Langages de programmation</a>
+  <ul class="collapse">
+  <li><a href="#information-générale" id="toc-information-générale" class="nav-link" data-scroll-target="#information-générale">Information générale</a></li>
+  <li><a href="#philosophie-denseignement" id="toc-philosophie-denseignement" class="nav-link" data-scroll-target="#philosophie-denseignement">Philosophie d’enseignement</a></li>
+  <li><a href="#en-guise-dinspiration" id="toc-en-guise-dinspiration" class="nav-link" data-scroll-target="#en-guise-dinspiration">En guise d’inspiration</a></li>
+  </ul></li>
+  <li><a href="#plans-de-sessions" id="toc-plans-de-sessions" class="nav-link" data-scroll-target="#plans-de-sessions"><span class="header-section-number">2</span> Plans de sessions</a>
+  <ul class="collapse">
+  <li><a href="#partie-i-pseudocode" id="toc-partie-i-pseudocode" class="nav-link" data-scroll-target="#partie-i-pseudocode">Partie I – Pseudocode</a>
+  <ul class="collapse">
+  <li><a href="#objectifs" id="toc-objectifs" class="nav-link" data-scroll-target="#objectifs">Objectifs</a></li>
+  </ul></li>
+  <li><a href="#partie-ii-traduire-un-objet-en-langage-computationnel" id="toc-partie-ii-traduire-un-objet-en-langage-computationnel" class="nav-link" data-scroll-target="#partie-ii-traduire-un-objet-en-langage-computationnel">Partie II – Traduire un objet en langage computationnel</a>
+  <ul class="collapse">
+  <li><a href="#objectifs-1" id="toc-objectifs-1" class="nav-link" data-scroll-target="#objectifs-1">Objectifs</a></li>
+  </ul></li>
+  <li><a href="#partie-iii-les-bases-dun-langage-de-programmation" id="toc-partie-iii-les-bases-dun-langage-de-programmation" class="nav-link" data-scroll-target="#partie-iii-les-bases-dun-langage-de-programmation">Partie III – Les bases d’un langage de programmation</a>
+  <ul class="collapse">
+  <li><a href="#objectifs-2" id="toc-objectifs-2" class="nav-link" data-scroll-target="#objectifs-2">Objectifs</a></li>
+  </ul></li>
+  <li><a href="#partie-iv-fonctions-et-objets" id="toc-partie-iv-fonctions-et-objets" class="nav-link" data-scroll-target="#partie-iv-fonctions-et-objets">Partie IV – Fonctions et objets</a>
+  <ul class="collapse">
+  <li><a href="#objectifs-3" id="toc-objectifs-3" class="nav-link" data-scroll-target="#objectifs-3">Objectifs</a></li>
+  </ul></li>
+  <li><a href="#partie-v-python-et-le-langage-naturel" id="toc-partie-v-python-et-le-langage-naturel" class="nav-link" data-scroll-target="#partie-v-python-et-le-langage-naturel">Partie V – Python et le langage naturel</a>
+  <ul class="collapse">
+  <li><a href="#objectifs-4" id="toc-objectifs-4" class="nav-link" data-scroll-target="#objectifs-4">Objectifs</a></li>
+  </ul></li>
+  <li><a href="#partie-vi-python-pour-les-sciences-humaines" id="toc-partie-vi-python-pour-les-sciences-humaines" class="nav-link" data-scroll-target="#partie-vi-python-pour-les-sciences-humaines">Partie VI – Python pour les sciences humaines</a>
+  <ul class="collapse">
+  <li><a href="#objectifs-5" id="toc-objectifs-5" class="nav-link" data-scroll-target="#objectifs-5">Objectifs</a></li>
+  </ul></li>
+  <li><a href="#partie-vii-projet-final" id="toc-partie-vii-projet-final" class="nav-link" data-scroll-target="#partie-vii-projet-final">Partie VII – Projet final</a></li>
+  </ul></li>
+  <li><a href="#évaluations" id="toc-évaluations" class="nav-link" data-scroll-target="#évaluations"><span class="header-section-number">3</span> Évaluations</a>
+  <ul class="collapse">
+  <li><a href="#évaluations-communes-aux-étudiantes-des-deux-cours" id="toc-évaluations-communes-aux-étudiantes-des-deux-cours" class="nav-link" data-scroll-target="#évaluations-communes-aux-étudiantes-des-deux-cours">Évaluations communes aux étudiant·es des deux cours</a></li>
+  <li><a href="#références" id="toc-références" class="nav-link" data-scroll-target="#références">Références</a></li>
+  </ul></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Autres formats</h2><ul><li><a href="HNU3059_6059.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">HNU3059/6059</h1>
+<p class="subtitle lead">Humanités numériques — Langages de programmation</p>
+</div>
+
+
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Auteur·rice</div>
+  <div class="quarto-title-meta-heading">Affiliation</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author">Chargé de cours : Yann Audin, M.Sc., M.A. <a href="mailto:yann.audin@umontreal.ca" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            <a href="https://www.umontreal.ca/">
+            Université de Montréal
+            </a>
+          </p>
+      </div>
+  </div>
+
+<div class="quarto-title-meta">
+
+      
+    <div>
+    <div class="quarto-title-meta-heading">Date de publication</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">30 septembre 2025</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="humanités-numériques---langages-de-programmation" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Humanités numériques - Langages de programmation</h1>
+<p>Atelier sur les concepts fondamentaux d’un langage de programmation en explorant son application aux sciences humaines.</p>
+<p>Cet atelier d’un crédit se déroulera les vendredis de 9h30 à 15h30, du 21 novembre au 5 décembre 2025, et introduit les étudiant·es à la programmation, et plus spécifiquement au langage de programmation Python.</p>
+<section id="information-générale" class="level2">
+<h2 class="anchored" data-anchor-id="information-générale">Information générale</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">L’atelier</th>
+<th style="text-align: left;">L’enseignant</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Horaire des cours&nbsp;:</strong> Vendredi, 9h30–15h30 du 21 novembre au 5 décembre 2025.</td>
+<td style="text-align: left;"><strong>Mes disponibilités&nbsp;:</strong> Sur demande, mais je serai à mon laboratoire les mardis et mercredis.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Local d’enseignement&nbsp;:</strong> A-332 Pavillon Marie-Victorin</td>
+<td style="text-align: left;"><strong>Mon laboratoire&nbsp;:</strong> C-8041 et C-8039</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Site web du cours&nbsp;:</strong> <a href="https://yann-audin.github.io/Cybermeneutics/">yann-audin.github.io/Cybermeneutics/</a></td>
+<td style="text-align: left;"><strong>Mon courriel&nbsp;:</strong> <a href="mailto:yann.audin@umontreal.ca">yann.audin@umontreal.ca</a></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="philosophie-denseignement" class="level2">
+<h2 class="anchored" data-anchor-id="philosophie-denseignement">Philosophie d’enseignement</h2>
+<p>La participation active en classe est nécessaire à la réussite et est notée. Puisque le matériel préparatoire est nécessaire à la bonne participation en classe, il est assumé que les étudiant·es prendront le temps de lire et visionner en amont les éléments ici présentés. Cela étant dit, l’apprentissage de l’informatique passe par le jeu autant que par l’effort&nbsp;: le matériel obligatoire et les évaluations reflètent cette vision.</p>
+</section>
+<section id="en-guise-dinspiration" class="level2">
+<h2 class="anchored" data-anchor-id="en-guise-dinspiration">En guise d’inspiration</h2>
+<blockquote class="blockquote">
+<p>With respect to such general issues as meaning and style, the computer plays two roles. On the one hand, it is the idiot who can count and sort large amounts of material very fast. On the other, by its very existence, it forces the humanist to state his general principles in definite, operational terms that even an idiot can understand.</p>
+<p> — Norman N. Holland <span class="citation" data-cites="holland_futures_1967">(<a href="#ref-holland_futures_1967" role="doc-biblioref">1967</a>)</span> </p>
+</blockquote>
+</section>
+</section>
+<section id="plans-de-sessions" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Plans de sessions</h1>
+<p>L’atelier est divisé en six sessions d’une demi-journée chacune. La première session de chaque journée décrit les lectures et visionnements obligatoires, ainsi que les remises s’il y a lieu.</p>
+<section id="partie-i-pseudocode" class="level2">
+<h2 class="anchored" data-anchor-id="partie-i-pseudocode">Partie I – Pseudocode</h2>
+<p><strong>Vendredi (2025-11-21) de 9h30 à 11h30.</strong></p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Matériel supplémentaire obligatoire
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul class="task-list">
+<li><label><input type="checkbox">Visionnement de <a href="https://www.youtube.com/watch?v=FN2RM-CHkuI">“Exact Instructions Challenge PB&amp;J” par Josh Darnit</a>&nbsp;;</label></li>
+<li><label><input type="checkbox">Lecture des pages 3 à 7 (inclusivement) de l’article de Nocholas Bennett, <a href="https://www.researchgate.net/profile/Nicholas-Bennett-6/publication/309410533_Introduction_to_Algorithms_and_Pseudocode/links/67983af196e7fb48b9a410aa/Introduction-to-Algorithms-and-Pseudocode.pdf">“Introduction to Algorithms and Pseudocode”</a>&nbsp;;</label></li>
+<li><label><input type="checkbox"><a href="https://docs.python.org/3/tutorial/introduction.html">“An Informal Introduction to Python”</a> sur le site officiel de la <a href="https://docs.python.org/3/">documentation Python 3</a>.</label></li>
+</ul>
+</div>
+</div>
+<section id="objectifs" class="level3">
+<h3 class="anchored" data-anchor-id="objectifs">Objectifs</h3>
+<ul>
+<li>Exprimer une tâche sous la forme de pseudocode&nbsp;;</li>
+<li>Explorer les difficultés liées à la précision nécessaire à la programmation&nbsp;;</li>
+<li>Comprendre les limites de l’ordinateur, mais aussi son attrait en sciences sociales et humaines.</li>
+</ul>
+</section>
+</section>
+<section id="partie-ii-traduire-un-objet-en-langage-computationnel" class="level2">
+<h2 class="anchored" data-anchor-id="partie-ii-traduire-un-objet-en-langage-computationnel">Partie II – Traduire un objet en langage computationnel</h2>
+<p><strong>Vendredi (2025-11-21) de 12h30 à 15h30.</strong></p>
+<section id="objectifs-1" class="level3">
+<h3 class="anchored" data-anchor-id="objectifs-1">Objectifs</h3>
+<ul>
+<li>Comprendre les notions d’objet et de fonction&nbsp;;</li>
+<li>Décrire formellement des objets et fonctions en pseudocode&nbsp;;</li>
+<li>Explorer les affordances de la computation.</li>
+</ul>
+</section>
+</section>
+<section id="partie-iii-les-bases-dun-langage-de-programmation" class="level2">
+<h2 class="anchored" data-anchor-id="partie-iii-les-bases-dun-langage-de-programmation">Partie III – Les bases d’un langage de programmation</h2>
+<p><strong>Vendredi (2025-11-28) de 9h30 à 11h30.</strong></p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Matériel supplémentaire obligatoire
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul class="task-list">
+<li><label><input type="checkbox"><a href="https://allendowney.github.io/ThinkPython/">ThinkPython</a>, chapitres 2, 3 et 5.</label>
+<ul>
+<li>ThinkPython est une excellente ressource et nous l’utiliserons comme référence principale pour le reste de l’atelier.</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Remises
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul class="task-list">
+<li><label><input type="checkbox">Première remise (15 %)&nbsp;:</label>
+<ul>
+<li>Exercice de pseudocode.</li>
+</ul></li>
+<li><label><input type="checkbox">Installation de Jupyter Notebook (5 %).</label></li>
+</ul>
+</div>
+</div>
+<section id="objectifs-2" class="level3">
+<h3 class="anchored" data-anchor-id="objectifs-2">Objectifs</h3>
+<ul>
+<li>Apprendre les structures normales de la programmation (variables, listes, dictionnaires, boucles, instructions conditionnelles)&nbsp;;</li>
+<li>S’outiller à lire la documentation d’un langage de programmation.</li>
+</ul>
+</section>
+</section>
+<section id="partie-iv-fonctions-et-objets" class="level2">
+<h2 class="anchored" data-anchor-id="partie-iv-fonctions-et-objets">Partie IV – Fonctions et objets</h2>
+<p><strong>Vendredi (2025-11-28) de 12h30 à 15h30.</strong></p>
+<section id="objectifs-3" class="level3">
+<h3 class="anchored" data-anchor-id="objectifs-3">Objectifs</h3>
+<ul>
+<li>Comprendre les notions d’objet et de fonction ;</li>
+<li>Traduire un pseudocode en script Python&nbsp;;</li>
+<li>Manipuler des objets et appeler leurs fonctions.</li>
+</ul>
+</section>
+</section>
+<section id="partie-v-python-et-le-langage-naturel" class="level2">
+<h2 class="anchored" data-anchor-id="partie-v-python-et-le-langage-naturel">Partie V – Python et le langage naturel</h2>
+<p><strong>Vendredi (2025-12-05) de 9h30 à 11h30.</strong></p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Remises
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul class="task-list">
+<li><label><input type="checkbox">Seconde remise (20 %)&nbsp;:</label>
+<ul>
+<li>Projet de formalisation d’un concept en sciences humaines et sociales, remise sous la forme d’un Jupyter Notebook commenté et annoté.</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Matériel supplémentaire obligatoire
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul class="task-list">
+<li><label><input type="checkbox"><a href="https://allendowney.github.io/ThinkPython/">ThinkPython</a>, chapitres 8 et 12&nbsp;;</label></li>
+<li><label><input type="checkbox">Code d’Eliza et explication par Daniel Connelly de Georgia Tech sur le site web <a href="paip-python">https://dhconnelly.com/paip-python/</a>&nbsp;:</label>
+<ul>
+<li><a href="https://dhconnelly.com/paip-python/docs/paip/eliza.html">Code d’Eliza</a>&nbsp;;</li>
+<li><a href="https://dhconnelly.com/paip-python/docs/paip/examples/eliza/eliza.html">Patterns d’Eliza</a>.</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<section id="objectifs-4" class="level3">
+<h3 class="anchored" data-anchor-id="objectifs-4">Objectifs</h3>
+<ul>
+<li>Importer, manipuler et transformer les données textuelles dans Python ;</li>
+<li>Développer des compétences avec <a href="https://spacy.io/">SpaCy</a>&nbsp;: une bibliothèque Python spécialisée en traitement automatique du langage.</li>
+</ul>
+</section>
+</section>
+<section id="partie-vi-python-pour-les-sciences-humaines" class="level2">
+<h2 class="anchored" data-anchor-id="partie-vi-python-pour-les-sciences-humaines">Partie VI – Python pour les sciences humaines</h2>
+<p><strong>Vendredi (2025-12-05) de 12h30 à 15h30.</strong></p>
+<section id="objectifs-5" class="level3">
+<h3 class="anchored" data-anchor-id="objectifs-5">Objectifs</h3>
+<ul>
+<li>Développer une ébauche de projet en sciences humaines et sociales qui servira de base au projet final.</li>
+</ul>
+</section>
+</section>
+<section id="partie-vii-projet-final" class="level2">
+<h2 class="anchored" data-anchor-id="partie-vii-projet-final">Partie VII – Projet final</h2>
+<p><strong>Lundi (2025-12-15) à 23h59.</strong></p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Remises
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul class="task-list">
+<li><label><input type="checkbox">La remise finale se fera par courriel au plus tard le 15 septembre 2025 à 23h59 et compte pour 50 % de la note finale.</label></li>
+</ul>
+</div>
+</div>
+</section>
+</section>
+<section id="évaluations" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> Évaluations</h1>
+<section id="évaluations-communes-aux-étudiantes-des-deux-cours" class="level2">
+<h2 class="anchored" data-anchor-id="évaluations-communes-aux-étudiantes-des-deux-cours">Évaluations communes aux étudiant·es des deux cours</h2>
+<ol type="1">
+<li>Présence et participation active <strong>(10 %)</strong>&nbsp;:
+<ul>
+<li>La présence aux trois journées, la participation aux discussions en classe et les lectures obligatoires sont nécessaires à une bonne réussite de l’atelier.</li>
+</ul></li>
+<li>Première remise <strong>(15 %)</strong>&nbsp;:
+<ul>
+<li>Exercice de pseudo-code&nbsp;: Définition formelle d’une fonction et d’un objet des sciences humaines en pseudocode.</li>
+</ul></li>
+<li>Démontrer un accès à un Jupyter Notebook <strong>(5 %)</strong>&nbsp;:
+<ul>
+<li>Le 28 novembre au matin&nbsp;: avoir un Jupyter Notebook qui tourne <strong>en local</strong> sur sa machine. Cet exercice est d’<strong>importance capitale</strong> pour les deux derniers jours de l’atelier.</li>
+</ul></li>
+<li>Deuxième remise <strong>(20 %)</strong>&nbsp;:
+<ul>
+<li>Projet de formalisation d’un concept en sciences humaines et sociales&nbsp;: Remise sous la forme d’un Jupyter Notebook commenté et annoté dans lequel un ou plusieurs objets et fonctions sont définis et utilisés de manière à exemplifier et démontrer leur fonctionnement. <!--Formalisation d'un concept pertinent dans le contexte des humanités numériques sous la forme d'un objet et de ses fonctions. Cette remise doit prendre la forme d'un Jupyter Notebook. --></li>
+</ul></li>
+<li>Projet final <strong>(50 %)</strong>&nbsp;:
+<ul>
+<li>Les paramètres exacts du projet final seront déterminés en fonction des intérêts et des connaissances préalables de chacun·e. Dans tous les cas, l’objectif de la dernière remise est la planification et l’exécution d’un projet à petite échelle en humanités numériques.</li>
+</ul></li>
+</ol>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Politique pour les retards
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>L’évaluation intitulée “démontrer un accès à un Jupyter Notebook” sera notée en classe, le matin du 28 novembre 2025 avec une note de 5/5 si la capacité est démontrée, et de 0/5 autrement.</li>
+<li>La première et la seconde remise sont nécessaires pour participer activement aux deuxième et troisième journée de l’atelier, il est fortement recommandé de ne pas accuser de retard pour ces remises.</li>
+<li>En cas de retard pour la première ou seconde remise, ou encore pour le projet final, une pénalité de 5 % par jour (incluant les jours fériés et les jours de fin de semaine) sera imposée. Aucun délai de grâce ne saurait être accordé dans les trois jours menant à la remise sauf en cas de circonstances exceptionnelles.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="références" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="références">Références</h2>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-bennett2015introduction" class="csl-entry" role="listitem">
+Bennett, Nicholas. 2015. <span>«&nbsp;Introduction to Algorithms and Pseudocode&nbsp;»</span>. Working paper in Project “Exploring Modelling; Computation.
+</div>
+<div id="ref-darnit_exact_2017" class="csl-entry" role="listitem">
+Darnit, Josh. 2017. <span>«&nbsp;Exact Instructions Challenge PB&amp;J Classroom Friendly&nbsp;»</span>. <em>YouTube</em>. <a href="https://www.youtube.com/watch?v=XXXXXX">https://www.youtube.com/watch?v=XXXXXX</a>.
+</div>
+<div id="ref-downey2012think" class="csl-entry" role="listitem">
+Downey, Allen. 2012. <em>Think python</em>. " O’Reilly Media, Inc.".
+</div>
+<div id="ref-holland_futures_1967" class="csl-entry" role="listitem">
+Holland, Norman N. 1967. <span>«&nbsp;Futures: A non-summary of the EDUCOM Symposium on the computer and humanistic studies, 8, 9, 10 June 1967&nbsp;»</span>. <em>Computers and the Humanities</em>, 57‑64.
+</div>
+</div>
+
+
+</section>
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Réutilisation</h2><div class="quarto-appendix-contents"><div>MIT</div></div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copié");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copié");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
