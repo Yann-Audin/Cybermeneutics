@@ -71,3 +71,5 @@ In "Dark Haired Girls"---a collation of letters, notes on dreams and non-fiction
 > So I ask, in my writing, What is real? Because unceasingly we are bombarded with pseudorealities manufactured by very sophisticated people using very sophisticated electronic mechanisms. I do not distrust their motives; I distrust their power. They have a lot of it. And it is an astonishing power: that of creating whole universes, universes of the mind. I ought to know. I do the same thing. 
 > 
 > Philip K. Dick, How To Build A Universe That Doesn't Fall Apart Two Days Later (1978)
+
+[^baudrillard]: Although the strength of this connection is challenged by Jorge Martins Rosa in his 2008 articles "A Misreading Gone Too Far? Baudrillard Meets Philip K. Dick": it seems like Baudrillard made a series of mistake in his reading of Dick's novels, confusing and conflating plots, ignoring fundamental aspects of Dick's word---such as the phantom twin, see ["Who is Philip K. Dick?"](pkd_01.qmd), and even mispelling Dick's name multiple times [@rosa_misreading_2008]. 

@@ -21,7 +21,7 @@ draft: true # Set to false when ready to publish
 I am well aware that if you think that S-F cannot hold literary value, it's unlikely that I could convince you to read Philip K. Dick if I were to describe it as "science-fiction, but even weirder". Instead, here is my half-baked appeal to canonicity on why you might want to try to read some S-F and Dick's work:
 
 - In most "best books of all time" lists, science-fiction tends to take 4--5% of the spots[^lists] despite being a relatively young and marginal genre;
-- Philip K. Dick was the first science-fiction author to be included in The Library of America series;
+- Philip K. Dick was the first science-fiction author to be included in *The Library of America* series;
 - More than 26 000 scholarly articles mention him and his work inspired Jean Baudrillard's *Simulacres et simulation*[^baudrillard];
 - Dick's extensive body of work is still being adapted to television and cinema (sometimes directly, often indirectly), and he has had a lasting impact on multiple genre beyond science-fiction and speculative fiction.
 
