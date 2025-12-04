@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Yann Audin">
-<meta name="dcterms.date" content="2025-03-21">
 
-<title>About The Author – Cybermeneutics</title>
+<title>Teaching – Cybermeneutics</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,10 +68,68 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-date','listing-author','listing-categories','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
-</head>
+<link rel="alternate" type="application/rss+xml" title="Cybermeneutics" href="teaching.xml" data-external="1"></head>
 
 <body class="nav-fixed">
 
@@ -91,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About the Author</span></a>
   </li>  
   <li class="nav-item">
@@ -99,7 +157,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Philip K. Dick Project</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link active" href="./teaching.html" aria-current="page"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
 </ul>
@@ -113,41 +171,22 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul class="collapse">
-  <li><a href="#recent-publications" id="toc-recent-publications" class="nav-link active" data-scroll-target="#recent-publications">Recent publications</a></li>
-  <li><a href="#proceedings" id="toc-proceedings" class="nav-link" data-scroll-target="#proceedings">Proceedings</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About The Author</h1>
+<h1 class="title">Teaching</h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Yann Audin </p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">March 21, 2025</p>
-    </div>
-  </div>
   
     
   </div>
@@ -157,27 +196,40 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>I am a PhD candidate at the University of Montreal and my research interests are Digital Humanities, Literature and Epistemology. I am affiliated, through my supervisors Marcello Vitali-Rosati and Dominic Forest, to the <a href="crihn.org">Centre de recherche interuniversitaire sur les humanités numériques</a>, and to the <a href="https://csdh-schn.org/">Canadian Society for Digital Humanities</a> as a graduate representative.</p>
-<section id="recent-publications" class="level2">
-<h2 class="anchored" data-anchor-id="recent-publications">Recent publications</h2>
-<ul>
-<li><a href="https://www.digitalstudies.org/article/id/11058/">For a General Theory of Scholars–Digital Tools Interactions</a></li>
-<li><a href="https://hal.science/hal-04227199/document">Notes sur le projet « Digital Leigh Hunt »</a></li>
-</ul>
-</section>
-<section id="proceedings" class="level2">
-<h2 class="anchored" data-anchor-id="proceedings">Proceedings</h2>
-<ul>
-<li><a href="https://hal.science/hal-04563545/document">Des algorithmes pour définir des concepts littéraires?</a></li>
-<li><a href="https://umontreal.scholaris.ca/server/api/core/bitstreams/e6488a67-2524-4b17-93e0-97a45c56f746/content">Le projet Intelligence artificielle littéraire (IAL): définir formellement le concept de variation au sein de l’Anthologie grecque?</a></li>
-<li><a href="https://hal.science/hal-04131573v1/file/Humanistica_2023_audin.pdf">Intelligence Artificielle Littéraire</a></li>
-<li><a href="https://hal.science/hal-04333303/document">The Importance of Single Source Publishing in Scientific Publishing</a></li>
-</ul>
 
 
-</section>
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1759204800000" data-listing-file-modified-sort="1764872062825" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1108">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./teaching/HNU3059_6059.html" class="no-external">HNU3059/6059</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./teaching/HNU3059_6059.html" class="no-external">Humanités numériques — Langages de programmation</a>
+</div>
+<div class="listing-description">
+<a href="./teaching/HNU3059_6059.html" class="no-external">Atelier sur les concepts fondamentaux d’un langage de programmation en explorant son application aux sciences humaines.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./teaching/HNU3059_6059.html" class="no-external">
+<div class="listing-date">
+Sep 30, 2025
+</div>
+<div class="listing-author">
+Chargé de cours : Yann Audin
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

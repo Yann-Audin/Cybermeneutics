@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://Yann-Audin.github.io/Cybermeneutics/teaching.html</loc>
+    <lastmod>2025-11-17T18:52:35.648Z</lastmod>
+  </url>
+  <url>
     <loc>https://Yann-Audin.github.io/Cybermeneutics/presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html</loc>
     <lastmod>2025-05-31T17:12:26.079Z</lastmod>
   </url>
   <url>
-    <loc>https://Yann-Audin.github.io/Cybermeneutics/blog.html</loc>
-    <lastmod>2025-05-03T00:51:42.705Z</lastmod>
+    <loc>https://Yann-Audin.github.io/Cybermeneutics/index.html</loc>
+    <lastmod>2025-05-29T02:44:06.540Z</lastmod>
   </url>
   <url>
     <loc>https://Yann-Audin.github.io/Cybermeneutics/about.html</loc>
     <lastmod>2025-06-06T17:45:18.562Z</lastmod>
   </url>
   <url>
-    <loc>https://Yann-Audin.github.io/Cybermeneutics/index.html</loc>
-    <lastmod>2025-05-29T02:44:06.540Z</lastmod>
+    <loc>https://Yann-Audin.github.io/Cybermeneutics/blog.html</loc>
+    <lastmod>2025-05-03T00:51:42.705Z</lastmod>
   </url>
   <url>
     <loc>https://Yann-Audin.github.io/Cybermeneutics/pkd/pkd_01.html</loc>
@@ -22,6 +26,10 @@
   </url>
   <url>
     <loc>https://Yann-Audin.github.io/Cybermeneutics/PKD.html</loc>
-    <lastmod>2025-05-30T19:50:43.083Z</lastmod>
+    <lastmod>2025-11-25T21:07:14.476Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Yann-Audin.github.io/Cybermeneutics/teaching/HNU3059_6059.html</loc>
+    <lastmod>2025-12-04T18:14:22.825Z</lastmod>
   </url>
 </urlset>

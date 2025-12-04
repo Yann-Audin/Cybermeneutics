@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "HNU3059/6059\n\n\nHumanités numériques — Langages de programmation\n\n\n\n\n\n\n\n\nSep 30, 2025\n\n\nChargé de cours : Yann Audin\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#the-exegesis-of-philip-k.-dick",
     "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#the-exegesis-of-philip-k.-dick",
     "title": "Cybermeneutics - Anthology of a Tool",
@@ -203,11 +210,18 @@
     "text": "References\n\n\n\n\n\nDick, Philip K. 2011. The Exegesis of Philip k. Dick. Edited by Pamela Jackson and Jonathan Lethem. Houghton Mifflin Harcourt."
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cybermeneutics",
     "section": "",
-    "text": "This page collects my reflections on various sujects loosely related to my thesis. Comments – either with Hypothesis or by email – are welcome as this blog represents preliminary work rather than anything definitive.\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to Yann Audin’s research blog!\nAccess to the Cybermeneutics tools can be found on its own dedicated github: https://github.com/Yann-Audin/CybermeneuticsTools1."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Cybermeneutics",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThe main branch of this repository leads to the latest version.↩︎"
   },
   {
     "objectID": "about.html",
@@ -231,18 +245,11 @@
     "text": "Proceedings\n\nDes algorithmes pour définir des concepts littéraires?\nLe projet Intelligence artificielle littéraire (IAL): définir formellement le concept de variation au sein de l’Anthologie grecque?\nIntelligence Artificielle Littéraire\nThe Importance of Single Source Publishing in Scientific Publishing"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Cybermeneutics",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "Welcome to Yann Audin’s research blog!\nAccess to the Cybermeneutics tools can be found on its own dedicated github: https://github.com/Yann-Audin/CybermeneuticsTools1."
-  },
-  {
-    "objectID": "index.html#footnotes",
-    "href": "index.html#footnotes",
-    "title": "Cybermeneutics",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThe main branch of this repository leads to the latest version.↩︎"
+    "text": "This page collects my reflections on various sujects loosely related to my thesis. Comments – either with Hypothesis or by email – are welcome as this blog represents preliminary work rather than anything definitive.\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "pkd/pkd_01.html",
@@ -291,6 +298,104 @@
     "href": "PKD.html",
     "title": "A Philip K. Dick Cybermeneutics Project",
     "section": "",
-    "text": "The Philip K. Dick Cybermeneutics Project is a case study for my thesis. It is an attempt at computer-assisted hermeneutics in which I combine close reading and distant reading methods to analyse Philip K. Dick’s novels and short stories with classical and algorithmic techniques.\nThe project was presented during the 2025 CSDH Conference.\n\n\n\n\n\n\n\n\n\nWho is Philip K. Dick?\n\n\n\n\n\n\nPhilip K. Dick\n\n\nBiography\n\n\n\nA biography of Philip K. Dick\n\n\n\n\n\nMay 3, 2025\n\n\nYann Audin\n\n\n\n\n\n\nNo matching items"
+    "text": "The Philip K. Dick Cybermeneutics Project is a case study for my thesis. It is an attempt at computer-assisted hermeneutics in which I combine close reading and distant reading methods to analyse Philip K. Dick’s novels and short stories with classical and algorithmic techniques.\nThe project was presented during the 2025 CSDH Conference."
+  },
+  {
+    "objectID": "PKD.html#blog-entries",
+    "href": "PKD.html#blog-entries",
+    "title": "A Philip K. Dick Cybermeneutics Project",
+    "section": "Blog entries",
+    "text": "Blog entries"
+  },
+  {
+    "objectID": "teaching/HNU3059_6059.html",
+    "href": "teaching/HNU3059_6059.html",
+    "title": "HNU3059/6059",
+    "section": "",
+    "text": "Atelier sur les concepts fondamentaux d’un langage de programmation en explorant son application aux sciences humaines.\nCet atelier d’un crédit se déroulera les vendredis de 9h30 à 15h30, du 21 novembre au 5 décembre 2025, et introduit les étudiant·es à la programmation, et plus spécifiquement au langage de programmation Python.\n\n\n\n\n\nL’atelier\nL’enseignant\n\n\n\n\n\n\n\n\nHoraire des cours : Vendredi, 9h30–15h30 du 21 novembre au 5 décembre 2025.\nMes disponibilités : Sur demande, mais je serai à mon laboratoire les mardis et mercredis.\n\n\n\n\n\n\nLocal d’enseignement : A-332 Pavillon Marie-Victorin\nMon laboratoire : C-8041 et C-8039\n\n\n\n\n\n\nSite web du cours : yann-audin.github.io/Cybermeneutics/\nMon courriel : yann.audin@umontreal.ca\n\n\n\n\n\n\nLa participation active en classe est nécessaire à la réussite et est notée. Puisque le matériel préparatoire est nécessaire à la bonne participation en classe, il est assumé que les étudiant·es prendront le temps de lire et visionner en amont les éléments ici présentés. Cela étant dit, l’apprentissage de l’informatique passe par le jeu autant que par l’effort : le matériel obligatoire et les évaluations reflètent cette vision.\n\n\n\n\nWith respect to such general issues as meaning and style, the computer plays two roles. On the one hand, it is the idiot who can count and sort large amounts of material very fast. On the other, by its very existence, it forces the humanist to state his general principles in definite, operational terms that even an idiot can understand.\n — Norman N. Holland (1967)"
+  },
+  {
+    "objectID": "teaching/HNU3059_6059.html#information-générale",
+    "href": "teaching/HNU3059_6059.html#information-générale",
+    "title": "HNU3059/6059",
+    "section": "",
+    "text": "L’atelier\nL’enseignant\n\n\n\n\n\n\n\n\nHoraire des cours : Vendredi, 9h30–15h30 du 21 novembre au 5 décembre 2025.\nMes disponibilités : Sur demande, mais je serai à mon laboratoire les mardis et mercredis.\n\n\n\n\n\n\nLocal d’enseignement : A-332 Pavillon Marie-Victorin\nMon laboratoire : C-8041 et C-8039\n\n\n\n\n\n\nSite web du cours : yann-audin.github.io/Cybermeneutics/\nMon courriel : yann.audin@umontreal.ca"
+  },
+  {
+    "objectID": "teaching/HNU3059_6059.html#philosophie-denseignement",
+    "href": "teaching/HNU3059_6059.html#philosophie-denseignement",
+    "title": "HNU3059/6059",
+    "section": "",
+    "text": "La participation active en classe est nécessaire à la réussite et est notée. Puisque le matériel préparatoire est nécessaire à la bonne participation en classe, il est assumé que les étudiant·es prendront le temps de lire et visionner en amont les éléments ici présentés. Cela étant dit, l’apprentissage de l’informatique passe par le jeu autant que par l’effort : le matériel obligatoire et les évaluations reflètent cette vision."
+  },
+  {
+    "objectID": "teaching/HNU3059_6059.html#en-guise-dinspiration",
+    "href": "teaching/HNU3059_6059.html#en-guise-dinspiration",
+    "title": "HNU3059/6059",
+    "section": "",
+    "text": "With respect to such general issues as meaning and style, the computer plays two roles. On the one hand, it is the idiot who can count and sort large amounts of material very fast. On the other, by its very existence, it forces the humanist to state his general principles in definite, operational terms that even an idiot can understand.\n — Norman N. Holland (1967)"
+  },
+  {
+    "objectID": "teaching/HNU3059_6059.html#partie-i-pseudocode",
+    "href": "teaching/HNU3059_6059.html#partie-i-pseudocode",
+    "title": "HNU3059/6059",
+    "section": "Partie I – Pseudocode",
+    "text": "Partie I – Pseudocode\nVendredi (2025-11-21) de 9h30 à 11h30.\n\n\n\n\n\n\nMatériel supplémentaire obligatoire\n\n\n\n\nVisionnement de “Exact Instructions Challenge PB&J” par Josh Darnit ;\nLecture des pages 3 à 7 (inclusivement) de l’article de Nocholas Bennett, “Introduction to Algorithms and Pseudocode” ;\n“An Informal Introduction to Python” sur le site officiel de la documentation Python 3.\n\n\n\n\nObjectifs\n\nExprimer une tâche sous la forme de pseudocode ;\nExplorer les difficultés liées à la précision nécessaire à la programmation ;\nComprendre les limites de l’ordinateur, mais aussi son attrait en sciences sociales et humaines."
+  },
+  {
+    "objectID": "teaching/HNU3059_6059.html#partie-ii-traduire-un-objet-en-langage-computationnel",
+    "href": "teaching/HNU3059_6059.html#partie-ii-traduire-un-objet-en-langage-computationnel",
+    "title": "HNU3059/6059",
+    "section": "Partie II – Traduire un objet en langage computationnel",
+    "text": "Partie II – Traduire un objet en langage computationnel\nVendredi (2025-11-21) de 12h30 à 15h30.\n\nObjectifs\n\nComprendre les notions d’objet et de fonction ;\nDécrire formellement des objets et fonctions en pseudocode ;\nExplorer les affordances de la computation."
+  },
+  {
+    "objectID": "teaching/HNU3059_6059.html#partie-iii-les-bases-dun-langage-de-programmation",
+    "href": "teaching/HNU3059_6059.html#partie-iii-les-bases-dun-langage-de-programmation",
+    "title": "HNU3059/6059",
+    "section": "Partie III – Les bases d’un langage de programmation",
+    "text": "Partie III – Les bases d’un langage de programmation\nVendredi (2025-11-28) de 9h30 à 11h30.\n\n\n\n\n\n\nMatériel supplémentaire obligatoire\n\n\n\n\nThinkPython, chapitres 2, 3 et 5.\n\nThinkPython est une excellente ressource et nous l’utiliserons comme référence principale pour le reste de l’atelier.\n\n\n\n\n\n\n\n\n\n\nRemises\n\n\n\n\nPremière remise (15 %) :\n\nExercice de pseudocode.\n\nInstallation de Jupyter Notebook (5 %).\n\n\n\n\nObjectifs\n\nApprendre les structures normales de la programmation (variables, listes, dictionnaires, boucles, instructions conditionnelles) ;\nS’outiller à lire la documentation d’un langage de programmation."
+  },
+  {
+    "objectID": "teaching/HNU3059_6059.html#partie-iv-fonctions-et-objets",
+    "href": "teaching/HNU3059_6059.html#partie-iv-fonctions-et-objets",
+    "title": "HNU3059/6059",
+    "section": "Partie IV – Fonctions et objets",
+    "text": "Partie IV – Fonctions et objets\nVendredi (2025-11-28) de 12h30 à 15h30.\n\nObjectifs\n\nComprendre les notions d’objet et de fonction ;\nTraduire un pseudocode en script Python ;\nManipuler des objets et appeler leurs fonctions."
+  },
+  {
+    "objectID": "teaching/HNU3059_6059.html#partie-v-python-et-le-langage-naturel",
+    "href": "teaching/HNU3059_6059.html#partie-v-python-et-le-langage-naturel",
+    "title": "HNU3059/6059",
+    "section": "Partie V – Python et le langage naturel",
+    "text": "Partie V – Python et le langage naturel\nVendredi (2025-12-05) de 9h30 à 11h30.\n\n\n\n\n\n\nRemises\n\n\n\n\nSeconde remise (20 %) :\n\nProjet de formalisation d’un concept en sciences humaines et sociales, remise sous la forme d’un Jupyter Notebook commenté et annoté.\n\n\n\n\n\n\n\n\n\n\nMatériel supplémentaire obligatoire\n\n\n\n\nThinkPython, chapitres 8 et 12 ;\nCode d’Eliza et explication par Daniel Connelly de Georgia Tech sur le site web https://dhconnelly.com/paip-python/ :\n\nCode d’Eliza ;\nPatterns d’Eliza.\n\n\n\n\n\nObjectifs\n\nImporter, manipuler et transformer les données textuelles dans Python ;\nDévelopper des compétences avec SpaCy : une bibliothèque Python spécialisée en traitement automatique du langage."
+  },
+  {
+    "objectID": "teaching/HNU3059_6059.html#partie-vi-python-pour-les-sciences-humaines",
+    "href": "teaching/HNU3059_6059.html#partie-vi-python-pour-les-sciences-humaines",
+    "title": "HNU3059/6059",
+    "section": "Partie VI – Python pour les sciences humaines",
+    "text": "Partie VI – Python pour les sciences humaines\nVendredi (2025-12-05) de 12h30 à 15h30.\n\nObjectifs\n\nDévelopper une ébauche de projet en sciences humaines et sociales qui servira de base au projet final."
+  },
+  {
+    "objectID": "teaching/HNU3059_6059.html#partie-vii-projet-final",
+    "href": "teaching/HNU3059_6059.html#partie-vii-projet-final",
+    "title": "HNU3059/6059",
+    "section": "Partie VII – Projet final",
+    "text": "Partie VII – Projet final\nLundi (2025-12-15) à 23h59.\n\n\n\n\n\n\nRemises\n\n\n\n\nLa remise finale se fera par courriel au plus tard le 15 décembre 2025 à 23h59 et compte pour 50 % de la note finale."
+  },
+  {
+    "objectID": "teaching/HNU3059_6059.html#évaluations-communes-aux-étudiantes-des-deux-cours",
+    "href": "teaching/HNU3059_6059.html#évaluations-communes-aux-étudiantes-des-deux-cours",
+    "title": "HNU3059/6059",
+    "section": "Évaluations communes aux étudiant·es des deux cours",
+    "text": "Évaluations communes aux étudiant·es des deux cours\n\nPrésence et participation active (10 %) :\n\nLa présence aux trois journées, la participation aux discussions en classe et les lectures obligatoires sont nécessaires à une bonne réussite de l’atelier.\n\nPremière remise (15 %) :\n\nExercice de pseudo-code : Définition formelle d’une fonction et d’un objet des sciences humaines en pseudocode.\n\nDémontrer un accès à un Jupyter Notebook (5 %) :\n\nLe 28 novembre au matin : avoir un Jupyter Notebook qui tourne en local sur sa machine. Cet exercice est d’importance capitale pour les deux derniers jours de l’atelier.\n\nDeuxième remise (20 %) :\n\nProjet de formalisation d’un concept en sciences humaines et sociales : Remise sous la forme d’un Jupyter Notebook commenté et annoté dans lequel un ou plusieurs objets et fonctions sont définis et utilisés de manière à exemplifier et démontrer leur fonctionnement. \n\nProjet final (50 %) :\n\nLes paramètres exacts du projet final seront déterminés en fonction des intérêts et des connaissances préalables de chacun·e. Dans tous les cas, l’objectif de la dernière remise est la planification et l’exécution d’un projet à petite échelle en humanités numériques.\n\n\n\n\n\n\n\n\nPolitique pour les retards\n\n\n\n\nL’évaluation intitulée “démontrer un accès à un Jupyter Notebook” sera notée en classe, le matin du 28 novembre 2025 avec une note de 5/5 si la capacité est démontrée, et de 0/5 autrement.\nLa première et la seconde remise sont nécessaires pour participer activement aux deuxième et troisième journée de l’atelier, il est fortement recommandé de ne pas accuser de retard pour ces remises.\nEn cas de retard pour la première ou seconde remise, ou encore pour le projet final, une pénalité de 5 % par jour (incluant les jours fériés et les jours de fin de semaine) sera imposée. Aucun délai de grâce ne saurait être accordé dans les trois jours menant à la remise sauf en cas de circonstances exceptionnelles."
+  },
+  {
+    "objectID": "teaching/HNU3059_6059.html#références",
+    "href": "teaching/HNU3059_6059.html#références",
+    "title": "HNU3059/6059",
+    "section": "Références",
+    "text": "Références\n\n\nBennett, Nicholas. 2015. « Introduction to Algorithms and Pseudocode ». Working paper in Project “Exploring Modelling; Computation.\n\n\nDarnit, Josh. 2017. « Exact Instructions Challenge PB&J Classroom Friendly ». YouTube. https://www.youtube.com/watch?v=XXXXXX.\n\n\nDowney, Allen. 2012. Think python. \" O’Reilly Media, Inc.\".\n\n\nHolland, Norman N. 1967. « Futures: A non-summary of the EDUCOM Symposium on the computer and humanistic studies, 8, 9, 10 June 1967 ». Computers and the Humanities, 57‑64."
   }
 ]
