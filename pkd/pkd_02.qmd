@@ -16,9 +16,7 @@ draft: true # Set to false when ready to publish
 
 ## Why we should read Philip K. Dick's fiction
 
-To know Philip K. Dick's work is to recognize him everywhere. When the nature of reality is contested in contemporary media, one can usually draw a line to Dick, either directly -- *Bladerunner*, *The Adjustment Bureau*, *Total Recall*, *Philip K. Dick's Electric Dreams*, *Minority Report*, ... -- or indirectly -- *The Matrix*, *Donnie Darko*, *Eternal Sunshine of the Spotless Mind*, *The Truman Show*, *Westworld*, ... It is easy to trace many ideas in today's *zeitgeist* to his work, despite the narrowness of science-fiction readership. As an author, Dick didn't set himself or his writing apart from the world: he wasn't a literary recluse, didn't prop himself as an observer of society, didn't attempt to create a universal work of art, and the boundary between his personal life, his activism and his art was flimsy at best. Rather, he acted as a canary in a coal mine: Dick was first and foremost an American white man who grew up and lived in an era of extraordinary and frightening technological and cultural transformations, and who became a creative nexus for the formidable and overwhelming forces of his time. 
-
-The pressures of the World Wars and the Cold Wars, the blooming of psychology, the rediscovery of ancient Christian texts, post-war interests in psychoanalysis and esoterism, California's drug culture, military experiemnts with LSD, the rise of no-fault divorce in the US, the boom of pulp sci-fi, the blind enthousiasm of futurism, the post-truth mediatic turn, quantum mechanics and cosmology, the space race, the first serious talks of artificial intelligence and androids, the Bomb and its aftermath... Philip K. Dick lived and captured all of it and more. He transformed the falseness and the brokeness of a life that is both extremely specific---being an American in the 50s, 60s and 70s---and completely generalisable---living with crushing doubt and through sweeping changes---into literary truth.
+To know Philip K. Dick's work is to recognize him everywhere. When the nature of reality is contested in contemporary media, one can usually draw a line to Dick, either directly -- *Bladerunner*, *The Adjustment Bureau*, *Total Recall*, *Philip K. Dick's Electric Dreams*, *Minority Report*, ... -- or indirectly -- *The Matrix*, *Donnie Darko*, *Eternal Sunshine of the Spotless Mind*, *The Truman Show*, *Westworld*, ... It is easy to trace many concepts in today's cultural *zeitgeist* to his work, in spite the narrowness of science-fiction readership. 
 
 ::: {.callout-important icon="false"}
 
@@ -35,7 +33,17 @@ However if the tropes of science-fiction are enough to make you put down a book,
 
 :::
 
+As an author, Dick didn't set himself or his writing apart from the world: he wasn't a literary recluse, didn't prop himself as an observer of society, didn't attempt to create a universal work of art, and the boundary between his personal life, his activism and his art was flimsy at best. Rather, he acted as a canary in a coal mine: Dick was first and foremost an American white man who grew up and lived in an era of extraordinary and frightening technological and cultural transformations, and who became a creative nexus for the formidable and overwhelming forces of his time. 
+
+The pressures of the World Wars and the Cold Wars, the blooming of popular psychology, the rediscovery of ancient Christian texts, post-war interests in psychoanalysis and esoterism, California's drug culture, military experiemnts with LSD, the rise of no-fault divorce in the US, the boom of pulp sci-fi, the blind enthousiasm of futurism, the post-truth mediatic turn, quantum mechanics and cosmology, the space race, the first serious talks of artificial intelligence and androids, the Bomb and its aftermath... Philip K. Dick lived and captured all of it and more. He transformed the falseness and the brokeness of a life that is both extremely specific---being an American in the 50s, 60s and 70s---and completely generalisable---living with crushing doubt and through sweeping changes---into literary truth. 
+
+Philip K. Dick 
+
 ## Why we should also read Philip K. Dick's non-fiction
+
+The question at the core of [Philip K. Dick](pkd_01.qmd)'s project 
+
+> But the state of things is so dreary here in the U.S.— they say the elderly and poor are eating canned dogfood, now, to stay alive, and the McDonald hamburg­ers are made from cows’ eyes. The radio also says that today when Charles Colson, the President’s former counsel, went into jail he still wore his Richard M. Nixon tieclasp. “California dreaming is becoming a reality,” is a line from a Mamas & The Papas song of a few years ago, but what a dreadful surreal reality it is: foglike and dangerous, with the subtle and terrible manifestations of evil rising up like rocks in the gloom. I wish I was somewhere else. Disneyland, maybe. The last sane place here? Forever to take Mr. Toad’s Wild Ride and never get off? [@dick_letters3_1974]
 
 Philip K. Dick's non-fiction is a strange land few seem willing to explore, and with good reasons. On one hand, it is extremely varied and on the other it is extremely voluminous: between the essays, speeches, letters, notes, journal entries and poems he either published or kept in his files, there are more than ten thousand pages. His *Exegesis*, a living document he started in 1974 and never finished, is estimated at more than two millions words [@dick_letters1974]---of which only a fraction were published---, and the *selected* letters, released to the public after his death, fill six volumes[^PKD_letters]. These texts reveal the complexity of a broken, yet 
 
@@ -56,7 +64,6 @@ In "Dark Haired Girls"---a collation of letters, notes on dreams and non-fiction
 >  An intellectual dark age seems to be settling over the United States. People are literally frightened by new ideas. [...] I suppose there is a risk. There has *always* been a risk. But is not this risk a grand risk, the sign of a noble heart? The intellectual pioneers of our species ventured forth in the contemplation and analysis of "dangerous" ideasl; this is how we have come to acquire a vast heritage of knowledge and wisdom. And yet---people are afraid. The question I put to this writer is, "Does the universe in fact exist, or are we compelled by some mysterious agency to take it ineluctably for real? That is, we are compelled against our choice---even our knowledge---to take it to be real." [@dick_selected1981-1982]
 
 
-> But the state of things is so dreary here in the U.S.— they say the elderly and poor are eating canned dogfood, now, to stay alive, and the McDonald hamburg­ers are made from cows’ eyes. The radio also says that today when Charles Colson, the President’s former counsel, went into jail he still wore his Richard M. Nixon tieclasp. “California dreaming is becoming a reality,” is a line from a Mamas & The Papas song of a few years ago, but what a dreadful surreal reality it is: foglike and dangerous, with the subtle and terrible manifestations of evil rising up like rocks in the gloom. I wish I was somewhere else. Disneyland, maybe. The last sane place here? Forever to take Mr. Toad’s Wild Ride and never get off? [@dick_letters3_1974]
 
 
 

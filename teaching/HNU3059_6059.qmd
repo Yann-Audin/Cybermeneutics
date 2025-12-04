@@ -173,7 +173,7 @@ L'atelier est divisé en six sessions d'une demi-journée chacune. La première 
 
 ## Remises
 
-- [ ] La remise finale se fera par courriel au plus tard le 15 septembre 2025 à 23h59 et compte pour 50 \% de la note finale. 
+- [ ] La remise finale se fera par courriel au plus tard le 15 décembre 2025 à 23h59 et compte pour 50 \% de la note finale. 
 
 :::
 
