@@ -1,5 +1,5 @@
 ---
-title: "Why Philip K. Dick?"
+title: "Why should you read Philip K. Dick?"
 author: "Yann Audin"
 date: "2025-10-12"
 categories: ["Philip K. Dick Project", "Literature"]
@@ -10,13 +10,20 @@ format:
     toc: true
     number-sections: true
     code-fold: true
-description: "On my own connection to Philip K. Dick and why he matters."
+description: "On Philip K. Dick's fiction and non-fiction, and why he is worth your time."
 draft: true # Set to false when ready to publish
 ---
+
 
 ## Why we should read Philip K. Dick's fiction
 
 To know Philip K. Dick's work is to recognize him everywhere. When the nature of reality is contested in contemporary media, one can usually draw a line to Dick, either directly -- *Bladerunner*, *The Adjustment Bureau*, *Total Recall*, *Philip K. Dick's Electric Dreams*, *Minority Report*, ... -- or indirectly -- *The Matrix*, *Donnie Darko*, *Eternal Sunshine of the Spotless Mind*, *The Truman Show*, *Westworld*, ... It is easy to trace many concepts in today's cultural *zeitgeist* to his work, in spite the narrowness of science-fiction readership. 
+
+![Ridley Scott's Blade Runner (1982) follows the main plot of *Do Androids Dream of Electric Sheep*. It was released a few months after Dick's death, but he did see clips of it[^bladerunner].](media/bladerunner.jpg)
+
+[^bladerunner]: In a letter to Gregg Rickman dated June 29, 1981 Dick writes: 
+
+    > I saw a short clip of BLADE RUNNER tonight on the Channel Four news, a segment on Douglas Trumbull (who as you know did the special effects). The damn thing terrified me; Trumbull has totally caught the Phil Dick desolated urban environment of tomorrow; it was as if my brain was projecting its worldview onto my TV screen! [...] It really freaked me to see that clip of BLADE RUNNER, as you can see by this letter. My God; the world I write about is hell. Literally. And anyone with any sense will recognize it when they see the movie; Trumbull has caught it absolutely. How extraordinary— what genius!! [@dick_letters6_TODO]
 
 ::: {.callout-important icon="false"}
 
@@ -33,43 +40,49 @@ However if the tropes of science-fiction are enough to make you put down a book,
 
 :::
 
-As an author, Dick didn't set himself or his writing apart from the world: he wasn't a literary recluse, didn't prop himself as an observer of society, didn't attempt to create a universal work of art, and the boundary between his personal life, his activism and his art was flimsy at best. Rather, he acted as a canary in a coal mine: Dick was first and foremost an American white man who grew up and lived in an era of extraordinary and frightening technological and cultural transformations, and who became a creative nexus for the formidable and overwhelming forces of his time. 
+[^lists]: Estimate based on a quick, informal research, please do not cite this number. I consulted the [Time Magazine](https://www.goodreads.com/list/show/2681.Time_Magazine_s_All_Time_100_Novels), [*Le Monde*'s 100 Books of the Century](https://en.wikipedia.org/wiki/Le_Monde%27s_100_Books_of_the_Century), [The Greatest Books' Global Literary Canon](https://thegreatestbooks.org/global-canon), [the Modern Library's 100 Best Novels](https://sites.prh.com/modern-library-top-100/#top-100-novels), [PBS's The Great American Read](https://www.pbs.org/the-great-american-read/books/#/), [Pinguin and Random House's 100 must-read classics](https://www.penguin.co.uk/discover/articles/100-must-read-classic-books), and [The Guardian's "The best novels written in English](https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list). Dystopias dominate these lists with Orwell's *1984*, Burgess' *A Clockwork Orange* and Huxley's *Brave New World*. Philip K. Dick's *Ubik*, which I mentioned in [my first post](pkd_01.qmd) makes a few appearances. 
+
+[^baudrillard]: Although the strength of this connection is challenged by Jorge Martins Rosa in his 2008 articles "A Misreading Gone Too Far? Baudrillard Meets Philip K. Dick": it seems like Baudrillard made a series of mistake in his reading of Dick's novels, confusing and conflating plots, ignoring fundamental aspects of Dick's word---such as the phantom twin, see ["Who is Philip K. Dick?"](pkd_01.qmd), and even mispelling Dick's name multiple times [@rosa_misreading_2008]. 
+
+Philip K. Dick didn't prop himself as an observer of society, didn't attempt to create a universal work of art, and the boundary between his personal life, his activism and his art was flimsy at best. Rather, he acted as a canary in a coal mine: Dick was first and foremost an American white man who grew up and lived in an era of extraordinary and frightening technological and cultural transformations. He became a creative nexus for the formidable and overwhelming forces of his time. 
 
 The pressures of the World Wars and the Cold Wars, the blooming of popular psychology, the rediscovery of ancient Christian texts, post-war interests in psychoanalysis and esoterism, California's drug culture, military experiemnts with LSD, the rise of no-fault divorce in the US, the boom of pulp sci-fi, the blind enthousiasm of futurism, the post-truth mediatic turn, quantum mechanics and cosmology, the space race, the first serious talks of artificial intelligence and androids, the Bomb and its aftermath... Philip K. Dick lived and captured all of it and more. He transformed the falseness and the brokeness of a life that is both extremely specific---being an American in the 50s, 60s and 70s---and completely generalisable---living with crushing doubt and through sweeping changes---into literary truth. 
 
-Philip K. Dick 
+Setting aside Dick's predictions for the future --- some of which did come to pass, many others looking like they are straight around the corner --- his work carries insights on humanity and its relation technology and ideology [TODO - transition]
 
-## Why we should also read Philip K. Dick's non-fiction
+## What about Philip K. Dick's non-fiction?
 
-The question at the core of [Philip K. Dick](pkd_01.qmd)'s project 
+Philip K. Dick's non-fiction is a strange land few seem willing to explore, and with good reasons. It is an extremely varied and voluminous corpus: between the essays, speeches, letters, notes, journal entries and poems he either published or kept in his files, there are more than ten thousand pages. His *Exegesis*, a living document he started in 1974 and never finished, is estimated at more than two millions words [@dick_letters1974]---of which only a fraction were published---, and the *selected* letters, released to the public after his death, fill six volumes[^PKD_letters]. These texts reveal the complexity of a broken and unreliable, yet lucid and aware author: Dick is at the center of a cultural and technological storm as the American culture reaches multiple rupture points and goes through irremediable changes.
+
+[^PKD_letters]:Dick started to produce carbon copies of his letters starting as early as 1964, although many were lost to an alleged burglary in 1971, and then when he left Marin County in early 1972 [@dick_letters1974]. It is more precise to say that: it is more precise to say that most of his correspondance post 1972 still exists in the numerous boxes of documents he left behind. 
 
 > But the state of things is so dreary here in the U.S.— they say the elderly and poor are eating canned dogfood, now, to stay alive, and the McDonald hamburg­ers are made from cows’ eyes. The radio also says that today when Charles Colson, the President’s former counsel, went into jail he still wore his Richard M. Nixon tieclasp. “California dreaming is becoming a reality,” is a line from a Mamas & The Papas song of a few years ago, but what a dreadful surreal reality it is: foglike and dangerous, with the subtle and terrible manifestations of evil rising up like rocks in the gloom. I wish I was somewhere else. Disneyland, maybe. The last sane place here? Forever to take Mr. Toad’s Wild Ride and never get off? [@dick_letters3_1974]
 
-Philip K. Dick's non-fiction is a strange land few seem willing to explore, and with good reasons. On one hand, it is extremely varied and on the other it is extremely voluminous: between the essays, speeches, letters, notes, journal entries and poems he either published or kept in his files, there are more than ten thousand pages. His *Exegesis*, a living document he started in 1974 and never finished, is estimated at more than two millions words [@dick_letters1974]---of which only a fraction were published---, and the *selected* letters, released to the public after his death, fill six volumes[^PKD_letters]. These texts reveal the complexity of a broken, yet 
+Science-fiction allowed Dick to explore the natural development of scientific and social ideas (some of which are more actual today than they were in the 60s and 70s), but he engaged directly and extensively with politic, technology, science, and religion outside of his novels and short stories. His letters reveal attempts at anti-drug activism, and a recuring theme in his essays is the political implications of technology. Both his non-fiction and advocacy are marked by suspicion: despite being a hub for the cultural pressures of his time, Dick had the necessary paranoia to grasp at reality in a hyperpropagandized, ad-filled society. In *How To Build A Universe That Doesn't Fall Apart Two Days Later*, spells out his main thesis ("What is real?") in the situated context of a mediatic revolution:
+
+> So I ask, in my writing, What is real? Because unceasingly we are bombarded with pseudorealities manufactured by very sophisticated people using very sophisticated electronic mechanisms. I do not distrust their motives; I distrust their power. They have a lot of it. And it is an astonishing power: that of creating whole universes, universes of the mind. I ought to know. I do the same thing. [@dick_how_1978]
+
+[TODO - transition]
+
+## Reading Philip K. Dick in 2025
+
+[TODO : DADoES?]
+
+We find direct para
+The overwhelming and paralyzing suspicion of Philip K. Dick is akin to our own suspicion towards generative AI, especially for generated pictures and videos. 
+
+In *Do Androids Dream of Electric Sheep*, his description of *Buster Friendly and his Friendly Friends* -- a 24/7 news and variety show starring a never aging, never tiring cast that is later revealed to be fully automated -- warns us of parasocial relationships, infinite scrolling, deepfakes and AI generated content. 
+
+[^Paranoia]: Indeed, "we are bombarded with pseudorealities manufactured by very sophisticated people using very sophisticated electronic mechanisms" to a level that **does not yet reach the level he imagined in *Do Androids Dream of Electric Sheep*: things can absolutely get worse.** 
+
+
+
+## TODO
 
 In "Dark Haired Girls"---a collation of letters, notes on dreams and non-fiction that he unsuccessfully tried to publish in 1972, 1974 and 1977, but was published posthumously by his in 1988---Paul Williams, the executor to his literary estate, writes in the introduction:
-
-[^PKD_letters]:Dick started to produce carbon copies of his letters starting as early as 1964, although many were lost to an alleged burglary in 1971, and then when he left Marin County in early 1972 [@dick_letters1974]. It is more precise to say that: it is more precise to say that most of his correspondance post 1972 still exists in the numerous boxes of documents he left behind. 
 
 > I wish I could trust you, friend, but in the face of Phil's persuasiveness, I am not sure I can, so instead I'm going to tell you flat out:
 >
 > This is a tale told by an unreliable narrator, who recognizes his own unreliability and yet at the same time believes everything he says. If you in turn allow yourself to believe uncritically everything he says, you are a damn fool. Watch out. Especially if you think you are not a damn fool, watch out. [@dick_dark_TODO]
 
-
-
-
-
-> I got a letter from a fellow science fiction writer who had reviewed VALIS, favorably... he mentioned that he had himself done a novel based on Gnosticism, and I wrote him raising several issues basic to Gnosticism, whereupon he wrote back to say that he considered such matters essentially "futile game," and, what was more, dangerous to play around with. "I have a family to support," he wrote. "I don't dare think about such things" (I'm paraphrasing, but that is the gist of it). What a dreadful thing: that someone would consider ideas too dangerous to think about, [he] even went so far to suggest that it was very possible that you could become crazy due to wondering about fundamental epistemological, philosophical questions. Good lord; have we come to that?
-> 
->  An intellectual dark age seems to be settling over the United States. People are literally frightened by new ideas. [...] I suppose there is a risk. There has *always* been a risk. But is not this risk a grand risk, the sign of a noble heart? The intellectual pioneers of our species ventured forth in the contemplation and analysis of "dangerous" ideasl; this is how we have come to acquire a vast heritage of knowledge and wisdom. And yet---people are afraid. The question I put to this writer is, "Does the universe in fact exist, or are we compelled by some mysterious agency to take it ineluctably for real? That is, we are compelled against our choice---even our knowledge---to take it to be real." [@dick_selected1981-1982]
-
-
-
-
-
-
-> So I ask, in my writing, What is real? Because unceasingly we are bombarded with pseudorealities manufactured by very sophisticated people using very sophisticated electronic mechanisms. I do not distrust their motives; I distrust their power. They have a lot of it. And it is an astonishing power: that of creating whole universes, universes of the mind. I ought to know. I do the same thing. 
-> 
-> Philip K. Dick, How To Build A Universe That Doesn't Fall Apart Two Days Later (1978)
-
-[^baudrillard]: Although the strength of this connection is challenged by Jorge Martins Rosa in his 2008 articles "A Misreading Gone Too Far? Baudrillard Meets Philip K. Dick": it seems like Baudrillard made a series of mistake in his reading of Dick's novels, confusing and conflating plots, ignoring fundamental aspects of Dick's word---such as the phantom twin, see ["Who is Philip K. Dick?"](pkd_01.qmd), and even mispelling Dick's name multiple times [@rosa_misreading_2008]. 
+Truth, though, is elusive: there are things that cannot be said in plain words and there are things that can contain their own contradiction. There are new things that we perceive as old and old things which we perceive as new. In *Dune*, Frank Herbert (1920--1986) captured the essence of Lafontaine's *The Oak and the Reed* in a single sentence: "That which submits rules" [@herbert_dune_1965]. It is when our worlds' foundations are strongest that they can be shattered, and when they are frail that they survive the storm.
