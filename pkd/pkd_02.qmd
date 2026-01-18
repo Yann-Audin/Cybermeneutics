@@ -1,5 +1,5 @@
 ---
-title: "Why should you read Philip K. Dick?"
+title: "Why Should You Read Some Philip K. Dick?"
 author: "Yann Audin"
 date: "2025-10-12"
 categories: ["Philip K. Dick Project", "Literature"]
@@ -10,10 +10,9 @@ format:
     toc: true
     number-sections: true
     code-fold: true
-description: "On Philip K. Dick's fiction and non-fiction, and why he is worth your time."
+description: "On Philip K. Dick's fiction and non-fiction, and on why he's worth your time."
 draft: true # Set to false when ready to publish
 ---
-
 
 ## Why we should read Philip K. Dick's fiction
 
@@ -23,32 +22,38 @@ To know Philip K. Dick's work is to recognize him everywhere. When the nature of
 
 [^bladerunner]: In a letter to Gregg Rickman dated June 29, 1981 Dick writes: 
 
-    > I saw a short clip of BLADE RUNNER tonight on the Channel Four news, a segment on Douglas Trumbull (who as you know did the special effects). The damn thing terrified me; Trumbull has totally caught the Phil Dick desolated urban environment of tomorrow; it was as if my brain was projecting its worldview onto my TV screen! [...] It really freaked me to see that clip of BLADE RUNNER, as you can see by this letter. My God; the world I write about is hell. Literally. And anyone with any sense will recognize it when they see the movie; Trumbull has caught it absolutely. How extraordinary— what genius!! [@dick_letters6_TODO]
+    > I saw a short clip of BLADE RUNNER tonight on the Channel Four news, a segment on Douglas Trumbull (who as you know did the special effects). The damn thing terrified me; Trumbull has totally caught the Phil Dick desolated urban environment of tomorrow; it was as if my brain was projecting its worldview onto my TV screen! 
+    > 
+    > [...] 
+    > 
+    > It really freaked me to see that clip of BLADE RUNNER, as you can see by this letter. My God; the world I write about is hell. Literally. And anyone with any sense will recognize it when they see the movie; Trumbull has caught it absolutely. How extraordinary— what genius!! [@dick_letters6_TODO]
 
 ::: {.callout-important icon="false"}
 
 ## **If nothing I say could convince you to read science-fiction:**
 
-I am well aware that if you think that S-F cannot hold literary value, it's unlikely that I could convince you to read Philip K. Dick if I were to describe it as "science-fiction, but even weirder". Instead, here is my half-baked appeal to canonicity on why you might want to try to read some S-F and Dick's work:
+I am well aware that if you think that S-F cannot hold literary value, it's unlikely that I could convince you to read Philip K. Dick if I were to describe it enthusiastically as "science-fiction, but even weirder!". Instead, here is my half-baked appeal to canonicity on why you might want to try to read some S-F and Dick's work:
 
 - In most "best books of all time" lists, science-fiction tends to take 4--5% of the spots[^lists] despite being a relatively young and marginal genre;
 - Philip K. Dick was the first science-fiction author to be included in The Library of America series;
-- More than 26 000 scholarly articles mention him, and his work inspired Jean Baudrillard's very canonical *Simulacres et simulation*[^baudrillard];
+- More than 26 000 scholarly articles mention him, and his work inspired Jean Baudrillard's (very canonical) *Simulacres et simulation*[^baudrillard];
 - Dick's extensive body of work is still being adapted to television and cinema (sometimes directly, often indirectly), and he has had a lasting impact on multiple genre beyond science-fiction and speculative fiction.
 
-However if the tropes of science-fiction are enough to make you put down a book, I don't actually believe that you actually *should* read Philip K. Dick's novels and short stories. That being said...
+However if the tropes of science-fiction are enough to make you put down a book, I don't actually believe that you actually *should* or *need to* read Philip K. Dick's novels and short stories. Maybe you can experience his work vicariously through this blog!
 
 :::
 
-[^lists]: Estimate based on a quick, informal research, please do not cite this number. I consulted the [Time Magazine](https://www.goodreads.com/list/show/2681.Time_Magazine_s_All_Time_100_Novels), [*Le Monde*'s 100 Books of the Century](https://en.wikipedia.org/wiki/Le_Monde%27s_100_Books_of_the_Century), [The Greatest Books' Global Literary Canon](https://thegreatestbooks.org/global-canon), [the Modern Library's 100 Best Novels](https://sites.prh.com/modern-library-top-100/#top-100-novels), [PBS's The Great American Read](https://www.pbs.org/the-great-american-read/books/#/), [Pinguin and Random House's 100 must-read classics](https://www.penguin.co.uk/discover/articles/100-must-read-classic-books), and [The Guardian's "The best novels written in English](https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list). Dystopias dominate these lists with Orwell's *1984*, Burgess' *A Clockwork Orange* and Huxley's *Brave New World*. Philip K. Dick's *Ubik*, which I mentioned in [my first post](pkd_01.qmd) makes a few appearances. 
+[^lists]: Estimate based on a quick, informal research, please do not cite this number. I consulted the [Time Magazine](https://www.goodreads.com/list/show/2681.Time_Magazine_s_All_Time_100_Novels), [*Le Monde*'s 100 Books of the Century](https://en.wikipedia.org/wiki/Le_Monde%27s_100_Books_of_the_Century), [The Greatest Books' Global Literary Canon](https://thegreatestbooks.org/global-canon), [the Modern Library's 100 Best Novels](https://sites.prh.com/modern-library-top-100/#top-100-novels), [PBS's The Great American Read](https://www.pbs.org/the-great-american-read/books/#/), [Pinguin and Random House's 100 must-read classics](https://www.penguin.co.uk/discover/articles/100-must-read-classic-books), and [The Guardian's "The best novels written in English](https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list). Dystopias dominate these lists with Orwell's *1984*, Burgess' *A Clockwork Orange* and Huxley's *Brave New World*. Philip K. Dick's *Ubik*, which I mentioned in [my first post](pkd_01.qmd) makes a few appearances as well. 
 
-[^baudrillard]: Although the strength of this connection is challenged by Jorge Martins Rosa in his 2008 articles "A Misreading Gone Too Far? Baudrillard Meets Philip K. Dick": it seems like Baudrillard made a series of mistake in his reading of Dick's novels, confusing and conflating plots, ignoring fundamental aspects of Dick's word---such as the phantom twin, see ["Who is Philip K. Dick?"](pkd_01.qmd), and even mispelling Dick's name multiple times [@rosa_misreading_2008]. 
+[^baudrillard]: It is worth mentionning that the strength of this connection is challenged by Jorge Martins Rosa in his 2008 articles "A Misreading Gone Too Far? Baudrillard Meets Philip K. Dick". It seems like Baudrillard made a series of mistake in his reading of Dick's novels, confusing and conflating plots, ignoring fundamental aspects of Dick's work and life---such as the phantom twin, see ["Who is Philip K. Dick?"](pkd_01.qmd)---and even mispelling Dick's name multiple times [@rosa_misreading_2008]. 
 
-Philip K. Dick didn't prop himself as an observer of society, didn't attempt to create a universal work of art, and the boundary between his personal life, his activism and his art was flimsy at best. Rather, he acted as a canary in a coal mine: Dick was first and foremost an American white man who grew up and lived in an era of extraordinary and frightening technological and cultural transformations. He became a creative nexus for the formidable and overwhelming forces of his time. 
+Philip K. Dick didn't prop himself as an observer of society, didn't attempt to create a universal work of art, and the boundary between his personal life, his activism, and his art was flimsy at best. Rather, he acted as a canary in a coal mine: Dick was first and foremost an American white man who grew up and lived in an era of extraordinary and frightening technological and cultural transformations. He became a creative nexus for the formidable and overwhelming forces of his time. 
 
-The pressures of the World Wars and the Cold Wars, the blooming of popular psychology, the rediscovery of ancient Christian texts, post-war interests in psychoanalysis and esoterism, California's drug culture, military experiemnts with LSD, the rise of no-fault divorce in the US, the boom of pulp sci-fi, the blind enthousiasm of futurism, the post-truth mediatic turn, quantum mechanics and cosmology, the space race, the first serious talks of artificial intelligence and androids, the Bomb and its aftermath... Philip K. Dick lived and captured all of it and more. He transformed the falseness and the brokeness of a life that is both extremely specific---being an American in the 50s, 60s and 70s---and completely generalisable---living with crushing doubt and through sweeping changes---into literary truth. 
+The pressures of the World Wars and the Cold Wars, the blooming of popular psychology, the blind enthousiasm of futurism, the post-truth mediatic turn, the rediscovery of ancient Christian texts, post-war interests in psychoanalysis and esoterism, California's drug culture, military experiments with LSD, the rise of no-fault divorce in the U.S., the boom of pulp S-F, quantum mechanics and cosmology, the space race and the moonlanding, the first serious talks of artificial intelligence and androids, the Bomb and its aftermath... Philip K. Dick lived through it all and more. More importantly: he *captured* it; he transformed the falseness and the brokeness of a life that is both extremely specific---being an American in the 50s, 60s and 70s---and completely generalisable---living with crushing doubt through sweeping changes---into literary truth. 
 
-Setting aside Dick's predictions for the future --- some of which did come to pass, many others looking like they are straight around the corner --- his work carries insights on humanity and its relation technology and ideology [TODO - transition]
+Dick was prolific, not only as an author, but also as an essayist, although the bulk of his textual production took the form of letters and journal entries. If his science-fiction is some of the best there is (enough to be called philosophy fiction by some critics)---with some of his technological and social predictions coming to pass or feeling like they are straight around the corner---, his non-fiction addresses the problems of his time, our time, and the future, with uncanny insight. 
+
+Setting aside Dick's predictions for the future---some of which did come to pass, many others looking like they are straight around the corner---his work carries insights on humanity and its relation technology and ideology [TODO - transition]
 
 ## What about Philip K. Dick's non-fiction?
 
@@ -65,6 +70,8 @@ Science-fiction allowed Dick to explore the natural development of scientific an
 [TODO - transition]
 
 ## Reading Philip K. Dick in 2025
+
+> Maybe each human being lives in a unique world, a private world, a world different from those inhabited and experienced by all other humans. And that led me to wonder, If reality differs from person to person, can we speak of reality singular, or shouldn’t we really be talking about plural realities? And if there are plural realities, are some more true (more real) than others? What about the world of a schizophrenic? Maybe it’s as real as our world. Maybe we cannot say that we are in touch with reality and he is not, but should instead say, His reality is so different from ours that he can’t explain his to us, and we can’t explain ours to him. The problem, then, is that if subjective worlds are experienced too differently, there occurs a breakdown of communication… and there is the real illness. [@dick_build_1978]
 
 [TODO : DADoES?]
 

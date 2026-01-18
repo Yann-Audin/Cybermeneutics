@@ -14,7 +14,6 @@ description: "On my own connection to Philip K. Dick and why he matters to me."
 draft: true # Set to false when ready to publish
 ---
 
-
 > Is there anyone there\
 > Who understands me?\
 > Anyone at all?\
