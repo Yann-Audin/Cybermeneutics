@@ -6,13 +6,13 @@
     ]
   },
   {
-    "listing": "/blog.html",
-    "items": []
-  },
-  {
     "listing": "/PKD.html",
     "items": [
       "/pkd/pkd_01.html"
     ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": []
   }
 ]

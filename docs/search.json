@@ -7,6 +7,237 @@
     "text": "HNU3059/6059\n\n\nHumanités numériques — Langages de programmation\n\n\n\n\n\n\n\n\nSep 30, 2025\n\n\nChargé de cours : Yann Audin\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "teaching/2026_CSDH_Panel/Presentation.html#the-context-1",
+    "href": "teaching/2026_CSDH_Panel/Presentation.html#the-context-1",
+    "title": "0s, 1s, and Pseudocodes",
+    "section": "The Context",
+    "text": "The Context\nHNU6059 : Humanités numériques — Langages de programmation\n\nWorkshop aimed at new graduate students in the Digital Humanities program;\n24 hours of teaching spread over three consecutive Fridays."
+  },
+  {
+    "objectID": "teaching/2026_CSDH_Panel/Presentation.html#assumed-learning-objective",
+    "href": "teaching/2026_CSDH_Panel/Presentation.html#assumed-learning-objective",
+    "title": "0s, 1s, and Pseudocodes",
+    "section": "Assumed Learning Objective",
+    "text": "Assumed Learning Objective\n\nAt the end of the workshop, students should know how to code in a given programming language.\n\n\n\nVague task;\nHard to evaluate or even observe;\nUndefined breadth."
+  },
+  {
+    "objectID": "teaching/2026_CSDH_Panel/Presentation.html#assumed-learning-objectiveinstructor-intent",
+    "href": "teaching/2026_CSDH_Panel/Presentation.html#assumed-learning-objectiveinstructor-intent",
+    "title": "0s, 1s, and Pseudocodes",
+    "section": "Assumed Learning ObjectiveInstructor Intent",
+    "text": "Assumed Learning ObjectiveInstructor Intent\n\nAt the end of the workshop, students should know how to code in a given programming language.\n\n\nVague task;\nHard to evaluate or even observe;\nUndefined breadth."
+  },
+  {
+    "objectID": "teaching/2026_CSDH_Panel/Presentation.html#new-learning-objective",
+    "href": "teaching/2026_CSDH_Panel/Presentation.html#new-learning-objective",
+    "title": "0s, 1s, and Pseudocodes",
+    "section": "New Learning Objective",
+    "text": "New Learning Objective\n\nAt the end of the workshop, students should be able to translate a concept relevant to their research in the humanities from natural language to code form.\n\n\n\nPrecise;\nEasy to evaluate;\nSpecific domain of knowledge."
+  },
+  {
+    "objectID": "teaching/2026_CSDH_Panel/Presentation.html#new-learning-sub-objectives",
+    "href": "teaching/2026_CSDH_Panel/Presentation.html#new-learning-sub-objectives",
+    "title": "0s, 1s, and Pseudocodes",
+    "section": "New learning sub-objectives",
+    "text": "New learning sub-objectives\nAt the end of the workshop, students should be able to…\n\n\nDescribe how computers work;\nTranslate natural language concepts into ontologies and pseudocode;\nAcquire any syntax they might need to translate pseudocode in code."
+  },
+  {
+    "objectID": "teaching/2026_CSDH_Panel/Presentation.html#how-computers-work",
+    "href": "teaching/2026_CSDH_Panel/Presentation.html#how-computers-work",
+    "title": "0s, 1s, and Pseudocodes",
+    "section": "How computers work",
+    "text": "How computers work"
+  },
+  {
+    "objectID": "teaching/2026_CSDH_Panel/Presentation.html#how-computers-work-1",
+    "href": "teaching/2026_CSDH_Panel/Presentation.html#how-computers-work-1",
+    "title": "0s, 1s, and Pseudocodes",
+    "section": "How computers work",
+    "text": "How computers work"
+  },
+  {
+    "objectID": "teaching/2026_CSDH_Panel/Presentation.html#pseudocode",
+    "href": "teaching/2026_CSDH_Panel/Presentation.html#pseudocode",
+    "title": "0s, 1s, and Pseudocodes",
+    "section": "Pseudocode",
+    "text": "Pseudocode\n\n\n\n\nJosh Darnit’s “Exact Instruction Challenge”"
+  },
+  {
+    "objectID": "teaching/2026_CSDH_Panel/Presentation.html#ontology",
+    "href": "teaching/2026_CSDH_Panel/Presentation.html#ontology",
+    "title": "0s, 1s, and Pseudocodes",
+    "section": "Ontology",
+    "text": "Ontology"
+  },
+  {
+    "objectID": "teaching/2026_CSDH_Panel/Presentation.html#the-language-of-programming",
+    "href": "teaching/2026_CSDH_Panel/Presentation.html#the-language-of-programming",
+    "title": "0s, 1s, and Pseudocodes",
+    "section": "The language of programming",
+    "text": "The language of programming\n\nVariables:\n\nTypes;\nLists.\n\nFormal logic;\nConditional statements;\n\nif … elif … else.\n\nLoops:\n\nfor;\nwhile (avec mise en garde);\nNested loops.\n\nProgram states."
+  },
+  {
+    "objectID": "teaching/2026_CSDH_Panel/Presentation.html#syntax",
+    "href": "teaching/2026_CSDH_Panel/Presentation.html#syntax",
+    "title": "0s, 1s, and Pseudocodes",
+    "section": "Syntax",
+    "text": "Syntax\n\n\n\n\nLearnXinY"
+  },
+  {
+    "objectID": "teaching/2026_CSDH_Panel/Presentation.html#syntax-functions-and-objects",
+    "href": "teaching/2026_CSDH_Panel/Presentation.html#syntax-functions-and-objects",
+    "title": "0s, 1s, and Pseudocodes",
+    "section": "Syntax (Functions and Objects)",
+    "text": "Syntax (Functions and Objects)"
+  },
+  {
+    "objectID": "teaching/2026_CSDH_Panel/Presentation.html#the-monster",
+    "href": "teaching/2026_CSDH_Panel/Presentation.html#the-monster",
+    "title": "0s, 1s, and Pseudocodes",
+    "section": "The Monster",
+    "text": "The Monster\n# Créez une variable qui contient un mot\na word = 'hello\"\n# Créez une autre variable qui contient un autre mot\nanother_word = \"world\";\n# Imprimez les deux mots séparés par un espace\nprint[a word + \" \" another_word)\n# Si le deuxième mot est \"world\", imprimez \"Your word is \"world\"!\", sinon changez le premier mot pour \"new_word!\".\nif another_word = \"world\"\n    print(\"Your word is \"world\"!\")\nelif: \n    a word == \"new word!\"\nprint(a word)\n# Déterminez pourquoi le mot n'a pas changé\n# Créez une liste vide\nlist = ()\n# Ajoutez les nombres de 0 à 3 dans la liste en utilisant une boucle\nfor i range(4)\n    list.apend(i)\n# Imprimez le dernier élément de la liste\nPrint(list[4])\n# Créez une variable qui contient un nombre entier\n1Nombre = 132\n# Imprimez le second caractère de la variable en base 10\nprint(1Nombre[0])\n# Importez le module de mathématiques\nimport mathh\n# Imprimez la racine carrée de 132 en utlisant le module mathématique et la variable créée précédemment\nprint(mathh.squareRoot(1Nombre)\n# Créez une variable égale à zéro sans utiliser le chiffre 0\nzero_var = # AJOUTEZ VOTRE CODE ICI\n# Imprimez le résultat de 132 divisé par la nouvelle variable\nprint(132 / zero_var)\n# Commentez la ligne précédente puisque la division par zéro n'est jamais une bonne idée\n# Trouvez le résultat de 10 à la puissance 10\nprint(10 ^ 10)\n# Trouvez le résultat de 10 à la puissance 10 à a puissance 10\nprint(10 ^ 10 ^ 10)\n# Trouvez le moyen d'arrêter le programme parce que c'était une très mauvaise idée d'essayer de calculer 10 à la puissance 10 à la puissance 10\n# Commentez la ligne qui demande d'imprimer 10 à la puissance 10 à la puissance 10\n# Créez un dictionnaire avec comme clés \"key1\", \"key2\", \"key3\" et comme valeurs les nombres 1, 2 et 3 respectivement\ndict = {\"key1\" 1, \"key2\": 2; \"key3\" = 3}\n# Imprimez la valeur associée à \"key2\" dans le dictionnaire\nprint(dict[key2])\n# Imprimez la troisième clé du dictionnaire\nprint(dict.keys[3])\n# Faites crasher votre ordinateur :\nram_breaker = []\nwhile True:\n    for i in ram_breaker:\n        ram_breaker.append(i)\n    print(ram_breaker)"
+  },
+  {
+    "objectID": "teaching/2026_CSDH_Panel/Presentation.html#syntax-libraries",
+    "href": "teaching/2026_CSDH_Panel/Presentation.html#syntax-libraries",
+    "title": "0s, 1s, and Pseudocodes",
+    "section": "Syntax (Libraries)",
+    "text": "Syntax (Libraries)"
+  },
+  {
+    "objectID": "teaching/2026_CSDH_Panel/Presentation.html#assignments",
+    "href": "teaching/2026_CSDH_Panel/Presentation.html#assignments",
+    "title": "0s, 1s, and Pseudocodes",
+    "section": "Assignments",
+    "text": "Assignments\n\nPseudocode;\nTranslation of a humanities concept into a formal language (Python);\nFree Python project:\n\nRelevant to their work;\nMakes use of objects and functions;\nUse at least one library."
+  },
+  {
+    "objectID": "teaching/2026_CSDH_Panel/Presentation.html#some-quotes",
+    "href": "teaching/2026_CSDH_Panel/Presentation.html#some-quotes",
+    "title": "0s, 1s, and Pseudocodes",
+    "section": "Some quotes",
+    "text": "Some quotes\n\n\n“I’m trying to trust the process, but the process doesn’t trust me.” (Student A, [distressed]);\n“Why should I ever use an object?” (Student C, [suspiciously]);\n“Wait, this is an object?!?!?” (Students while learning about dictionaries, [saddened]);\n“You don’t need to understand, but you need to know that there is something to understand.” (Me, [mischievously]);\n“The robot only reads one line at the time, so I’m stuck in loops” (Student B, [panicked])\n“I don’t know, you’ll have to figure it out for yourself.” (Me, [mostly lying]);\n“Wait, this is also an object?!?!?”” (Students, while learning spaCy, [astounded]);\n“I tried something and it worked in the wrong way.” (Student B, [amused])."
+  },
+  {
+    "objectID": "teaching/2026_CSDH_Panel/Presentation.html#results",
+    "href": "teaching/2026_CSDH_Panel/Presentation.html#results",
+    "title": "0s, 1s, and Pseudocodes",
+    "section": "Results1",
+    "text": "Results1\nObserved:\n\nProgramming as a tool rather than an end;\nDe-mythification/mystification of the computer;\nVery creative projects.\n\nHoped:\n\nGreater autonomy for the students.\n\nLimited sample size, lack of a control group, other biases, so please don’t base your teaching on it."
+  },
+  {
+    "objectID": "teaching/2026_CSDH_Panel/Presentation.html#conclusion",
+    "href": "teaching/2026_CSDH_Panel/Presentation.html#conclusion",
+    "title": "0s, 1s, and Pseudocodes",
+    "section": "Conclusion",
+    "text": "Conclusion\nSyntax can be acquired independently outside of class with the ample resources available online (documentation, forums, peers, LLM-powered programming tools…).\nThe main challenge in teaching programming to humanities students is not and should not be technical, but rather conceptual."
+  },
+  {
+    "objectID": "teaching/2026_CSDH_Panel/Presentation.html#acknowledgement",
+    "href": "teaching/2026_CSDH_Panel/Presentation.html#acknowledgement",
+    "title": "0s, 1s, and Pseudocodes",
+    "section": "Acknowledgement",
+    "text": "Acknowledgement\nThe author is grateful for the financial support of the following organizations:\n\nSocial Sciences and Humanities Research Council (SSHRC);\nFond de recherche du Québec (FRQ);\nLaboratoire de recherche sur les écritures numériques.\n\nCredit images: Computerphile, Wikimedia, ThinkPython, LearnXinY, Josh Darnit."
+  },
+  {
+    "objectID": "PKD.html",
+    "href": "PKD.html",
+    "title": "A Philip K. Dick Cybermeneutics Project",
+    "section": "",
+    "text": "The Philip K. Dick Cybermeneutics Project is a case study for my thesis. It is an attempt at computer-assisted hermeneutics in which I combine close reading and distant reading methods to analyse Philip K. Dick’s novels and short stories with classical and algorithmic techniques.\nThe project was presented during the 2025 CSDH Conference."
+  },
+  {
+    "objectID": "PKD.html#blog-entries",
+    "href": "PKD.html#blog-entries",
+    "title": "A Philip K. Dick Cybermeneutics Project",
+    "section": "Blog entries",
+    "text": "Blog entries"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cybermeneutics",
+    "section": "",
+    "text": "Welcome to Yann Audin’s research blog!\nAccess to the Cybermeneutics tools can be found on its own dedicated github: https://github.com/Yann-Audin/CybermeneuticsTools1."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Cybermeneutics",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThe main branch of this repository leads to the latest version.↩︎"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About The Author",
+    "section": "",
+    "text": "I am a PhD candidate at the University of Montreal and my research interests are Digital Humanities, Literature and Epistemology. I am affiliated, through my supervisors Marcello Vitali-Rosati and Dominic Forest, to the Centre de recherche interuniversitaire sur les humanités numériques, and served until 2025 as a Canadian Society for Digital Humanities graduate representative."
+  },
+  {
+    "objectID": "about.html#recent-publications",
+    "href": "about.html#recent-publications",
+    "title": "About The Author",
+    "section": "Recent publications",
+    "text": "Recent publications\n\nFor a General Theory of Scholars–Digital Tools Interactions\nNotes sur le projet « Digital Leigh Hunt »"
+  },
+  {
+    "objectID": "about.html#proceedings",
+    "href": "about.html#proceedings",
+    "title": "About The Author",
+    "section": "Proceedings",
+    "text": "Proceedings\n\nDes algorithmes pour définir des concepts littéraires?\nLe projet Intelligence artificielle littéraire (IAL): définir formellement le concept de variation au sein de l’Anthologie grecque?\nIntelligence Artificielle Littéraire\nThe Importance of Single Source Publishing in Scientific Publishing"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "This page collects my reflections on various sujects loosely related to my thesis. Comments – either with Hypothesis or by email – are welcome as this blog represents preliminary work rather than anything definitive.\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pkd/pkd_01.html",
+    "href": "pkd/pkd_01.html",
+    "title": "Who is Philip K. Dick?",
+    "section": "",
+    "text": "Philip Kindred Dick and Jane Charlotte Dick were born prematurely in December of 1928 in Chicago. The twins spent their first weeks of life malnourished; Jane died in January of 1929 and on her grave were carved both her name and that of her brother (Carrère 1993). Philip K. Dick began his life with a tombstone to his name and haunted by the ghost of his twin sister.\n\nI am damned always to be separated from her and with her, in an oscillation. (P. K. Dick 2011)\n\nDick was raised by his mother after his parent’s divorce: they moved from the San Francisco Bay Area to Washington DC, and then back to California when he was 9. His interest in science-fiction began shortly after he started high school, with S-F magazines: “it was called STIRRING SCIENCE STORIES and ran, I think, four issues. The editor was Don Wollheim, who later on (1954) bought my first novel … and many since” (Sutin 2005). He worked for a radio station and then a record store during high school, a job he kept during and after he attempted college in 1949. His time at the University of California was exceptionally short; he did not have time to declare a major before dropping out due to anxiety (A. R. Dick 1995). He studied philosophy and then theology on his own, and began writing science-fiction full-time in 1951 (P. K. Dick 1978). Although he tried to branch out from science-fiction in the late 50s and early 60s, only one of his non science-fictional works was ever published. Dick’s body of work is extensive and far reaching: it was republished many times, translated in 25 languages (according to Paul Williams who acted as the executor for his literary estate), and adapted to theatre, television and cinema. Despite his literary success, Dick lived a difficult life. In an untitled short story sent to a young Daniel Gilbert in September 1978, the main character (named Philip K. Dick1) describes himself:\n\n“I may have been a success as a writer,” he continued, “but what does that matter really? Living alone year after year in a rented room, paying off the I.R.S. and my endless child support, waiting vainly for the right girl, the girl who, when she finally showed up, merely laughed at me.” Tears filled his eyes. “Being a giant of science fiction is not all that much,” he rasped. “It’s like Goethe said: the peasant with his hearth and wife and children is happier than the greatest philosopher.”"
+  },
+  {
+    "objectID": "pkd/pkd_01.html#philip-k.-dick-born-halfway-in-the-grave",
+    "href": "pkd/pkd_01.html#philip-k.-dick-born-halfway-in-the-grave",
+    "title": "Who is Philip K. Dick?",
+    "section": "",
+    "text": "Philip Kindred Dick and Jane Charlotte Dick were born prematurely in December of 1928 in Chicago. The twins spent their first weeks of life malnourished; Jane died in January of 1929 and on her grave were carved both her name and that of her brother (Carrère 1993). Philip K. Dick began his life with a tombstone to his name and haunted by the ghost of his twin sister.\n\nI am damned always to be separated from her and with her, in an oscillation. (P. K. Dick 2011)\n\nDick was raised by his mother after his parent’s divorce: they moved from the San Francisco Bay Area to Washington DC, and then back to California when he was 9. His interest in science-fiction began shortly after he started high school, with S-F magazines: “it was called STIRRING SCIENCE STORIES and ran, I think, four issues. The editor was Don Wollheim, who later on (1954) bought my first novel … and many since” (Sutin 2005). He worked for a radio station and then a record store during high school, a job he kept during and after he attempted college in 1949. His time at the University of California was exceptionally short; he did not have time to declare a major before dropping out due to anxiety (A. R. Dick 1995). He studied philosophy and then theology on his own, and began writing science-fiction full-time in 1951 (P. K. Dick 1978). Although he tried to branch out from science-fiction in the late 50s and early 60s, only one of his non science-fictional works was ever published. Dick’s body of work is extensive and far reaching: it was republished many times, translated in 25 languages (according to Paul Williams who acted as the executor for his literary estate), and adapted to theatre, television and cinema. Despite his literary success, Dick lived a difficult life. In an untitled short story sent to a young Daniel Gilbert in September 1978, the main character (named Philip K. Dick1) describes himself:\n\n“I may have been a success as a writer,” he continued, “but what does that matter really? Living alone year after year in a rented room, paying off the I.R.S. and my endless child support, waiting vainly for the right girl, the girl who, when she finally showed up, merely laughed at me.” Tears filled his eyes. “Being a giant of science fiction is not all that much,” he rasped. “It’s like Goethe said: the peasant with his hearth and wife and children is happier than the greatest philosopher.”"
+  },
+  {
+    "objectID": "pkd/pkd_01.html#addicts-under-the-face-of-god",
+    "href": "pkd/pkd_01.html#addicts-under-the-face-of-god",
+    "title": "Who is Philip K. Dick?",
+    "section": "2 Addicts, under the face of God",
+    "text": "2 Addicts, under the face of God\nDrugs and abuse were a major theme in Philip K. Dick’s life and oeuvre, his novel A Scanner Darkly is at least partially autobiographical and features drug houses, psychotic episodes and withdrawal (A. R. Dick 1995). To sustain himself and his families (Dick was married five times – May to November of 1948, 1950 to 1959, 1959 to 1965, 1966 to 1972, and 1973 to 1977 – and had three children), Dick used and abused drugs, mainly amphetamines, cannabis and antidepressants to alternatively bolster his writing and calm his anxiety (Sutin 2005). California in the 60s and 70s had a prominent drug culture which let Dick experiment with different substances. According to his third wife, Anne R. Dick:\n\nRay Nelson brought some [LSD] for Phil to take. The two of them sat together in Phil’s house for eight hours while Phil had a terrible hallucination, sweating, feeling completely alone, reexperiencing a spear thrust through his body, and speaking Latin, as he re-lived a life as a Roman gladiator. (A. R. Dick 1995)\n\nThis was the first and last time that Dick used LSD2, but visions of the Roman empire and of early Christians would become prevalent in his life. One such vision led him to convert to Anglicanism in 1964 (A. R. Dick 1995; Davis 2019) :\n\nI looked up in the sky and saw a face[,] a vast visage of perfect evil […]. It had empty slots for eyes – it was metal and cruel and, worst of all, it was God. (P. K. Dick 2002)\n\nDick would later explain the vision as the result of an 8-hour writing session that acted as a form of sensory deprivation, but his conversion and his subsequent interest towards theology – Christian, Gnostic, Jewish, etc. – marked his writing and the way he experienced the world. Experiences such as this one contributed to his reputation as a drug user, but according to Nancy Hackett, his fourth wife and mother of his second daughter Isa:\n\nWhen Philip was married to me, he never wrote except when he needed money. Then he would write a novel in six days by using amphetamines. (A. R. Dick 1995)\n\nIn 1971, after a series of incidents including a burglary, Dick lost his house to the drug users he had let in (P. K. Dick 1988). That year, he left for Canada where he attempted suicide by overdose of potassium bromide after being rejected by a woman he fell in love with in Vancouver (A. R. Dick 1995). Dick’s relation to drugs changed after this event and he engaged in outreach with rehabilitation and prevention organisations (P. K. Dick 2011).\n\n\n\nA letter sent to the Orange County Drug Information Service in October of 1972."
+  },
+  {
+    "objectID": "pkd/pkd_01.html#section",
+    "href": "pkd/pkd_01.html#section",
+    "title": "Who is Philip K. Dick?",
+    "section": "3 “2-3-74”",
+    "text": "3 “2-3-74”\n\nThe doorbell rang and I went, and there stood this girl with black, black hair and large eyes very lovely and intense; I stood staring at her, amazed, also confused, thinking I’d never seen such a beautiful girl, and why was she standing there? She handed me the package of medication [Darvon], and I tried to think what to say to her; I noticed, then, a fascinating gold necklace around her neck and I said, “What is that? It certainly is beautiful,” just, you see, to find something to say to hold her there. The girl indicated the major figure in it, which was a fish. “This is a sign used by the early Christians,” she said, and then departed. (Sutin 2005)\n\nDick’s most important drug fueled vision would come to him in February of 1974 (P. K. Dick 2011), after four years of writer’s block (Butler 2000). He was then married to Leslie Busby, a young woman who also acted as his secretary and went by the name of Tessa, with whom Dick had a son, Christopher. Dick and Tessa had, according to multiple accounts, a fusional relationship, although they were fighting on multiple trivial issues such as cleaning and cooking3 (A. R. Dick 1995; Sutin 2005). In February of 1974, while recovering from an impacted wisdom tooth extraction, and still under the influence of sodium pentothal, Philip K. Dick received a delivery from a woman wearing a gold pendant with an ichthus, an early Christian symbol. The sight of light reflecting off the ichthus triggered something in him: he experienced a pink beam of light transmitting information directly into his brain (P. K. Dick 2011). The experience overwhelmed Dick who found himself superposed between his own reality and the absolute conviction that the whole universe was stuck in 50 AC. In this world, the “Empire never ended” (P. K. Dick 1981b) and Philip K. Dick was, in reality, Thomas, an early Christian persecuted by Rome.\n\nBut the core of the difficult truths that Phil held dear in his last years lay in 2-3-74. No one can pass upon the unanswerable question: Were those events real? Phil himself had no doubt that something had happened, though he always retained as a possibility–as his friend and fellow SF writer K. W. Deter observes–the “minimum hypothesis” that they were self-delusion. (Sutin 2005)\n\nIn February and March of that year, Dick continued to experience visions which he attempted to describe, understand and analyse in journals that would, in the end, amount to more than 8000 pages, some manuscript and others typed on his typewriter (Itzkoff 2010). These visions shaped and informed Dick’s writing; his last novels Radio Free Albemuth, VALIS, The Divine Invasion and The Transmigration of Timothy Archer all focus on his religious experience and the pink beam of light.\n\nA beam of pink light blinded him; he felt dreadful pain in his head, and clapped his hands to his eyes. I am blind! he realized. With the pain and the pink light came understanding, an acute knowledge; he knew that Zina was not a human woman, and he knew, further, that the boy Manny was not a human boy. This was not a real world he was in; he understood that because the beam of pink light had told him that. This world was a simulation, and something living and intelligent and sympathetic wanted him to know. (P. K. Dick 1981a)\n\n\nThe cardinal point which Fat had made to us regarding his experience with the pink beam which had injured and blinded him was this: he claimed that instantly – as soon as the beam struck him – he knew things he had never known. (P. K. Dick 1981b)\n\nIn VALIS, the pink beam reveals to the main character – Horselover Fat, a stand-in for Philip K. Dick himself – that his son has a dangerous, but easily treatable heart defect. The same thing happened to Dick who had his son Christopher tested for a potentially fatal inguinal hernia after one of his visions. The results of the tests were positive, and a surgery fixed Christopher’s heart (P. K. Dick 2011; Sutin 2005). The blurring of reality and fiction, divinity and decay, creation and entropy were central to Dick’s life and work: in his Exegesis and in discussions, he mentions writing “reports” rather than novels (Carrère 2004). Paul Williams, Dick’s literary executor warns readers: Philip K. Dick “recognizes his own unreliability and yet at the same time believes everything he says” (P. K. Dick 1988)."
+  },
+  {
+    "objectID": "pkd/pkd_01.html#i-am-alive-and-you-are-dead",
+    "href": "pkd/pkd_01.html#i-am-alive-and-you-are-dead",
+    "title": "Who is Philip K. Dick?",
+    "section": "4 I am alive and you are dead",
+    "text": "4 I am alive and you are dead\nEmmanuel Carrère’s biography of Philip K. Dick, Je suis vivant et vous êtes mort, refers to one of Dick’s novel: Ubik, in which the mystery revolves around the whether or not the characters are dead or alive. In Ubik, Glen Runciter leads a team of “inertials” – people with the ability to negate psychic powers – to secure a Moon base from telepaths. After an explosion that claims the life of Runciter, Joe Chip, the mission technician, takes command of the team to rush their boss back on Earth to allow him to exist in artificial half-life. Joe and the other inertials are surprised to see signs of an entity trying to help them by any mean necessary as time and space begins to crumble around them. From his half-life pod, Runciter is silent, but still, it seems that he tries to using other means such as a message on the walls of the men’s bathroom:\n\n“Jump in the urinal and stand on your head\nI’m the one that’s alive. You’re all dead.\nLean over the bowl and then take a dive\nAll of you are dead. I am alive.” (P. K. Dick 1969)\n\nIn the real world, Runciter is desperately trying to save his team and make them understand that they are, in fact, the ones who died on the Moon and are now suspended in half-life. As more and more of Joe Chip’s team succumb to the time anomalies, it becomes very difficult to ignore the hints that the world he inhabits is not real. On one hand, signs of Runciter’s interventions are everywhere, and on the other, Jory, another half-lifer with the power to consume consciousness to sustain himself tries to kill Joe. Joe is saved by a collective of half-lifers, who developed a way to repel Jory, and Runciter mourns the loss of his team. But the novel ends with Glen Runciter, alive and inhabiting the real world, finding the face of Joe Chip on the coins in his pocket, as if Joe was trying to communicate with him: as if Runciter was himself in a half-life fictitious world.\nIn February and March of 1982, a series of strokes left Philip K. Dick brain dead at the age of 53. He was disconnected from life support on March 2nd, eight years and ten days after the events of 2-3-74.\nIn this reality, we are alive and he is dead."
+  },
+  {
+    "objectID": "pkd/pkd_01.html#footnotes",
+    "href": "pkd/pkd_01.html#footnotes",
+    "title": "Who is Philip K. Dick?",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nDick often stages himself in his novels, either as Philip, Phil and even as Horselover.↩︎\nIn an interview he gave to Charles Platt, Philip K. Dick admitted to using acid one other time, but the dose was too weak to affect him more than hash.↩︎\nIn a long and incredibly funny letter to his then wife, Dick writes: “Well, here I am in sunny Cleveland, having won first prize in the Fullerton Stink Bug look-alike contest (first prize, which I won, is a week in Cleveland; second prize is two weeks in Cleveland)…. […] YOU HAVE WOUNDED MY HEART BY YOUR CRUELTY AND INDIFFERENCE AND YOUR HAUGHTY MANNER, FOR INSTANCE YOUR READING ALL DAY AND NOT DOING THE DISHES. More about this later.” (A. R. Dick 1995)↩︎"
+  },
+  {
     "objectID": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#the-exegesis-of-philip-k.-dick",
     "href": "presentations/CSDH2025/Cybermeneutics/cybermeneutics_v01.html#the-exegesis-of-philip-k.-dick",
     "title": "Cybermeneutics - Anthology of a Tool",
@@ -210,104 +441,6 @@
     "text": "References\n\n\n\n\n\nDick, Philip K. 2011. The Exegesis of Philip k. Dick. Edited by Pamela Jackson and Jonathan Lethem. Houghton Mifflin Harcourt."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Cybermeneutics",
-    "section": "",
-    "text": "Welcome to Yann Audin’s research blog!\nAccess to the Cybermeneutics tools can be found on its own dedicated github: https://github.com/Yann-Audin/CybermeneuticsTools1."
-  },
-  {
-    "objectID": "index.html#footnotes",
-    "href": "index.html#footnotes",
-    "title": "Cybermeneutics",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThe main branch of this repository leads to the latest version.↩︎"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About The Author",
-    "section": "",
-    "text": "I am a PhD candidate at the University of Montreal and my research interests are Digital Humanities, Literature and Epistemology. I am affiliated, through my supervisors Marcello Vitali-Rosati and Dominic Forest, to the Centre de recherche interuniversitaire sur les humanités numériques, and to the Canadian Society for Digital Humanities as a graduate representative."
-  },
-  {
-    "objectID": "about.html#recent-publications",
-    "href": "about.html#recent-publications",
-    "title": "About The Author",
-    "section": "Recent publications",
-    "text": "Recent publications\n\nFor a General Theory of Scholars–Digital Tools Interactions\nNotes sur le projet « Digital Leigh Hunt »"
-  },
-  {
-    "objectID": "about.html#proceedings",
-    "href": "about.html#proceedings",
-    "title": "About The Author",
-    "section": "Proceedings",
-    "text": "Proceedings\n\nDes algorithmes pour définir des concepts littéraires?\nLe projet Intelligence artificielle littéraire (IAL): définir formellement le concept de variation au sein de l’Anthologie grecque?\nIntelligence Artificielle Littéraire\nThe Importance of Single Source Publishing in Scientific Publishing"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "This page collects my reflections on various sujects loosely related to my thesis. Comments – either with Hypothesis or by email – are welcome as this blog represents preliminary work rather than anything definitive.\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "pkd/pkd_01.html",
-    "href": "pkd/pkd_01.html",
-    "title": "Who is Philip K. Dick?",
-    "section": "",
-    "text": "Philip Kindred Dick and Jane Charlotte Dick were born prematurely in December of 1928 in Chicago. The twins spent their first weeks of life malnourished; Jane died in January of 1929 and on her grave were carved both her name and that of her brother (Carrère 1993). Philip K. Dick began his life with a tombstone to his name and haunted by the ghost of his twin sister.\n\nI am damned always to be separated from her and with her, in an oscillation. (P. K. Dick 2011)\n\nDick was raised by his mother after his parent’s divorce: they moved from the San Francisco Bay Area to Washington DC, and then back to California when he was 9. His interest in science-fiction began shortly after he started high school, with sci-fi magazines: “it was called STIRRING SCIENCE STORIES and ran, I think, four issues. The editor was Don Wollheim, who later on (1954) bought my first novel … and many since” (Sutin 2005). He worked for a radio station and then a record store during high school, a job he kept during and after he attempted college in 1949. His time at the University of California was exceptionally short; he did not have time to declare a major before dropping out due to anxiety (A. R. Dick 1995). He studied philosophy and then theology on his own, and began writing science-fiction full-time in 1951 (P. K. Dick 1978). Although he tried to branch out from science-fiction in the late 50s and early 60s, only one of his non science-fictional works was ever published. Dick’s body of work is extensive and far reaching: it was republished many times, translated in 25 languages (according to Paul Williams who acted as the executor for his literary estate), and adapted to theatre, television and cinema. Despite his literary success, Dick lived a difficult life. In an untitled short story sent to a young Daniel Gilbert in September 1978, the main character (named Philip K. Dick1) describes himself:\n\n“I may have been a success as a writer,” he continued, “but what does that matter really? Living alone year after year in a rented room, paying off the I.R.S. and my endless child support, waiting vainly for the right girl, the girl who, when she finally showed up, merely laughed at me.” Tears filled his eyes. “Being a giant of science fiction is not all that much,” he rasped. “It’s like Goethe said: the peasant with his hearth and wife and children is happier than the greatest philosopher.”"
-  },
-  {
-    "objectID": "pkd/pkd_01.html#philip-k.-dick-born-halfway-in-the-grave",
-    "href": "pkd/pkd_01.html#philip-k.-dick-born-halfway-in-the-grave",
-    "title": "Who is Philip K. Dick?",
-    "section": "",
-    "text": "Philip Kindred Dick and Jane Charlotte Dick were born prematurely in December of 1928 in Chicago. The twins spent their first weeks of life malnourished; Jane died in January of 1929 and on her grave were carved both her name and that of her brother (Carrère 1993). Philip K. Dick began his life with a tombstone to his name and haunted by the ghost of his twin sister.\n\nI am damned always to be separated from her and with her, in an oscillation. (P. K. Dick 2011)\n\nDick was raised by his mother after his parent’s divorce: they moved from the San Francisco Bay Area to Washington DC, and then back to California when he was 9. His interest in science-fiction began shortly after he started high school, with sci-fi magazines: “it was called STIRRING SCIENCE STORIES and ran, I think, four issues. The editor was Don Wollheim, who later on (1954) bought my first novel … and many since” (Sutin 2005). He worked for a radio station and then a record store during high school, a job he kept during and after he attempted college in 1949. His time at the University of California was exceptionally short; he did not have time to declare a major before dropping out due to anxiety (A. R. Dick 1995). He studied philosophy and then theology on his own, and began writing science-fiction full-time in 1951 (P. K. Dick 1978). Although he tried to branch out from science-fiction in the late 50s and early 60s, only one of his non science-fictional works was ever published. Dick’s body of work is extensive and far reaching: it was republished many times, translated in 25 languages (according to Paul Williams who acted as the executor for his literary estate), and adapted to theatre, television and cinema. Despite his literary success, Dick lived a difficult life. In an untitled short story sent to a young Daniel Gilbert in September 1978, the main character (named Philip K. Dick1) describes himself:\n\n“I may have been a success as a writer,” he continued, “but what does that matter really? Living alone year after year in a rented room, paying off the I.R.S. and my endless child support, waiting vainly for the right girl, the girl who, when she finally showed up, merely laughed at me.” Tears filled his eyes. “Being a giant of science fiction is not all that much,” he rasped. “It’s like Goethe said: the peasant with his hearth and wife and children is happier than the greatest philosopher.”"
-  },
-  {
-    "objectID": "pkd/pkd_01.html#addicts-under-the-face-of-god",
-    "href": "pkd/pkd_01.html#addicts-under-the-face-of-god",
-    "title": "Who is Philip K. Dick?",
-    "section": "2 Addicts, under the face of God",
-    "text": "2 Addicts, under the face of God\nDrugs and abuse were a major theme in Philip K. Dick’s life and oeuvre, his novel A Scanner Darkly is at least partially autobiographical and features drug houses, psychotic episodes and withdrawal (A. R. Dick 1995). To sustain himself and his families (Dick was married five times – May to November of 1948, 1950 to 1959, 1959 to 1965, 1966 to 1972, and 1973 to 1977 – and had three children), Dick used and abused drugs, mainly amphetamines, cannabis and antidepressants to alternatively bolster his writing and calm his anxiety (Sutin 2005). California in the 60s and 70s had a prominent drug culture which let Dick experiment with different substances. According to his third wife, Anne R. Dick:\n\nRay Nelson brought some [LSD] for Phil to take. The two of them sat together in Phil’s house for eight hours while Phil had a terrible hallucination, sweating, feeling completely alone, reexperiencing a spear thrust through his body, and speaking Latin, as he re-lived a life as a Roman gladiator. (A. R. Dick 1995)\n\nThis was the first and last time that Dick used LSD2, but visions of the Roman empire and of early Christians would become prevalent in his life. One such vision led him to convert to Anglicanism in 1964 (A. R. Dick 1995; Davis 2019) :\n\nI looked up in the sky and saw a face[,] a vast visage of perfect evil […]. It had empty slots for eyes – it was metal and cruel and, worst of all, it was God. (P. K. Dick 2002)\n\nDick would later explain the vision as the result of an 8-hour writing session that acted as a form of sensory deprivation, but his conversion and his subsequent interest towards theology – Christian, Gnostic, Jewish, etc. – marked his writing and the way he experienced the world. Experiences such as this one contributed to his reputation as a drug user, but according to Nancy Hackett, his fourth wife and mother of his second daughter Isa:\n\nWhen Philip was married to me, he never wrote except when he needed money. Then he would write a novel in six days by using amphetamines. (A. R. Dick 1995)\n\nIn 1971, after a series of incidents including a burglary, Dick lost his house to the drug users he had let in (P. K. Dick 1988). That year, he left for Canada where he attempted suicide by overdose of potassium bromide after being rejected by a woman he fell in love with in Vancouver (A. R. Dick 1995). Dick’s relation to drugs changed after this event and he engaged in outreach with rehabilitation and prevention organisations (P. K. Dick 2011).\n\n\n\nA letter sent to the Orange County Drug Information Service in October of 1972."
-  },
-  {
-    "objectID": "pkd/pkd_01.html#section",
-    "href": "pkd/pkd_01.html#section",
-    "title": "Who is Philip K. Dick?",
-    "section": "3 “2-3-74”",
-    "text": "3 “2-3-74”\n\nThe doorbell rang and I went, and there stood this girl with black, black hair and large eyes very lovely and intense; I stood staring at her, amazed, also confused, thinking I’d never seen such a beautiful girl, and why was she standing there? She handed me the package of medication [Darvon], and I tried to think what to say to her; I noticed, then, a fascinating gold necklace around her neck and I said, “What is that? It certainly is beautiful,” just, you see, to find something to say to hold her there. The girl indicated the major figure in it, which was a fish. “This is a sign used by the early Christians,” she said, and then departed. (Sutin 2005)\n\nDick’s most important drug fueled vision would come to him in February of 1974 (P. K. Dick 2011), after four years of writer’s block (Butler 2000). He was then married to Leslie Busby, a young woman who also acted as his secretary and went by the name of Tessa, with whom Dick had a son, Christopher. Dick and Tessa had, according to multiple accounts, a fusional relationship, although they were fighting on multiple trivial issues such as cleaning and cooking3 (A. R. Dick 1995; Sutin 2005). In February of 1974, while recovering from an impacted wisdom tooth extraction, and still under the influence of sodium pentothal, Philip K. Dick received a delivery from a woman wearing a gold pendant with an ichthus, an early Christian symbol. The sight of light reflecting off the ichthus triggered something in him: he experienced a pink beam of light transmitting information directly into his brain (P. K. Dick 2011). The experience overwhelmed Dick who found himself superposed between his own reality and the absolute conviction that the whole universe was stuck in 50 AC. In this world, the “Empire never ended” (P. K. Dick 1981b) and Philip K. Dick was, in reality, Thomas, an early Christian persecuted by Rome.\n\nBut the core of the difficult truths that Phil held dear in his last years lay in 2-3-74. No one can pass upon the unanswerable question: Were those events real? Phil himself had no doubt that something had happened, though he always retained as a possibility–as his friend and fellow SF writer K. W. Deter observes–the “minimum hypothesis” that they were self-delusion. (Sutin 2005)\n\nIn February and March of that year, Dick continued to experience visions which he attempted to describe, understand and analyse in journals that would, in the end, amount to more than 8000 pages, some manuscript and others typed on his typewriter (Itzkoff 2010). These visions shaped and informed Dick’s writing; his last novels Radio Free Albemuth, VALIS, The Divine Invasion and The Transmigration of Timothy Archer all focus on his religious experience and the pink beam of light.\n\nA beam of pink light blinded him; he felt dreadful pain in his head, and clapped his hands to his eyes. I am blind! he realized. With the pain and the pink light came understanding, an acute knowledge; he knew that Zina was not a human woman, and he knew, further, that the boy Manny was not a human boy. This was not a real world he was in; he understood that because the beam of pink light had told him that. This world was a simulation, and something living and intelligent and sympathetic wanted him to know. (P. K. Dick 1981a)\n\n\nThe cardinal point which Fat had made to us regarding his experience with the pink beam which had injured and blinded him was this: he claimed that instantly – as soon as the beam struck him – he knew things he had never known. (P. K. Dick 1981b)\n\nIn VALIS, the pink beam reveals to the main character – Horselover Fat, a stand-in for Philip K. Dick himself – that his son has a dangerous, but easily treatable heart defect. The same thing happened to Dick who had his son Christopher tested for a potentially fatal inguinal hernia after one of his visions. The results of the tests were positive, and a surgery fixed Christopher’s heart (P. K. Dick 2011; Sutin 2005). The blurring of reality and fiction, divinity and decay, creation and entropy were central to Dick’s life and work: in his Exegesis and in discussions, he mentions writing “reports” rather than novels (Carrère 2004). Paul Williams, Dick’s literary executor warns readers: Philip K. Dick “recognizes his own unreliability and yet at the same time believes everything he says” (P. K. Dick 1988)."
-  },
-  {
-    "objectID": "pkd/pkd_01.html#i-am-alive-and-you-are-dead",
-    "href": "pkd/pkd_01.html#i-am-alive-and-you-are-dead",
-    "title": "Who is Philip K. Dick?",
-    "section": "4 I am alive and you are dead",
-    "text": "4 I am alive and you are dead\nEmmanuel Carrère’s biography of Philip K. Dick, Je suis vivant et vous êtes mort, refers to one of Dick’s novel: Ubik, in which the mystery revolves around the whether or not the characters are dead or alive. In Ubik, Glen Runciter leads a team of “inertials” – people with the ability to negate psychic powers – to secure a Moon base from telepaths. After an explosion that claims the life of Runciter, Joe Chip, the mission technician, takes command of the team to rush their boss back on Earth to allow him to exist in artificial half-life. Joe and the other inertials are surprised to see signs of an entity trying to help them by any mean necessary as time and space begins to crumble around them. From his half-life pod, Runciter is silent, but still, it seems that he tries to using other means such as a message on the walls of the men’s bathroom:\n\n“Jump in the urinal and stand on your head\nI’m the one that’s alive. You’re all dead.\nLean over the bowl and then take a dive\nAll of you are dead. I am alive.” (P. K. Dick 1969)\n\nIn the real world, Runciter is desperately trying to save his team and make them understand that they are, in fact, the ones who died on the Moon and are now suspended in half-life. As more and more of Joe Chip’s team succumb to the time anomalies, it becomes very difficult to ignore the hints that the world he inhabits is not real. On one hand, signs of Runciter’s interventions are everywhere, and on the other, Jory, another half-lifer with the power to consume consciousness to sustain himself tries to kill Joe. Joe is saved by a collective of half-lifers, who developed a way to repel Jory, and Runciter mourns the loss of his team. But the novel ends with Glen Runciter, alive and inhabiting the real world, finding the face of Joe Chip on the coins in his pocket, as if Joe was trying to communicate with him: as if Runciter was himself in a half-life fictitious world.\nIn February and March of 1982, a series of strokes left Philip K. Dick brain dead at the age of 53. He was disconnected from life support on March 2nd, eight years and ten days after the events of 2-3-74.\nIn this reality, we are alive and he is dead."
-  },
-  {
-    "objectID": "pkd/pkd_01.html#footnotes",
-    "href": "pkd/pkd_01.html#footnotes",
-    "title": "Who is Philip K. Dick?",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nDick often stages himself in his novels, either as Philip, Phil and even as Horselover.↩︎\nIn an interview he gave to Charles Platt, Philip K. Dick admitted to using acid one other time, but the dose was too weak to affect him more than hash.↩︎\nIn a long and incredibly funny letter to his then wife, Dick writes: “Well, here I am in sunny Cleveland, having won first prize in the Fullerton Stink Bug look-alike contest (first prize, which I won, is a week in Cleveland; second prize is two weeks in Cleveland)…. […] YOU HAVE WOUNDED MY HEART BY YOUR CRUELTY AND INDIFFERENCE AND YOUR HAUGHTY MANNER, FOR INSTANCE YOUR READING ALL DAY AND NOT DOING THE DISHES. More about this later.” (A. R. Dick 1995)↩︎"
-  },
-  {
-    "objectID": "PKD.html",
-    "href": "PKD.html",
-    "title": "A Philip K. Dick Cybermeneutics Project",
-    "section": "",
-    "text": "The Philip K. Dick Cybermeneutics Project is a case study for my thesis. It is an attempt at computer-assisted hermeneutics in which I combine close reading and distant reading methods to analyse Philip K. Dick’s novels and short stories with classical and algorithmic techniques.\nThe project was presented during the 2025 CSDH Conference."
-  },
-  {
-    "objectID": "PKD.html#blog-entries",
-    "href": "PKD.html#blog-entries",
-    "title": "A Philip K. Dick Cybermeneutics Project",
-    "section": "Blog entries",
-    "text": "Blog entries"
-  },
-  {
     "objectID": "teaching/HNU3059_6059.html",
     "href": "teaching/HNU3059_6059.html",
     "title": "HNU3059/6059",
@@ -397,47 +530,5 @@
     "title": "HNU3059/6059",
     "section": "Références",
     "text": "Références\n\n\nBennett, Nicholas. 2015. « Introduction to Algorithms and Pseudocode ». Working paper in Project “Exploring Modelling; Computation.\n\n\nDarnit, Josh. 2017. « Exact Instructions Challenge PB&J Classroom Friendly ». YouTube. https://www.youtube.com/watch?v=XXXXXX.\n\n\nDowney, Allen. 2012. Think python. \" O’Reilly Media, Inc.\".\n\n\nHolland, Norman N. 1967. « Futures: A non-summary of the EDUCOM Symposium on the computer and humanistic studies, 8, 9, 10 June 1967 ». Computers and the Humanities, 57‑64."
-  },
-  {
-    "objectID": "pkd/pkd_02.html",
-    "href": "pkd/pkd_02.html",
-    "title": "Why Philip K. Dick?",
-    "section": "",
-    "text": "To know Philip K. Dick’s work is to recognize him everywhere. When the nature of reality is contested in contemporary media, one can usually draw a line to Dick, either directly – Bladerunner, The Adjustment Bureau, Total Recall, Philip K. Dick’s Electric Dreams, Minority Report, … – or indirectly – The Matrix, Donnie Darko, Eternal Sunshine of the Spotless Mind, The Truman Show, Westworld, … It is easy to trace many concepts in today’s cultural zeitgeist to his work, in spite the narrowness of science-fiction readership.\n\n\n\nBlade Runner (1982) follows the main plot of Do Androids Dream of Electric Sheep. It was released a few months after Dick’s death, but he did see clips of it1.\n\n\n\n\n\n\n\n\nIf nothing I say could convince you to read science-fiction:\n\n\n\nI am well aware that if you think that S-F cannot hold literary value, it’s unlikely that I could convince you to read Philip K. Dick if I were to describe it as “science-fiction, but even weirder”. Instead, here is my half-baked appeal to canonicity on why you might want to try to read some S-F and Dick’s work:\n\nIn most “best books of all time” lists, science-fiction tends to take 4–5% of the spots2 despite being a relatively young and marginal genre;\nPhilip K. Dick was the first science-fiction author to be included in The Library of America series;\nMore than 26 000 scholarly articles mention him, and his work inspired Jean Baudrillard’s very canonical Simulacres et simulation3;\nDick’s extensive body of work is still being adapted to television and cinema (sometimes directly, often indirectly), and he has had a lasting impact on multiple genre beyond science-fiction and speculative fiction.\n\nHowever if the tropes of science-fiction are enough to make you put down a book, I don’t actually believe that you actually should read Philip K. Dick’s novels and short stories. That being said…\n\n\nPhilip K. Dick didn’t prop himself as an observer of society, didn’t attempt to create a universal work of art, and the boundary between his personal life, his activism and his art was flimsy at best. Rather, he acted as a canary in a coal mine: Dick was first and foremost an American white man who grew up and lived in an era of extraordinary and frightening technological and cultural transformations. He became a creative nexus for the formidable and overwhelming forces of his time.\nThe pressures of the World Wars and the Cold Wars, the blooming of popular psychology, the rediscovery of ancient Christian texts, post-war interests in psychoanalysis and esoterism, California’s drug culture, military experiemnts with LSD, the rise of no-fault divorce in the US, the boom of pulp sci-fi, the blind enthousiasm of futurism, the post-truth mediatic turn, quantum mechanics and cosmology, the space race, the first serious talks of artificial intelligence and androids, the Bomb and its aftermath… Philip K. Dick lived and captured all of it and more. He transformed the falseness and the brokeness of a life that is both extremely specific—being an American in the 50s, 60s and 70s—and completely generalisable—living with crushing doubt and through sweeping changes—into literary truth.\nSetting aside Dick’s predictions for the future — some of which did come to pass, many others looking like they are straight around the corner — his work carries insights on humanity and its relation technology and ideology [TODO - transition]"
-  },
-  {
-    "objectID": "pkd/pkd_02.html#why-we-should-read-philip-k.-dicks-fiction",
-    "href": "pkd/pkd_02.html#why-we-should-read-philip-k.-dicks-fiction",
-    "title": "Why Philip K. Dick?",
-    "section": "",
-    "text": "To know Philip K. Dick’s work is to recognize him everywhere. When the nature of reality is contested in contemporary media, one can usually draw a line to Dick, either directly – Bladerunner, The Adjustment Bureau, Total Recall, Philip K. Dick’s Electric Dreams, Minority Report, … – or indirectly – The Matrix, Donnie Darko, Eternal Sunshine of the Spotless Mind, The Truman Show, Westworld, … It is easy to trace many concepts in today’s cultural zeitgeist to his work, in spite the narrowness of science-fiction readership.\n\n\n\nBlade Runner (1982) follows the main plot of Do Androids Dream of Electric Sheep. It was released a few months after Dick’s death, but he did see clips of it1.\n\n\n\n\n\n\n\n\nIf nothing I say could convince you to read science-fiction:\n\n\n\nI am well aware that if you think that S-F cannot hold literary value, it’s unlikely that I could convince you to read Philip K. Dick if I were to describe it as “science-fiction, but even weirder”. Instead, here is my half-baked appeal to canonicity on why you might want to try to read some S-F and Dick’s work:\n\nIn most “best books of all time” lists, science-fiction tends to take 4–5% of the spots2 despite being a relatively young and marginal genre;\nPhilip K. Dick was the first science-fiction author to be included in The Library of America series;\nMore than 26 000 scholarly articles mention him, and his work inspired Jean Baudrillard’s very canonical Simulacres et simulation3;\nDick’s extensive body of work is still being adapted to television and cinema (sometimes directly, often indirectly), and he has had a lasting impact on multiple genre beyond science-fiction and speculative fiction.\n\nHowever if the tropes of science-fiction are enough to make you put down a book, I don’t actually believe that you actually should read Philip K. Dick’s novels and short stories. That being said…\n\n\nPhilip K. Dick didn’t prop himself as an observer of society, didn’t attempt to create a universal work of art, and the boundary between his personal life, his activism and his art was flimsy at best. Rather, he acted as a canary in a coal mine: Dick was first and foremost an American white man who grew up and lived in an era of extraordinary and frightening technological and cultural transformations. He became a creative nexus for the formidable and overwhelming forces of his time.\nThe pressures of the World Wars and the Cold Wars, the blooming of popular psychology, the rediscovery of ancient Christian texts, post-war interests in psychoanalysis and esoterism, California’s drug culture, military experiemnts with LSD, the rise of no-fault divorce in the US, the boom of pulp sci-fi, the blind enthousiasm of futurism, the post-truth mediatic turn, quantum mechanics and cosmology, the space race, the first serious talks of artificial intelligence and androids, the Bomb and its aftermath… Philip K. Dick lived and captured all of it and more. He transformed the falseness and the brokeness of a life that is both extremely specific—being an American in the 50s, 60s and 70s—and completely generalisable—living with crushing doubt and through sweeping changes—into literary truth.\nSetting aside Dick’s predictions for the future — some of which did come to pass, many others looking like they are straight around the corner — his work carries insights on humanity and its relation technology and ideology [TODO - transition]"
-  },
-  {
-    "objectID": "pkd/pkd_02.html#what-about-philip-k.-dicks-non-fiction",
-    "href": "pkd/pkd_02.html#what-about-philip-k.-dicks-non-fiction",
-    "title": "Why Philip K. Dick?",
-    "section": "2 What about Philip K. Dick’s non-fiction?",
-    "text": "2 What about Philip K. Dick’s non-fiction?\nPhilip K. Dick’s non-fiction is a strange land few seem willing to explore, and with good reasons. It is an extremely varied and voluminous corpus: between the essays, speeches, letters, notes, journal entries and poems he either published or kept in his files, there are more than ten thousand pages. His Exegesis, a living document he started in 1974 and never finished, is estimated at more than two millions words (dick_letters1974?)—of which only a fraction were published—, and the selected letters, released to the public after his death, fill six volumes4. These texts reveal the complexity of a broken and unreliable, yet lucid and aware author: Dick is at the center of a cultural and technological storm as the American culture reaches multiple rupture points and goes through irremediable changes.\n\nBut the state of things is so dreary here in the U.S.— they say the elderly and poor are eating canned dogfood, now, to stay alive, and the McDonald hamburg­ers are made from cows’ eyes. The radio also says that today when Charles Colson, the President’s former counsel, went into jail he still wore his Richard M. Nixon tieclasp. “California dreaming is becoming a reality,” is a line from a Mamas & The Papas song of a few years ago, but what a dreadful surreal reality it is: foglike and dangerous, with the subtle and terrible manifestations of evil rising up like rocks in the gloom. I wish I was somewhere else. Disneyland, maybe. The last sane place here? Forever to take Mr. Toad’s Wild Ride and never get off? (dick_letters3_1974?)\n\nScience-fiction allowed Dick to explore the natural development of scientific and social ideas (some of which are more actual today than they were in the 60s and 70s), but he engaged directly and extensively with politic, technology, science, and religion outside of his novels and short stories. His letters reveal attempts at anti-drug activism, and a recuring theme in his essays is the political implications of technology. Both his non-fiction and advocacy are marked by suspicion: despite being a hub for the cultural pressures of his time, Dick had the necessary paranoia to grasp at reality in a hyperpropagandized, ad-filled society. In How To Build A Universe That Doesn’t Fall Apart Two Days Later, spells out his main thesis (“What is real?”) in the situated context of a mediatic revolution:\n\nSo I ask, in my writing, What is real? Because unceasingly we are bombarded with pseudorealities manufactured by very sophisticated people using very sophisticated electronic mechanisms. I do not distrust their motives; I distrust their power. They have a lot of it. And it is an astonishing power: that of creating whole universes, universes of the mind. I ought to know. I do the same thing. (dick_how_1978?)\n\n[TODO - transition]"
-  },
-  {
-    "objectID": "pkd/pkd_02.html#reading-philip-k.-dick-in-2025",
-    "href": "pkd/pkd_02.html#reading-philip-k.-dick-in-2025",
-    "title": "Why Philip K. Dick?",
-    "section": "3 Reading Philip K. Dick in 2025",
-    "text": "3 Reading Philip K. Dick in 2025\n[TODO : DADoES?]\nWe find direct para The overwhelming and paralyzing suspicion of Philip K. Dick is akin to our own suspicion towards generative AI, especially for generated pictures and videos.\nIn Do Androids Dream of Electric Sheep, his description of Buster Friendly and his Friendly Friends – a 24/7 news and variety show starring a never aging, never tiring cast that is later revealed to be fully automated – warns us of parasocial relationships, infinite scrolling, deepfakes and AI generated content."
-  },
-  {
-    "objectID": "pkd/pkd_02.html#todo",
-    "href": "pkd/pkd_02.html#todo",
-    "title": "Why Philip K. Dick?",
-    "section": "4 TODO",
-    "text": "4 TODO\nIn “Dark Haired Girls”—a collation of letters, notes on dreams and non-fiction that he unsuccessfully tried to publish in 1972, 1974 and 1977, but was published posthumously by his in 1988—Paul Williams, the executor to his literary estate, writes in the introduction:\n\nI wish I could trust you, friend, but in the face of Phil’s persuasiveness, I am not sure I can, so instead I’m going to tell you flat out:\nThis is a tale told by an unreliable narrator, who recognizes his own unreliability and yet at the same time believes everything he says. If you in turn allow yourself to believe uncritically everything he says, you are a damn fool. Watch out. Especially if you think you are not a damn fool, watch out. (dick_dark_TODO?)\n\nTruth, though, is elusive: there are things that cannot be said in plain words and there are things that can contain their own contradiction. There are new things that we perceive as old and old things which we perceive as new. In Dune, Frank Herbert (1920–1986) captured the essence of Lafontaine’s The Oak and the Reed in a single sentence: “That which submits rules” (Herbert 1965). It is when our worlds’ foundations are strongest that they can be shattered, and when they are frail that they survive the storm."
-  },
-  {
-    "objectID": "pkd/pkd_02.html#footnotes",
-    "href": "pkd/pkd_02.html#footnotes",
-    "title": "Why Philip K. Dick?",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nIn a letter to Gregg Rickman dated June 29, 1981 Dick writes:\n\nI saw a short clip of BLADE RUNNER tonight on the Channel Four news, a segment on Douglas Trumbull (who as you know did the special effects). The damn thing terrified me; Trumbull has totally caught the Phil Dick desolated urban environment of tomorrow; it was as if my brain was projecting its worldview onto my TV screen! […] It really freaked me to see that clip of BLADE RUNNER, as you can see by this letter. My God; the world I write about is hell. Literally. And anyone with any sense will recognize it when they see the movie; Trumbull has caught it absolutely. How extraordinary— what genius!! (dick_letters6_TODO?)\n\n↩︎\nEstimate based on a quick, informal research, please do not cite this number. I consulted the Time Magazine, Le Monde’s 100 Books of the Century, The Greatest Books’ Global Literary Canon, the Modern Library’s 100 Best Novels, PBS’s The Great American Read, Pinguin and Random House’s 100 must-read classics, and The Guardian’s “The best novels written in English. Dystopias dominate these lists with Orwell’s 1984, Burgess’ A Clockwork Orange and Huxley’s Brave New World. Philip K. Dick’s Ubik, which I mentioned in my first post makes a few appearances.↩︎\nAlthough the strength of this connection is challenged by Jorge Martins Rosa in his 2008 articles “A Misreading Gone Too Far? Baudrillard Meets Philip K. Dick”: it seems like Baudrillard made a series of mistake in his reading of Dick’s novels, confusing and conflating plots, ignoring fundamental aspects of Dick’s word—such as the phantom twin, see “Who is Philip K. Dick?”, and even mispelling Dick’s name multiple times (Rosa 2008).↩︎\nDick started to produce carbon copies of his letters starting as early as 1964, although many were lost to an alleged burglary in 1971, and then when he left Marin County in early 1972 (dick_letters1974?). It is more precise to say that: it is more precise to say that most of his correspondance post 1972 still exists in the numerous boxes of documents he left behind.↩︎"
   }
 ]
