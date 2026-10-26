@@ -1,0 +1,71 @@
+/* qa-slides.css — minimalist Q&A classes for Quarto Reveal.js */
+
+/* ── QA container ─────────────────────────────────── */
+
+.reveal .qa {
+  position: relative;
+  width: 100%;
+}
+
+/* ── Question / Answer overlay ────────────────────── */
+
+.reveal .qa .question,
+.reveal .qa .answer {
+  padding: 1.5em 2em;
+  border: 1.5px solid rgba(128, 128, 128, 0.25);
+  border-radius: 6px;
+  font-size: 0.95em;
+  line-height: 1.6;
+}
+
+.reveal .qa .question {
+  background: var(--r-background-color, #fff);
+}
+
+.reveal .qa .answer {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  background: var(--r-background-color, #fff);
+  display: flex;
+  align-items: center;
+}
+
+/* ==highlight== → <mark> inside answers */
+.reveal .qa .answer mark {
+  background-color: #facc15;
+  color: inherit;
+  padding: 0.05em 0.3em;
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+/* ── Multiple-choice grid ─────────────────────────── */
+
+.reveal .slides section .qa .choices ol {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.4em 2.5em;
+  padding-left: 0;
+  list-style-position: inside;
+  margin: 0.8em 0;
+}
+
+.reveal .slides section .qa .choices li {
+  margin: 0;
+  padding: 0.3em 0.5em;
+  border-radius: 4px;
+}
+
+/* ── Right answer ─────────────────────────────────── */
+/*
+ * The Lua filter adds Reveal's built-in highlight-green class,
+ * which already keeps opacity:1. We just swap the green-text
+ * effect for a green-background effect.
+ */
+.reveal .slides section .fragment.highlight-green.rightAnswer.visible {
+  color: inherit;
+  background-color: rgba(34, 197, 94, 0.35);
+  padding: 0.1em 0.3em;
+  border-radius: 4px;
+}
