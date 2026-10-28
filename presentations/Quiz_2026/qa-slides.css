@@ -1,4 +1,185 @@
-/* qa-slides.css — minimalist Q&A classes for Quarto Reveal.js */
+/* qa-slides.css — minimalist Garamond theme + Q&A classes for Quarto Reveal.js */
+
+/* ── Global theme ─────────────────────────────────── */
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap');
+
+:root {
+  --r-background-color: #fafafa;
+  --r-main-font: 'EB Garamond', Garamond, 'Times New Roman', serif;
+  --r-main-font-size: 32px;
+  --r-main-color: #2d2d2d;
+  --r-heading-font: 'EB Garamond', Garamond, 'Times New Roman', serif;
+  --r-heading-color: #1a1a1a;
+  --r-heading-font-weight: 600;
+  --r-heading-letter-spacing: -0.01em;
+  --r-link-color: #4a6274;
+  --r-link-color-hover: #2c3e50;
+  --r-selection-background-color: #d1d5db;
+  --r-selection-color: #1a1a1a;
+
+  /* custom tokens */
+  --border: rgba(0, 0, 0, 0.08);
+  --surface: #f3f4f6;
+  --surface-raised: #ffffff;
+  --muted: #6b7280;
+  --accent: #4a6274;
+}
+
+.reveal {
+  font-feature-settings: 'liga' 1, 'kern' 1, 'onum' 1;
+}
+
+/* ── Typography ───────────────────────────────────── */
+
+.reveal h1 { font-size: 2.2em; }
+.reveal h2 { font-size: 1.6em; }
+.reveal h3 { font-size: 1.25em; }
+
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+  line-height: 1.2;
+  margin-bottom: 0.4em;
+}
+
+.reveal p,
+.reveal li {
+  line-height: 1.65;
+}
+
+.reveal code {
+  font-size: 0.85em;
+  background: var(--surface);
+  padding: 0.15em 0.4em;
+  border-radius: 3px;
+}
+
+.reveal blockquote {
+  border-left: 3px solid var(--border);
+  padding-left: 1.2em;
+  color: var(--muted);
+  font-style: italic;
+}
+
+/* ── Horizontal rule ──────────────────────────────── */
+
+.reveal hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 1.5em auto;
+  width: 40%;
+}
+
+/* ── Title slide ──────────────────────────────────── */
+
+.reveal .slides section.quarto-title-block {
+  text-align: left;
+  padding: 2em 2.5em;
+}
+
+.reveal .slides section.quarto-title-block h1,
+.reveal .slides .title {
+  font-size: 2.4em;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 0.35em;
+  margin-bottom: 0.6em;
+}
+
+.reveal .quarto-title-authors {
+  margin-top: 1em;
+}
+
+.reveal .quarto-title-author-name {
+  font-size: 1.1em;
+  font-weight: 500;
+  color: var(--r-main-color);
+}
+
+.reveal .quarto-title-affiliation {
+  font-size: 0.85em;
+  color: var(--muted);
+  font-style: italic;
+}
+
+.reveal .quarto-title-block .date,
+.reveal .quarto-title-block .quarto-title-meta-contents {
+  font-size: 0.85em;
+  color: var(--muted);
+}
+
+/* ── Section header slides ────────────────────────── */
+
+.reveal .slides section[data-background-color] h2 {
+  font-size: 2em;
+  font-weight: 600;
+}
+
+/* ── Slide structure ──────────────────────────────── */
+
+.reveal .slides section {
+  text-align: left;
+  padding: 1.5em 2em;
+}
+
+.reveal .slides section h2 {
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.25em;
+  margin-bottom: 0.6em;
+}
+
+/* ── Lists ────────────────────────────────────────── */
+
+.reveal ul,
+.reveal ol {
+  margin-left: 0.8em;
+}
+
+.reveal li {
+  margin-bottom: 0.3em;
+}
+
+.reveal li::marker {
+  color: var(--muted);
+}
+
+/* ── Tables ───────────────────────────────────────── */
+
+.reveal table {
+  border-collapse: collapse;
+  font-size: 0.85em;
+  margin: 1em 0;
+}
+
+.reveal table th {
+  font-weight: 600;
+  border-bottom: 2px solid var(--border);
+  padding: 0.5em 0.8em;
+  text-align: left;
+}
+
+.reveal table td {
+  border-bottom: 1px solid var(--border);
+  padding: 0.45em 0.8em;
+}
+
+/* ── Images ───────────────────────────────────────── */
+
+.reveal img {
+  border-radius: 4px;
+}
+
+.reveal figure figcaption {
+  font-size: 0.75em;
+  color: var(--muted);
+  margin-top: 0.4em;
+}
+
+/* ══════════════════════════════════════════════════ */
+/* ── Q&A Classes                                  ── */
+/* ══════════════════════════════════════════════════ */
 
 /* ── QA container ─────────────────────────────────── */
 
@@ -12,21 +193,17 @@
 .reveal .qa .question,
 .reveal .qa .answer {
   padding: 1.5em 2em;
-  border: 1.5px solid rgba(128, 128, 128, 0.25);
+  border: 1.5px solid var(--border);
   border-radius: 6px;
+  background: var(--surface-raised);
   font-size: 0.95em;
   line-height: 1.6;
-}
-
-.reveal .qa .question {
-  background: var(--r-background-color, #fff);
 }
 
 .reveal .qa .answer {
   position: absolute;
   inset: 0;
   z-index: 2;
-  background: var(--r-background-color, #fff);
   display: flex;
   align-items: center;
 }
@@ -58,11 +235,7 @@
 }
 
 /* ── Right answer ─────────────────────────────────── */
-/*
- * The Lua filter adds Reveal's built-in highlight-green class,
- * which already keeps opacity:1. We just swap the green-text
- * effect for a green-background effect.
- */
+
 .reveal .slides section .fragment.highlight-green.rightAnswer.visible {
   color: inherit;
   background-color: rgba(34, 197, 94, 0.35);
