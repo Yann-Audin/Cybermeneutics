@@ -3,6 +3,7 @@ title: Quiz de la retraite
 format:
   revealjs:
     css: qa-slides.css
+    scrollable: true
 filters:
   - qa-filter.lua
 from: markdown+mark
@@ -245,6 +246,16 @@ d. le Nouveau-Brunswick
 
 ## Quatrième film
 
-![](Ressources/Films/Film_04.png){width="100%"}
+![](Ressources/Films/Film_04.jpg){width="100%"}
 
 ![](Ressources/Films/Film_04.mp3)
+
+## Cinquième film
+
+![](Ressources/Films/Film_05.png){width="100%"}
+
+![](Ressources/Films/Film_05.mp3)
+
+## Trouvez l'intru
+
+Un de ces cinq films est radicalement des autres, indentifiez le pour 2 points supplémentaires!

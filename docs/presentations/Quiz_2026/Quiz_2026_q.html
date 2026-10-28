@@ -45,6 +45,7 @@
     }
     .reveal .slide:not(.center) {
       height: 100%;
+      overflow-y: auto;
     }
     .reveal .slide.scrollable {
       overflow-y: auto;
@@ -270,7 +271,7 @@
 <h1>Partie 3 - Choix multiples</h1>
 <p><strong>Deux points par bonne réponse!</strong></p>
 </section>
-<section id="première-question" class="slide level2">
+<section id="première-question" class="slide level2 scrollable">
 <h2>Première question</h2>
 <p>Jusqu’en 1899, l’atome (du grec ancien <em>Atomos</em>, indivisible) est considéré comme la plus petite particule élémentaire. C’est la découverte de <em>cette particule subatomique</em> par Sir Joseph John Thomson qui ouvre la porte à la possibilité d’un atome divisible en plus petites particules.</p>
 <div class="qa">
@@ -284,7 +285,7 @@
 </div>
 </div>
 </section>
-<section id="seconde-question" class="slide level2">
+<section id="seconde-question" class="slide level2 scrollable">
 <h2>Seconde question</h2>
 <p>Des dix plus grands producteurs de thé, seulement trois sont situés en dehors de l’Asie. L’Afrique est représentée par le Kenya (troisième position) et l’Ouganda (dixième position). Quel pays des Amériques se place en neuvième position de la production mondiale de thé?</p>
 <div class="qa">
@@ -298,7 +299,7 @@
 </div>
 </div>
 </section>
-<section id="troisième-question" class="slide level2">
+<section id="troisième-question" class="slide level2 scrollable">
 <h2>Troisième question</h2>
 <p>La France est célèbre pour ses manifestations, son vin, son fromage, mais aussi pour son industrie du couteau. Quel type de couteau dans la liste suivante <strong>n’est fameusement pas</strong> français?</p>
 <div class="qa">
@@ -312,7 +313,7 @@
 </div>
 </div>
 </section>
-<section id="quatrième-question" class="slide level2">
+<section id="quatrième-question" class="slide level2 scrollable">
 <h2>Quatrième question</h2>
 <p>Le studio Marvel est connu pour ses films qui mettent en vedette des super héros et super héroïnes et qui fracassent des records de succès au box office. Dans quelle “phase” des films de Marvel sommes nous en date du 28 octobre 2026?</p>
 <div class="qa">
@@ -326,7 +327,7 @@
 </div>
 </div>
 </section>
-<section id="cinquième-question" class="slide level2">
+<section id="cinquième-question" class="slide level2 scrollable">
 <h2>Cinquième question</h2>
 <p>Les pêches sont originaires de Chine qui en est toujours le premier producteur mondial, mais les pêches consommées au Québec viennent surtout des États-Unis et du Canada où elles sont surtout cultivées dans deux provinces, la Colombie-Britannique et…</p>
 <div class="qa">
@@ -363,7 +364,16 @@
 <section id="quatrième-film" class="slide level2">
 <h2>Quatrième film</h2>
 
-<img data-src="Ressources/Films/Film_04.png" style="width:100.0%" class="r-stretch"><p><audio data-src="Ressources/Films/Film_04.mp3" controls=""><a href="Ressources/Films/Film_04.mp3">Audio</a></audio></p>
+<img data-src="Ressources/Films/Film_04.jpg" style="width:100.0%" class="r-stretch"><p><audio data-src="Ressources/Films/Film_04.mp3" controls=""><a href="Ressources/Films/Film_04.mp3">Audio</a></audio></p>
+</section>
+<section id="cinquième-film" class="slide level2">
+<h2>Cinquième film</h2>
+
+<img data-src="Ressources/Films/Film_05.png" style="width:100.0%" class="r-stretch"><p><audio data-src="Ressources/Films/Film_05.mp3" controls=""><a href="Ressources/Films/Film_05.mp3">Audio</a></audio></p>
+</section>
+<section id="trouvez-lintru" class="slide level2">
+<h2>Trouvez l’intru</h2>
+<p>Un de ces cinq films est radicalement des autres, indentifiez le pour 2 points supplémentaires!</p>
 
 
 </section></section>
@@ -669,7 +679,7 @@
       }
         var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
         var mailtoRegex = new RegExp(/^mailto:/);
-          var filterRegex = new RegExp("https:\/\/Yann-Audin\.github\.io\/Cybermeneutics\/");
+          var filterRegex = new RegExp('/' + window.location.host + '/');
         var isInternal = (href) => {
             return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
         }

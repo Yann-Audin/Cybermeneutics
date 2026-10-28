@@ -3,6 +3,7 @@ title: Quiz de la retraite
 format:
   revealjs:
     css: qa-slides.css
+    scrollable: true
 filters:
   - qa-filter.lua
 from: markdown+mark
@@ -356,10 +357,43 @@ d. le Nouveau-Brunswick
 - Décennie : 
 :::
 :::{.answer .fragment}
+- Titre : Suspiria
+- Décennie : 70 (1977)
+:::
+::::
+
+## Cinquième film
+
+::::{.columns}
+:::{.column}
+![](Ressources/Films/Film_04.png){width="100%"}
+:::
+:::{.column}
+![](Ressources/Films/Film_04.mp3)
+:::
+::::
+
+::::{.qa}
+:::{.question}
+- Titre : 
+- Décennie : 
+:::
+:::{.answer .fragment}
 - Titre : The Wicker Man
 - Décennie : 70 (1973)
 :::
 ::::
+
+
+## Trouvez l'intru
+
+::::{.qa}
+:::{.question}
+Un de ces cinq films est radicalement des autres, indentifiez le pour 2 points supplémentaires!
+:::
+:::{.answer .fragment}
+Il s'agit du quatrième film, Suspiria (1977)!
+
 
 ## Finaliser les points (partie 1)
 
@@ -408,5 +442,9 @@ d. le Nouveau-Brunswick
   - Titre : Little Shop of Horrors (2 pts)
   - Décennie : 1986 -> 80 (1 pt)
 - Film 4 : 
+  - Titre : Suspiria (2 pts)
+  - Décennie : 1977 -> 70 (1 pt)
+- Film 5 : 
   - Titre : The Wicker Man (2 pts)
   - Décennie : 1973 -> 70 (1 pt)
+- L'intru : Suspiria (2 pts)
