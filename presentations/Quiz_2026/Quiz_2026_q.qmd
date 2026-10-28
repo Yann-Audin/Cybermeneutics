@@ -10,7 +10,7 @@ from: markdown+mark
 
 # Partie 1 - Hmmm, en fait...
 
-## Quelques affirmations qui sont *presque* correctes. 
+...Quelques affirmations qui sont *presque* correctes. 
 
 **Un point pour trouver l'erreur et deux points pour la corriger!**
 
@@ -83,8 +83,6 @@ Le 1er juillet 1867, la ratification de l'Acte de l'Amérique du Nord britanniqu
 
 # Partie 2 - Interlude musicale
 
-## Identification de morceaux musicaux
-
 **Un point pour l'artiste, un point pour le titre!**
 
 (Portez attention au thème commun pour deux points boni!)
@@ -152,9 +150,7 @@ Pour deux points, quel est le thème de ces cinq œuvres et artistes?
 :::
 ::::
 
-# Partie 3 - A, B, C ou D?
-
-## Choix multiples
+# Partie 3 - Choix multiples
 
 **Deux points par bonne réponse!**
 
@@ -225,9 +221,7 @@ d. le Nouveau-Brunswick
 :::
 ::::
 
-# Partie 4 - Films d'horreur
-
-## 
+# Partie 4 - Films d'horreur/Halloween musicaux
 
 **Deux points pour le titre, un point pour la décennie!**
 
@@ -237,59 +231,11 @@ d. le Nouveau-Brunswick
 
 ![](Ressources/Films/Film_01.mp3)
 
-<!--
-
-::::{.columns}
-:::{.column}
-![](Ressources/Films/Film_01.png){width="100%"}
-:::
-:::{.column}
-![](Ressources/Films/Film_01.mp3)
-:::
-::::
-
-::::{.qa}
-:::{.question}
-- Titre : 
-- Décennie : 
-:::
-:::{.answer .fragment}
-- Titre : The Nightmare Before Christmas
-- Décennie : 90 (1993)
-:::
-::::
-
--->
-
 ## Deuxième film
 
 ![](Ressources/Films/Film_02.png){width="100%"}
 
 ![](Ressources/Films/Film_02.mp3)
-
-<!--
-
-::::{.columns}
-:::{.column}
-![](Ressources/Films/Film_02.png){width="100%"}
-:::
-:::{.column}
-![](Ressources/Films/Film_02.mp3)
-:::
-::::
-
-::::{.qa}
-:::{.question}
-- Titre : 
-- Décennie : 
-:::
-:::{.answer .fragment}
-- Titre : The Rocky Horror Picture Show
-- Décennie : 70 (1975)
-:::
-::::
-
--->
 
 ## Troisième film
 
@@ -297,61 +243,8 @@ d. le Nouveau-Brunswick
 
 ![](Ressources/Films/Film_03.mp3)
 
-<!--
-
-::::{.columns}
-:::{.column}
-![](Ressources/Films/Film_03.png){width="100%"}
-:::
-:::{.column}
-![](Ressources/Films/Film_03.mp3)
-:::
-::::
-
-::::{.qa}
-:::{.question}
-- Titre : 
-- Décennie : 
-:::
-:::{.answer .fragment}
-- Titre : Little Shop of Horrors
-- Décennie : 80 (1986)
-:::
-::::
-
--->
-
 ## Quatrième film
 
 ![](Ressources/Films/Film_04.png){width="100%"}
 
 ![](Ressources/Films/Film_04.mp3)
-
-<!--
-
-::::{.columns}
-:::{.column}
-![](Ressources/Films/Film_04.png){width="100%"}
-:::
-:::{.column}
-![](Ressources/Films/Film_04.mp3)
-:::
-::::
-
-::::{.qa}
-:::{.question}
-- Titre : 
-- Décennie : 
-:::
-:::{.answer .fragment}
-- Titre : The Wicker Man
-- Décennie : 70 (1973)
-:::
-::::
-
--->
-
-## Finaliser les points
-
-
-

@@ -10,7 +10,7 @@ from: markdown+mark
 
 # Partie 1 - Hmmm, en fait...
 
-## Quelques affirmations qui sont *presque* correctes. 
+...Quelques affirmations qui sont *presque* correctes. 
 
 **Un point pour trouver l'erreur et deux points pour la corriger!**
 
@@ -108,8 +108,6 @@ Le 1er juillet 1867, la ratification de l'Acte de l'Amérique du Nord britanniqu
 
 # Partie 2 - Interlude musicale
 
-## Identification de morceaux musicaux
-
 **Un point pour l'artiste, un point pour le titre!**
 
 (Portez attention au thème commun pour deux points boni!)
@@ -200,9 +198,7 @@ Tous ces groupes et chanteur·euses sont Montréalais·es!
 :::
 ::::
 
-# Partie 3 - A, B, C ou D?
-
-## Choix multiples
+# Partie 3 - Choix multiples
 
 **Deux points par bonne réponse!**
 
@@ -273,9 +269,7 @@ d. le Nouveau-Brunswick
 :::
 ::::
 
-# Partie 4 - Films d'horreur
-
-## 
+# Partie 4 - Films d'horreur/Halloween musicaux
 
 **Deux points pour le titre, un point pour la décennie!**
 
@@ -367,7 +361,52 @@ d. le Nouveau-Brunswick
 :::
 ::::
 
-## Finaliser les points
+## Finaliser les points (partie 1)
 
+- Affirmation 1 : ~~Labrie~~ (1 pt) Lanthier (2 pts)
+- Affirmation 2 : ~~d'origine française *Les Colons de Catane*~~ (1 pt) d'origine allemande *Die Siedler von Catan* (2 pts)
+- Affirmation 3 : ~~buses à épaulettes~~ (2 pts) faucons pélerins (1 pt)
+- Affirmation 4 : ~~milliards~~ (1 pt) million (2 pts)
+- Affirmation 5 : ~~L'Île du Prince-Édouard devient la cinquième province canadienne en 1869, suivie par~~ (1 pt) Pourtant, l'Île-du-Prince-Édouard ne devient une province canadienne qu'en 1873, après (2 pts)
 
+## Finaliser les points (partie 1)
 
+- Interlude 1 : 
+  - Titre : Coton ouaté (1 pt)
+  - Artiste : Bleu Jeans Bleu (1 pt)
+- Interlude 2 :
+  - Titre : What's Up Scooby Doo? (1 pt)
+  - Artiste : Simple Plan (1 pt)
+- Interlude 3 : 
+  - Titre : Adieu (1 pt)
+  - Artiste : Coeur de pirate (1 pt)
+- Interlude 4 :
+  - Titre : Hallelujah (1 pt)
+  - Artiste : Leonard Cohen (1 pt)
+- Interlude 5 :
+  - Titre : Full Circle (1 pt)
+  - Artiste : Half Moon Run (1 pt)
+- Bonus : Tous ces groupes et chanteur·euses sont Montréalais·es! (2 pt)
+
+## Finaliser les points (partie 3)
+
+- Question 1 : d. électron (2 pts)
+- Question 2 : b. Argentine (2 pts)
+- Question 3 : a. Victorinox (2 pts)
+- Question 4 : c. Phase 6 (2 pts)
+- Question 5 : c. l'Ontario (2 pts)
+
+## Finaliser les points (partie 4)
+
+- Film 1 : 
+  - Titre : The Nightmare Before Christmas (2 pts)
+  - Décennie : 1993 -> 90 (1 pt)
+- Film 2 : 
+  - Titre : The Rocky Horror Picture Show (2 pts)
+  - Décennie : 1975 -> 70 (1 pt)
+- Film 3 : 
+  - Titre : Little Shop of Horrors (2 pts)
+  - Décennie : 1986 -> 80 (1 pt)
+- Film 4 : 
+  - Titre : The Wicker Man (2 pts)
+  - Décennie : 1973 -> 70 (1 pt)
