@@ -190,7 +190,7 @@ La France est célèbre pour ses manifestations, son vin, son fromage, mais auss
 ::::{.qa}
 :::{.choices}
 a. Victorinox
-b. Laguile
+b. Laguiole
 c. Douk-douk
 d. Opinel
 :::

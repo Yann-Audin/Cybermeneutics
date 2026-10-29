@@ -238,7 +238,7 @@ La France est célèbre pour ses manifestations, son vin, son fromage, mais auss
 ::::{.qa}
 :::{.choices}
 a. [Victorinox]{.rightAnswer}
-b. Laguile
+b. Laguiole
 c. Douk-douk
 d. Opinel
 :::
@@ -344,7 +344,7 @@ d. le Nouveau-Brunswick
 
 ::::{.columns}
 :::{.column}
-![](Ressources/Films/Film_04.png){width="100%"}
+![](Ressources/Films/Film_04.jpg){width="100%"}
 :::
 :::{.column}
 ![](Ressources/Films/Film_04.mp3)
@@ -366,10 +366,10 @@ d. le Nouveau-Brunswick
 
 ::::{.columns}
 :::{.column}
-![](Ressources/Films/Film_04.png){width="100%"}
+![](Ressources/Films/Film_05.png){width="100%"}
 :::
 :::{.column}
-![](Ressources/Films/Film_04.mp3)
+![](Ressources/Films/Film_05.mp3)
 :::
 ::::
 
@@ -393,6 +393,8 @@ Un de ces cinq films est radicalement différents des autres, indentifiez le pou
 :::
 :::{.answer .fragment}
 Il s'agit du quatrième film, Suspiria (1977)!
+:::
+::::
 
 
 ## Finaliser les points (partie 1)
